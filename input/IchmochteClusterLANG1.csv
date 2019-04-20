@@ -1,0 +1,966 @@
+id	prompt	waveId	transcription	recResult	language	meaning	edition	category
+7	Sag: Ich möchte mit Kreditkarte bezahlen	user-8_2014-05-11_17-57-14_utt_015	ich*v möchte*v mit*v kreditkarte*v bezahlen*v ggg can i pay by credit card	the five can i pay by credit card	1	1	ST2	A
+71	Sag: Ich möchte mit Postkarte bezahlen	user-260_2014-12-17_06-50-54_utt_010	i want to pay with post card	i want pay with post card	1	1	ST2	A
+72	Sag: Ich möchte mit Postkarte bezahlen	user-260_2014-12-17_06-50-54_utt_011	i would like to pay by post card	i pay with card pay by post card	1	1	ST2	A
+91	Sag: Ich möchte um 20 Uhr morgen abreisen	user-283_2014-11-27_06-44-07_utt_016	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST2	A
+92	Sag: Ich möchte um 20 Uhr morgen abreisen	user-283_2014-11-27_06-44-07_utt_017	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST2	A
+93	Sag: Ich möchte um 20 Uhr morgen abreisen	user-283_2014-11-27_06-44-07_utt_018	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST2	A
+145	Sag: Ich möchte mit Dollars bezahlen	user-270_2014-12-16_08-29-47_utt_013	i want to pay with dollars	i want to pay with dollars	1	1	ST2	A
+146	Sag: Ich möchte mit Dollars bezahlen	user-270_2014-12-16_08-29-47_utt_014	i want to pay with dollars	i want to pay with dollars	1	1	ST2	A
+147	Sag: Ich möchte mit Dollars bezahlen	user-270_2014-12-16_08-29-47_utt_015	can i pay with dollars	can i pay with dollars	1	1	ST2	A
+153	Sag: Ich möchte am Freitagmorgen abreisen	user-270_2014-12-16_16-54-48_utt_006	i would like to leave on friday morning	i would like leave on friday morning	1	1	ST2	A
+163	Sag: Ich möchte mit Kreditkarte bezahlen	user-270_2014-12-16_16-54-48_utt_020	can i pay by credit card	can i pay by credit card	1	1	ST2	A
+184	Sag: Ich möchte mit Visa bezahlen	user-270_2014-12-16_16-54-48_utt_046	can i pay with visa	can i pay with visa	1	1	ST2	A
+221	Sag: Ich möchte mit Mastercard bezahlen	user-280_2014-11-27_06-57-09_utt_008	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+244	Sag: Ich möchte morgen abreisen	user-281_2014-12-09_15-31-48_utt_019	i would like to leave tomorrow	i would like to leave tomorrow	1	1	ST2	A
+253	Sag: Ich möchte mit Schweizer Franken bezahlen	user-281_2014-12-09_15-31-48_utt_033	i would like to pay with swiss francs	i would like to pay with swiss francs	1	1	ST2	A
+256	Sag: Ich möchte morgen gehen	user-281_2014-12-09_15-31-48_utt_038	i would like to go tomorrow	i would like to go tomorrow	1	1	ST2	A
+259	Sag: Ich möchte in der siebten Reihe sitzen	user-281_2014-12-09_15-31-48_utt_041	i would like to sit in the seventh row	i would like to sit in the seventh row	1	1	ST2	A
+312	Sag: Ich möchte mit Postkarte bezahlen	user-289_2014-11-27_06-45-36_utt_030	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+319	Sag: Ich möchte morgen abreisen	user-282_2014-11-27_06-53-16_utt_005	i would like to leave tomorrow	i would like to leave tomorrow	1	1	ST2	A
+326	Sag: Ich möchte mit Mastercard bezahlen	user-282_2014-11-27_06-53-16_utt_017	i want to pay with mastercard please	i want to pay with mastercard please	1	1	ST2	A
+327	Sag: Ich möchte mit Mastercard bezahlen	user-282_2014-11-27_06-53-16_utt_018	can i pay by mastercard	can i pay by mastercard	1	1	ST2	A
+330	Sag: Ich möchte um 15 Uhr morgen abreisen	user-282_2014-11-30_20-35-31_utt_003	i want to leave at three pm tomorrow	i want to leave at three pm tomorrow	1	1	ST2	A
+337	Sag: Ich möchte mit Visa bezahlen	user-282_2014-11-30_20-35-31_utt_014	can i pay with visa	can i pay with visa	1	1	ST2	A
+345	Sag: Ich möchte mit Mastercard bezahlen	user-282_2014-12-16_08-27-04_utt_008	can i pay by mastercard	can i pay by mastercard	1	1	ST2	A
+347	Sag: Ich möchte mit Euros bezahlen	user-282_2014-12-16_08-27-04_utt_010	can i pay with euros	can i pay with euros	1	1	ST2	A
+364	Sag: Ich möchte mit Mastercard bezahlen	user-23_2014-11-03_09-47-09_utt_022	i would like to pay*z by mastercard	i would like to pay by mastercard	1	1	ST2	A
+382	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-10-29_13-11-30_utt_013	i want to pay with mastercard	i want to pay with mastercard	1	1	ST2	A
+384	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-10-29_13-11-30_utt_015	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+406	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-05_12-33-21_utt_010	can i pay by post card	can i pay by post card	1	1	ST2	A
+410	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-05_12-33-21_utt_020	can i pay with post card	can i pay with post card	1	1	ST2	A
+412	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-05_12-33-21_utt_022	i would like to pay by post card	i would like pay with post card	1	1	ST2	A
+418	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-05_12-33-21_utt_032	i would like to pay by credit card	i would like to pay by credit card	1	1	ST2	A
+428	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-05_12-33-21_utt_050	i would like to pay by credit card	i would like to pay by credit card	1	1	ST2	A
+433	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-05_12-58-17_utt_008	i would like to pay by credit card	i would like to pay by credit card	1	1	ST2	A
+439	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-05_12-58-17_utt_018	i would like to pay by visa	i would like to pay by visa	1	1	ST2	A
+444	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-05_12-58-17_utt_027	can i pay by post card	can i pay by post card	1	1	ST2	A
+455	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-05_12-58-17_utt_043	i want to pay by credit card	i want to pay by credit card	1	1	ST2	A
+456	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-05_12-58-17_utt_044	i'd like to pay by credit card	i would like to pay by credit card	1	1	ST2	A
+465	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-05_12-58-17_utt_058	i'd like to pay by mastercard	i'd like to pay by mastercard	1	1	ST2	A
+470	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-05_12-58-17_utt_065	i'd like to pay by visa	i'd like to pay by visa	1	1	ST2	A
+471	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-05_12-58-17_utt_066	can i pay by visa	can i pay with visa	1	1	ST2	A
+472	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-05_12-58-17_utt_067	i'd like to pay by visa	i would like to pay by visa	1	1	ST2	A
+476	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-05_12-58-17_utt_073	i'd like to pay by post card	i would like to pay with post card	1	1	ST2	A
+480	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-05_12-58-17_utt_079	can i pay by post card	can i pay by post card	1	1	ST2	A
+487	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-05_12-58-17_utt_088	i'd like to pay by credit card	i'd like to pay by credit card	1	1	ST2	A
+489	Sag: Ich möchte mit Euros bezahlen	user-45_2014-11-05_12-58-17_utt_090	i wish to pay with euros	i wish to pay with euro	1	1	ST2	A
+490	Sag: Ich möchte mit Euros bezahlen	user-45_2014-11-05_12-58-17_utt_091	can i pay with euros	can i need to go	1	1	ST2	A
+494	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-05_12-58-17_utt_100	i'd like to pay by credit card	i'd like to pay with credit card	1	1	ST2	A
+495	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-05_12-58-17_utt_101	i would like to pay by credit card	i would like to pay by credit card	1	1	ST2	A
+496	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-05_12-58-17_utt_102	can i pay by credit card	can i pay with credit card	1	1	ST2	A
+505	Sag: Ich möchte in der siebten Reihe sitzen	user-45_2014-11-05_12-58-17_utt_114	i would like to sit in the seventh row	i would like to sit in the seven row	1	1	ST2	A
+531	Sag: Ich möchte am Samstagmorgen abreisen	user-45_2014-11-06_19-16-32_utt_010	i would like to leave on saturday morning	i would like to leave on saturday morning	1	1	ST2	A
+536	Sag: Ich möchte am Dienstag abreisen	user-45_2014-11-06_19-16-32_utt_017	i'd like to leave on tuesday	i'd like to leave on have tuesday	1	1	ST2	A
+540	Sag: Ich möchte am Donnerstagmorgen abreisen	user-45_2014-11-06_19-16-32_utt_023	i would like to leave on thursday morning	i would like to leave on thursday morning	1	1	ST2	A
+546	Sag: Ich möchte am Donnerstagnachmittag abreisen	user-45_2014-11-06_19-16-32_utt_034	i want to leave on thursday afternoon	i want to leave on thursday afternoon	1	1	ST2	A
+552	Sag: Ich möchte am Donnerstagnachmittag abreisen	user-45_2014-11-06_19-16-32_utt_043	i want to leave on thursday afternoon	i want to leave on thursday afternoon	1	1	ST2	A
+556	Sag: Ich möchte am Donnerstagnachmittag abreisen	user-45_2014-11-06_19-16-32_utt_050	i'd like to leave on thursday afternoon	i'd like to leave on thursday afternoon	1	1	ST2	A
+565	Sag: Ich möchte am Freitagmorgen abreisen	user-45_2014-11-06_19-16-32_utt_068	i want to leave on friday morning	i want to leave on friday morning	1	1	ST2	A
+569	Sag: Ich möchte am Montagnachmittag abreisen	user-45_2014-11-06_19-16-32_utt_074	i want to leave on monday afternoon	i want to leave on monday afternoon	1	1	ST2	A
+573	Sag: Ich möchte am Donnerstagnachmittag abreisen	user-45_2014-11-06_19-16-32_utt_080	i want to leave on thursday afternoon	i want to leave on thursday afternoon	1	1	ST2	A
+593	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-06_19-16-32_utt_105	i'd like to pay by credit card	i'd like to pay by credit card	1	1	ST2	A
+594	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-06_19-16-32_utt_106	i'd like to pay by credit card	i would like to pay by credit card	1	1	ST2	A
+608	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-08_19-38-17_utt_017	i'd like to pay by mastercard	i would like to pay by mastercard	1	1	ST2	A
+629	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-08_19-38-17_utt_044	i'd like to pay by mastercard	i'd like to pay by mastercard	1	1	ST2	A
+630	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-08_19-38-17_utt_045	i'd like to pay by mastercard	i would like to pay by mastercard	1	1	ST2	A
+631	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-08_19-38-17_utt_046	can i pay by mastercard	can i pay by mastercard	1	1	ST2	A
+640	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-08_19-38-17_utt_057	i'd like to pay by credit card	i'd like to pay by credit card	1	1	ST2	A
+720	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-09_11-28-41_utt_023	i'd like to pay by post card	i'd like to pay by post card	1	1	ST2	A
+731	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-09_11-28-41_utt_038	i'd like to pay by post card	i'd like to pay by post card	1	1	ST2	A
+740	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-09_11-28-41_utt_050	i'd like to pay by post card	i'd like to pay by post card	1	1	ST2	A
+749	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-09_11-28-41_utt_061	i'd like to pay by mastercard	i'd like to pay by mastercard	1	1	ST2	A
+760	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-09_11-28-41_utt_076	i'd like to pay by credit card	i'd like to pay by credit card	1	1	ST2	A
+777	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-19_11-17-56_utt_008	can i pay by post card	can i pay by post card	1	1	ST2	A
+784	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-19_11-17-56_utt_019	i'd like to pay by post card	i'd like to pay by post card	1	1	ST2	A
+802	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-19_11-17-56_utt_067	can i pay by mastercard	can i pay by mastercard	1	1	ST2	A
+811	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-19_11-17-56_utt_081	can i pay by post card	can i pay by post card	1	1	ST2	A
+821	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-19_11-50-52_utt_008	can i pay by mastercard	can i pay by mastercard	1	1	ST2	A
+823	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-19_11-50-52_utt_010	can i pay by mastercard	can i pay by mastercard	1	1	ST2	A
+833	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-19_11-50-52_utt_022	can i pay by credit card	where can i pay by credit card	1	1	ST2	A
+837	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-19_11-50-52_utt_029	can i pay by post card	can i pay with post card	1	1	ST2	A
+863	Sag: Ich möchte am Freitagabend gehen	user-45_2014-11-19_11-50-52_utt_065	i'd like to go on friday evening	i would like to go on friday evening	1	1	ST2	A
+866	Sag: Ich möchte in der ersten Reihe sitzen	user-45_2014-11-19_11-50-52_utt_068	i want to sit in the front row	i want to sit in the from row	1	1	ST2	A
+867	Sag: Ich möchte in der ersten Reihe sitzen	user-45_2014-11-19_11-50-52_utt_069	i want to sit in the front row	i want to sit in the second row	1	1	ST2	A
+911	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-19_11-50-52_utt_128	can i pay by mastercard	can i pay with mastercard	1	1	ST2	A
+912	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-19_11-50-52_utt_129	i'd like to pay by mastercard	i'm going to tuesday mastercard	1	1	ST2	A
+943	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-19_11-50-52_utt_168	i'd like to pay by mastercard	i'd like to pay by mastercard	1	1	ST2	A
+952	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-19_11-50-52_utt_182	i'd like to pay by credit card	i'd like to pay by credit card	1	1	ST2	A
+962	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-19_11-50-52_utt_196	i'd like to pay by credit card	i'd like to pay by credit card	1	1	ST2	A
+972	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-19_11-50-52_utt_210	can i pay by post card	can i pay with post card	1	1	ST2	A
+981	Sag: Ich möchte nächste Woche abreisen	user-45_2014-11-19_11-50-52_utt_223	i want to leave next week	i want to leave next room	1	1	ST2	A
+982	Sag: Ich möchte nächste Woche abreisen	user-45_2014-11-19_11-50-52_utt_224	i want to leave next week	i want to leave next room	1	1	ST2	A
+1001	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-19_11-50-52_utt_251	can i pay by credit card	can i pay by credit card	1	1	ST2	A
+1004	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-19_11-50-52_utt_256	can i pay by visa	can i pay by visa	1	1	ST2	A
+1005	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-19_11-50-52_utt_257	i'd like to pay by visa	i'd like to pay by visa	1	1	ST2	A
+1006	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-19_11-50-52_utt_258	i'd like to pay by visa	i'd like to pay with visa	1	1	ST2	A
+1008	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-19_11-50-52_utt_262	i'd like to pay by mastercard	i'd like to pay by mastercard	1	1	ST2	A
+1011	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-11-19_11-50-52_utt_267	i'd like to pay by mastercard	i'd like to pay by mastercard	1	1	ST2	A
+1014	Sag: Ich möchte mit Euros bezahlen	user-45_2014-11-19_11-50-52_utt_270	i'd like to pay with euros	i'd like to pay with euros	1	1	ST2	A
+1030	Sag: Ich möchte in der ersten Reihe sitzen	user-45_2014-11-19_11-50-52_utt_292	i want to sit in the first row	i want to sit in the first boots	1	1	ST2	A
+1048	Sag: Ich möchte in der vierten Reihe sitzen	user-45_2014-11-19_11-50-52_utt_316	i'd like to sit in the fourth row*z	i'd like to sit in the card blue	1	1	ST2	A
+1068	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-19_11-50-52_utt_341	i'd like to pay by credit card	i'd like to pay by credit card	1	1	ST2	A
+1084	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-19_11-50-52_utt_361	i'd like to pay by visa	i'd like to pay by visa	1	1	ST2	A
+1096	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-19_11-50-52_utt_376	i'd like to pay by post card	i'd like to pay by post card	1	1	ST2	A
+1108	Sag: Ich möchte mit Kreditkarte bezahlen	user-45_2014-11-19_11-50-52_utt_391	i'd like to pay by credit card	i'd like to pay with credit card	1	1	ST2	A
+1170	Sag: Ich möchte am Samstagnachmittag abreisen	user-45_2014-11-19_16-32-57_utt_003	i want to leave on saturday afternoon	i want to leave on saturday afternoon	1	1	ST2	A
+1174	Sag: Ich möchte am Sonntag abreisen	user-45_2014-11-19_16-32-57_utt_010	i'd like to leave on sunday	i would like to leave on sunday	1	1	ST2	A
+1192	Sag: Ich möchte um 15 Uhr morgen abreisen	user-45_2014-11-19_16-32-57_utt_036	i'd like to leave at three o'clock tomorrow	i'd like to leave at eight o'clock tomorrow	1	1	ST2	A
+1230	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-19_16-32-57_utt_090	i'd like to pay by visa	i'd like to pay by visa	1	1	ST2	A
+1232	Sag: Ich möchte mit Postkarte bezahlen	user-45_2014-11-19_16-32-57_utt_095	i'd like to pay by post card	i'd like to pay with post card	1	1	ST2	A
+1269	Sag: Ich möchte mit Visa bezahlen	user-46_2014-10-29_15-43-47_utt_023	can i pay with visa*z	can i pay with visa	1	1	ST2	A
+1290	Sag: Ich möchte mit Postkarte bezahlen	user-46_2014-11-09_13-24-17_utt_016	i would like to pay by post card	i would like to pay by post card	1	1	ST2	A
+1314	Sag: Ich möchte mit Visa bezahlen	user-46_2014-11-09_13-24-17_utt_050	can i pay with visa	can i pay with visa	1	1	ST2	A
+1317	Sag: Ich möchte mit Dollars bezahlen	user-46_2014-11-09_13-24-17_utt_055	i want to pay with dollars	i want to pay with dollars	1	1	ST2	A
+1319	Sag: Ich möchte mit Dollars bezahlen	user-46_2014-11-09_13-24-17_utt_057	can i pay with dollars	can i pay with dollars	1	1	ST2	A
+1322	Sag: Ich möchte heute Abend gehen	user-46_2014-11-09_13-24-17_utt_062	i want to go this evening	i want to go this evening	1	1	ST2	A
+1324	Sag: Ich möchte in der fünften Reihe sitzen	user-46_2014-11-09_13-24-17_utt_065	i would like to sit in the fifth row	i would like to sit in the fifth row	1	1	ST2	A
+1330	Sag: Ich möchte am Donnerstagabend gehen	user-46_2014-11-09_13-24-17_utt_076	i would like to go on thursday evening	i would like to go on thursday evening	1	1	ST2	A
+1335	Sag: Ich möchte in der ersten Reihe sitzen	user-46_2014-11-09_13-24-17_utt_082	i want to sit in the first row	i want to sit in the first row	1	1	ST2	A
+1347	Sag: Ich möchte mit Dollars bezahlen	user-46_2014-11-09_13-24-17_utt_100	i want to pay with dollars	i want to pay with dollars	1	1	ST2	A
+1348	Sag: Ich möchte mit Dollars bezahlen	user-46_2014-11-09_13-24-17_utt_101	can i pay with dollars	can i pay with dollars	1	1	ST2	A
+1359	Sag: Ich möchte mit Visa bezahlen	user-46_2014-11-09_13-24-17_utt_118	can i pay with visa	can i pay with visa	1	1	ST2	A
+1360	Sag: Ich möchte mit Euros bezahlen	user-46_2014-11-09_13-24-17_utt_119	can i pay with euros	can i pay with euros	1	1	ST2	A
+1393	Sag: Ich möchte am Freitag abreisen	user-46_2014-11-09_13-24-17_utt_165	i would like to leave on friday	i would like to leave on friday	1	1	ST2	A
+1448	Sag: Ich möchte am Donnerstagabend abreisen	user-46_2014-11-11_14-37-09_utt_018	i would like to leave on thursday evening	i would like to leave on thursday evening	1	1	ST2	A
+1454	Sag: Ich möchte am Mittwochabend gehen	user-46_2014-11-11_14-37-09_utt_026	i would like to go on wednesday*z evening	i would like to go on wednesday evening	1	1	ST2	A
+1458	Sag: Ich möchte in der zehnten Reihe sitzen	user-46_2014-11-11_14-37-09_utt_030	i would like to sit in the tenth row	i would like to sit in the tenth row	1	1	ST2	A
+1463	Sag: Ich möchte mit Visa bezahlen	user-46_2014-11-11_14-37-09_utt_037	can i pay with visa*z	can i pay with visa	1	1	ST2	A
+1465	Sag: Ich möchte mit Mastercard bezahlen	user-46_2014-11-11_14-37-09_utt_041	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+1467	Sag: Ich möchte mit Mastercard bezahlen	user-46_2014-11-11_14-37-09_utt_045	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+1469	Sag: Ich möchte am Montagmorgen abreisen	user-46_2014-11-11_14-37-09_utt_048	i would like to leave uh monday morning	i would like to leave at monday morning	1	1	ST2	A
+1473	Sag: Ich möchte um 21 Uhr morgen abreisen	user-46_2014-11-11_14-37-09_utt_056	i would like to leave tomorrow at nine p m	i would like to leave tomorrow at nine pm	1	1	ST2	A
+1495	Sag: Ich möchte mit Visa bezahlen	user-48_2014-11-09_11-22-37_utt_007	can i pay with visa	can i pay with visa	1	1	ST2	A
+1503	Sag: Ich möchte mit Mastercard bezahlen	user-48_2014-11-09_11-22-37_utt_021	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+1513	Sag: Ich möchte morgen abreisen	user-48_2014-11-09_11-22-37_utt_040	i would like to leave tomorrow	i would like to leave tomorrow	1	1	ST2	A
+1517	Sag: Ich möchte um 21 Uhr morgen abreisen	user-48_2014-11-09_11-22-37_utt_046	i want to leave at nine o'clock tomorrow	i want to leave at nine o'clock tomorrow	1	1	ST2	A
+1542	Sag: Ich möchte mit Mastercard bezahlen	user-48_2014-11-14_15-39-25_utt_009	i'd like to pay with mastercard	i'd like to pay with mastercard	1	1	ST2	A
+1551	Sag: Ich möchte mit Kreditkarte bezahlen	user-48_2014-11-14_15-39-25_utt_020	can i pay by credit card	can i pay by credit card	1	1	ST2	A
+1557	Sag: Ich möchte heute Abend gehen	user-48_2014-11-14_15-39-25_utt_036	i want to go this evening	i want to go this evening	1	1	ST2	A
+1560	Sag: Ich möchte in der achten Reihe sitzen	user-48_2014-11-14_15-39-25_utt_039	i want to sit in the eighth row	i want to sit in the eighth row	1	1	ST2	A
+1574	Sag: Ich möchte am Samstagabend abreisen	user-49_2014-11-02_17-58-17_utt_026	i would like to leave on saturday evening*z	i would like to leave on saturday evening	1	1	ST2	A
+1580	Sag: Ich möchte am Samstagabend abreisen	user-50_2014-11-11_16-10-10_utt_005	i would like to leave on saturday evening	i would like to leave on saturday evening	1	1	ST2	A
+1586	Sag: Ich möchte mit Mastercard bezahlen	user-50_2014-11-11_16-10-10_utt_013	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+1587	Sag: Ich möchte mit Mastercard bezahlen	user-50_2014-11-11_16-10-10_utt_014	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+1596	Sag: Ich möchte in der dritten Reihe sitzen	user-50_2014-11-11_16-10-10_utt_025	i want to sit in the third row	i want to sit in the fourth row	1	1	ST2	A
+1608	Sag: Ich möchte mit Postkarte bezahlen	user-50_2014-11-11_16-10-10_utt_039	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+1622	Sag: Ich möchte mit Postkarte bezahlen	user-50_2014-11-11_16-10-10_utt_063	i w*a want to pay with post card	i want to pay with post card	1	1	ST2	A
+1623	Sag: Ich möchte mit Postkarte bezahlen	user-50_2014-11-11_16-10-10_utt_064	i would like to pay by post card	i would like to pay by post card	1	1	ST2	A
+1625	Sag: Ich möchte mit Euros bezahlen	user-50_2014-11-11_16-10-10_utt_066	can i pay with euros	can i pay with euros	1	1	ST2	A
+1644	Sag: Ich möchte mit Kreditkarte bezahlen	user-51_2014-11-10_16-11-09_utt_010	can i pay by credit card	can i pay by credit card	1	1	ST2	A
+1658	Sag: Ich möchte mit Kreditkarte bezahlen	user-51_2014-11-10_16-11-09_utt_032	can i pay by credit card please	can i pay by credit card please	1	1	ST2	A
+1673	Sag: Ich möchte am Dienstagnachmittag abreisen	user-51_2014-11-10_16-11-09_utt_057	i would like to leave on tuesday afternoon	i would like to leave on tuesday afternoon	1	1	ST2	A
+1683	Sag: Ich möchte am Mittwochmorgen abreisen	user-51_2014-11-10_16-11-09_utt_072	i want to leave on wednesday morning	i want to leave on wednesday morning	1	1	ST2	A
+1687	Sag: Ich möchte morgen abreisen	user-51_2014-11-10_16-11-09_utt_079	i would like to leave tomorrow	i would like to leave tomorrow	1	1	ST2	A
+1733	Sag: Ich möchte am Mittwochabend gehen	user-51_2014-11-10_16-11-09_utt_142	i would like to go on wednesday evening	i would like to go on wednesday evening	1	1	ST2	A
+1751	Sag: Ich möchte mit Postkarte bezahlen	user-51_2014-11-10_16-11-09_utt_163	i would like to pay by post*z card	i would like to pay by post card	1	1	ST2	A
+1807	Sag: Ich möchte mit Visa bezahlen	user-51_2014-11-16_15-47-21_utt_005	can i pay by visa	can i pay by visa	1	1	ST2	A
+1891	Sag: Ich möchte mit Kreditkarte bezahlen	user-51_2014-11-16_15-54-14_utt_111	i would like to pay by credit card	i would like pay by credit card	1	1	ST2	A
+1933	Sag: Ich möchte mit Mastercard bezahlen	user-56_2014-11-06_16-32-06_utt_019	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+1942	Sag: Ich möchte mit Mastercard bezahlen	user-56_2014-11-06_16-32-06_utt_033	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+1943	Sag: Ich möchte mit Dollars bezahlen	user-56_2014-11-06_16-32-06_utt_034	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+1950	Sag: Ich möchte mit Schweizer Franken bezahlen	user-56_2014-11-06_16-32-06_utt_043	i would like to pay with swiss ah francs	i want a suite	1	1	ST2	A
+1951	Sag: Ich möchte mit Schweizer Franken bezahlen	user-56_2014-11-06_16-32-06_utt_044	can i pay with swiss francs	can i pay with swiss francs	1	1	ST2	A
+1963	Sag: Ich möchte mit Postkarte bezahlen	user-56_2014-11-06_16-32-06_utt_064	i would like to pay with postcard	younger post card	1	1	ST2	A
+1971	Sag: Ich möchte mit Visa bezahlen	user-57_2014-10-24_17-52-51_utt_015	can i pay with visa	can i pay with visa	1	1	ST2	A
+1976	Sag: Ich möchte am Donnerstagnachmittag abreisen	user-57_2014-10-24_17-52-51_utt_022	i would like to leave on thursday afternoon	i would like to leave on saturday	1	1	ST2	A
+1991	Sag: Ich möchte in der zweiten Reihe sitzen	user-57_2014-10-24_17-52-51_utt_043	i would like to sit in the second row	i would like to sit in the second row	1	1	ST2	A
+2044	Sag: Ich möchte um 19 Uhr morgen abreisen	user-57_2014-10-25_10-33-52_utt_006	i would like to leave tomorrow at seven pm	i would like to leave tomorrow at seven pm	1	1	ST2	A
+2065	Sag: Ich möchte in der fünften Reihe sitzen	user-57_2014-10-25_10-33-52_utt_034	i would like to sit in the fifth row	i would like to sit in the fifth row	1	1	ST2	A
+2105	Sag: Ich möchte mit Visa bezahlen	user-57_2014-10-25_10-33-52_utt_094	can i pay with visa	can i pay with visa	1	1	ST2	A
+2116	Sag: Ich möchte am Montagnachmittag abreisen	user-57_2014-10-30_18-43-25_utt_004	i want to leave on monday afternoon	i want to leave on monday afternoon	1	1	ST2	A
+2126	Sag: Ich möchte mit Visa bezahlen	user-57_2014-10-30_18-43-25_utt_019	can i pay with visa	can i pay with visa	1	1	ST2	A
+2128	Sag: Ich möchte am Samstagabend gehen	user-57_2014-10-30_18-43-25_utt_023	i would like to go on saturday evening	i would like to go on thursday evening	1	1	ST2	A
+2167	Sag: Ich möchte mit Kreditkarte bezahlen	user-57_2014-11-03_11-23-59_utt_008	can i pay by credit card	can i pay by credit card	1	1	ST2	A
+2185	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-03_11-23-59_utt_033	can i pay with post card	can i pay with post card	1	1	ST2	A
+2200	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-03_11-23-59_utt_053	can i pay with post card	can i pay with post card	1	1	ST2	A
+2258	Sag: Ich möchte mit Visa bezahlen	user-57_2014-11-06_16-53-24_utt_015	can i pay with visa	can i pay with visa	1	1	ST2	A
+2270	Sag: Ich möchte in der Mitte sitzen	user-57_2014-11-06_16-53-24_utt_029	i want to sit in the middle	i want to sit in the middle	1	1	ST2	A
+2283	Sag: Ich möchte mit Mastercard bezahlen	user-57_2014-11-06_16-53-24_utt_044	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+2309	Sag: Ich möchte mit Mastercard bezahlen	user-57_2014-11-07_11-18-23_utt_006	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+2332	Sag: Ich möchte in der sechsten Reihe sitzen	user-57_2014-11-07_11-18-23_utt_040	i would like to sit in the sixth row	i would like to sit in the sixth row	1	1	ST2	A
+2369	Sag: Ich möchte mit Mastercard bezahlen	user-57_2014-11-08_08-52-04_utt_007	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+2387	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-08_08-52-04_utt_032	can i pay with post card	can i pay with post card	1	1	ST2	A
+2392	Sag: Ich möchte morgen gehen	user-57_2014-11-08_08-52-04_utt_039	i would like to go tomorrow	i would like to go tomorrow	1	1	ST2	A
+2409	Sag: Ich möchte mit Mastercard bezahlen	user-57_2014-11-08_08-52-04_utt_059	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+2443	Sag: Ich möchte mit Visa bezahlen	user-57_2014-11-10_16-20-38_utt_007	can i pay with visa	can i pay with visa	1	1	ST2	A
+2479	Sag: Ich möchte mit Mastercard bezahlen	user-57_2014-11-10_16-20-38_utt_056	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+2488	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-10_16-20-38_utt_067	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+2506	Sag: Ich möchte mit Mastercard bezahlen	user-57_2014-11-11_16-55-24_utt_006	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+2544	Sag: Ich möchte mit Mastercard bezahlen	user-57_2014-11-11_16-55-24_utt_059	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+2566	Sag: Ich möchte mit Mastercard bezahlen	user-57_2014-11-12_11-54-21_utt_008	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+2578	Sag: Ich möchte am Freitagmorgen abreisen	user-57_2014-11-12_11-54-21_utt_024	i would like to leave on friday morning	i would like to leave at friday morning	1	1	ST2	A
+2589	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-12_11-54-21_utt_039	can i pay with post card	can i pay with post card	1	1	ST2	A
+2593	Sag: Ich möchte morgen gehen	user-57_2014-11-12_11-54-21_utt_045	i would like to go tomorrow	i would like to go tomorrow	1	1	ST2	A
+2595	Sag: Ich möchte in der ersten Reihe sitzen	user-57_2014-11-12_11-54-21_utt_047	i would like to sit in the first row	i would like to sit in the first row	1	1	ST2	A
+2606	Sag: Ich möchte in der zweiten Reihe sitzen	user-57_2014-11-12_11-54-21_utt_062	i want to sit in the second row	i want to sit in the second row	1	1	ST2	A
+2617	Sag: Ich möchte mit Mastercard bezahlen	user-57_2014-11-12_11-54-21_utt_075	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+2699	Sag: Ich möchte mit Visa bezahlen	user-57_2014-11-16_12-20-12_utt_047	can i pay with visa	can i pay with visa	1	1	ST2	A
+2706	Sag: Ich möchte am Mittwochnachmittag abreisen	user-57_2014-11-16_12-20-12_utt_056	i would like to leave on wednesday afternoon i would like to leave on wednesday afternoon	i would like to leave on wednesday afternoon i would like to leave on wednesday afternoon	1	1	ST2	A
+2718	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-16_12-20-12_utt_073	i would like to pay with post card	i would like to pay by post card	1	1	ST2	A
+2734	Sag: Ich möchte mit Visa bezahlen	user-57_2014-11-16_12-20-12_utt_095	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+2760	Sag: Ich möchte mit Visa bezahlen	user-57_2014-11-17_15-33-36_utt_005	can i pay with visa	can i pay with visa	1	1	ST2	A
+2772	Sag: Ich möchte mit Schweizer Franken bezahlen	user-57_2014-11-17_15-33-36_utt_023	can i pay with swiss francs	can i pay with swiss francs	1	1	ST2	A
+2817	Sag: Ich möchte mit Visa bezahlen	user-57_2014-11-18_18-29-18_utt_006	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+2834	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-18_18-29-18_utt_030	i'd like to pay with post card	i would like to pay with post card	1	1	ST2	A
+2840	Sag: Ich möchte vorne sitzen	user-57_2014-11-18_18-29-18_utt_038	i would like to sit in the front	i would like to sit in the from	1	1	ST2	A
+2855	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-18_18-29-18_utt_056	i would like to pay with a post card please	i would like pay with post card	1	1	ST2	A
+2856	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-18_18-29-18_utt_057	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+2893	Sag: Ich möchte mit Postkarte bezahlen	user-57_2014-11-19_18-05-17_utt_028	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+2894	Sag: Ich möchte mit Dollars bezahlen	user-57_2014-11-19_18-05-17_utt_029	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+2925	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-11-29_12-00-41_utt_027	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+2970	Sag: Ich möchte mit Euros bezahlen	user-73_2014-11-29_12-42-56_utt_019	i would like to pay with euros	i would like to pay with euros	1	1	ST2	A
+2987	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-11-29_12-42-56_utt_045	i would like to pay with a post card	i would like to pay with the post card	1	1	ST2	A
+2991	Sag: Ich möchte mit Visa bezahlen	user-73_2014-11-29_12-42-56_utt_054	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+2996	Sag: Ich möchte mit Visa bezahlen	user-73_2014-11-29_12-42-56_utt_063	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+3003	Sag: Ich möchte mit Euros bezahlen	user-73_2014-12-01_17-38-49_utt_007	i would like to pay with euros	i would like to pay with euros	1	1	ST2	A
+3019	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-01_17-38-49_utt_030	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+3020	Sag: Ich möchte mit Dollars bezahlen	user-73_2014-12-01_17-38-49_utt_031	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+3024	Sag: Ich möchte in der zehnten Reihe sitzen	user-73_2014-12-01_17-38-49_utt_038	i want to sit in the tenth row	i want to sit in the tenth row	1	1	ST2	A
+3060	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-02_17-30-05_utt_006	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+3066	Sag: Ich möchte am Montagabend abreisen	user-73_2014-12-02_17-30-05_utt_014	i would like to leave monday evening	i would like to leave monday evening	1	1	ST2	A
+3072	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-02_17-30-05_utt_024	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+3073	Sag: Ich möchte mit Euros bezahlen	user-73_2014-12-02_17-30-05_utt_025	i would like to pay with euros	i would like to pay with euros	1	1	ST2	A
+3084	Sag: Ich möchte in der zehnten Reihe sitzen	user-73_2014-12-02_17-30-05_utt_039	i would like to sit in the tenth row	i would like to sit in the third row	1	1	ST2	A
+3097	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-02_17-30-05_utt_055	i want to pay with visa	i want to pay with visa	1	1	ST2	A
+3098	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-02_17-30-05_utt_056	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+3116	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-07_11-38-03_utt_026	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+3123	Sag: Ich möchte in der zehnten Reihe sitzen	user-73_2014-12-07_11-38-03_utt_036	i would like to sit in the tenth row	i would like to sit in the tenth row	1	1	ST2	A
+3127	Sag: Ich möchte morgen Abend gehen	user-73_2014-12-07_11-38-03_utt_043	i would like to go tomorrow night	i would like to go tomorrow night	1	1	ST2	A
+3135	Sag: Ich möchte am Freitagabend abreisen	user-73_2014-12-08_18-25-51_utt_005	i would like to leave on friday night	i would like to leave on friday night	1	1	ST2	A
+3139	Sag: Ich möchte am Samstagnachmittag abreisen	user-73_2014-12-08_18-25-51_utt_011	i would like to leave on saturday afternoon	i would like to leave on saturday afternoon	1	1	ST2	A
+3149	Sag: Ich möchte am Dienstagnachmittag abreisen	user-73_2014-12-08_18-25-51_utt_026	i would like to leave on tuesday afternoon	i would like to leave on tuesday afternoon	1	1	ST2	A
+3153	Sag: Ich möchte am Mittwoch abreisen	user-73_2014-12-08_18-25-51_utt_033	i would like to leave on wednesday	i would like to leave on wednesday	1	1	ST2	A
+3157	Sag: Ich möchte am Sonntagmorgen abreisen	user-73_2014-12-08_18-25-51_utt_039	i would like to leave on sunday morning	i would like to leave on sunday morning	1	1	ST2	A
+3189	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-08_18-25-51_utt_082	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+3190	Sag: Ich möchte mit Schweizer Franken bezahlen	user-73_2014-12-08_18-25-51_utt_083	i would like to pay with swiss swiss francs	i would like to pay with swiss swiss francs	1	1	ST2	A
+3193	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-08_18-25-51_utt_088	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+3194	Sag: Ich möchte mit Euros bezahlen	user-73_2014-12-08_18-25-51_utt_089	i would like to pay with euros	i would like to pay with euros	1	1	ST2	A
+3282	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-09_05-29-36_utt_017	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+3283	Sag: Ich möchte mit Schweizer Franken bezahlen	user-73_2014-12-09_05-29-36_utt_018	i would like to pay with swiss francs	i would like to pay with swiss francs	1	1	ST2	A
+3304	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-09_14-38-04_utt_023	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+3308	Sag: Ich möchte am Mittwochnachmittag abreisen	user-73_2014-12-09_14-38-04_utt_031	i want to leave on wednesday afternoon	i want to leave on thursday afternoon	1	1	ST2	A
+3309	Sag: Ich möchte am Mittwochnachmittag abreisen	user-73_2014-12-09_14-38-04_utt_032	i want to leave on wednesday afternoon	i want to leave on wednesday afternoon	1	1	ST2	A
+3314	Sag: Ich möchte am Sonntagabend gehen	user-73_2014-12-09_14-38-04_utt_039	i would like to go on sunday evening	i would like to go on sunday evening	1	1	ST2	A
+3318	Sag: Ich möchte in der neunten Reihe sitzen	user-73_2014-12-09_14-38-04_utt_043	i want to sit in the ninth row	i want to sit in the ninth row	1	1	ST2	A
+3372	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-13_20-54-09_utt_033	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+3373	Sag: Ich möchte mit Pfund bezahlen	user-73_2014-12-13_20-54-09_utt_034	i would like to pay with pounds	i would like to pay with euros	1	1	ST2	A
+3380	Sag: Ich möchte mit Euros bezahlen	user-73_2014-12-13_20-54-09_utt_044	i would like to pay with euros	i would like to pay with euros	1	1	ST2	A
+3384	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-13_20-54-09_utt_050	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+3385	Sag: Ich möchte mit Dollars bezahlen	user-73_2014-12-13_20-54-09_utt_051	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+3388	Sag: Ich möchte am Dienstagabend gehen	user-73_2014-12-13_20-54-09_utt_057	i would like to go on tuesday night	i would like to go on tuesday night	1	1	ST2	A
+3394	Sag: Ich möchte in der ersten Reihe sitzen	user-73_2014-12-13_20-54-09_utt_063	i would like to sit in the first row	i would like to sit in the first row	1	1	ST2	A
+3431	Sag: Ich möchte vorne sitzen	user-73_2014-12-14_13-08-44_utt_015	i want to sit in the front	i want to sit in the eighth row	1	1	ST2	A
+3441	Sag: Ich möchte in der fünften Reihe sitzen	user-73_2014-12-14_13-08-44_utt_027	i want to sit in the fifth row	i want to sit in the fifth row	1	1	ST2	A
+3445	Sag: Ich möchte am Montagnachmittag abreisen	user-73_2014-12-14_13-26-16_utt_003	i would like to leave on monday afternoon	i would like to leave on monday afternoon	1	1	ST2	A
+3452	Sag: Ich möchte am Montag abreisen	user-73_2014-12-14_13-26-16_utt_014	i would like to leave on monday	i would like to leave on monday	1	1	ST2	A
+3460	Sag: Ich möchte mit Kreditkarte bezahlen	user-73_2014-12-14_13-26-16_utt_026	i want to pay with my credit card	i would pay with my credit card	1	1	ST2	A
+3464	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-14_13-26-16_utt_032	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+3465	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-14_13-26-16_utt_033	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+3469	Sag: Ich möchte mit Dollars bezahlen	user-73_2014-12-14_13-26-16_utt_039	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+3571	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-14_16-07-10_utt_016	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+3572	Sag: Ich möchte mit Euros bezahlen	user-73_2014-12-14_16-07-10_utt_017	i would like to pay with euros	i would like to pay with euros	1	1	ST2	A
+3579	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-14_16-07-10_utt_028	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+3589	Sag: Ich möchte am Mittwochabend abreisen	user-73_2014-12-16_19-38-40_utt_005	i would like to leave on wednesday evening	i would like to leave on wednesday evening	1	1	ST2	A
+3597	Sag: Ich möchte am Montagabend abreisen	user-73_2014-12-16_19-38-40_utt_018	i would like to leave on monday evening	i would like to leave on monday evening	1	1	ST2	A
+3611	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-16_19-38-40_utt_038	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+3612	Sag: Ich möchte mit Euros bezahlen	user-73_2014-12-16_19-38-40_utt_039	i would like to pay with euros	i would like to pay with euros	1	1	ST2	A
+3621	Sag: Ich möchte in der zehnten Reihe sitzen	user-73_2014-12-16_19-38-40_utt_049	i would like to sit in the tenth row	i would like to sit in the seventh row	1	1	ST2	A
+3634	Sag: Ich möchte in der dritten Reihe sitzen	user-73_2014-12-16_19-38-40_utt_066	i would like to sit in the third row	i would like to sit in the third row	1	1	ST2	A
+3641	Sag: Ich möchte in der ersten Reihe sitzen	user-73_2014-12-16_19-38-40_utt_076	i would like to sit in the first row	i would like to sit in the first row	1	1	ST2	A
+3708	Sag: Ich möchte am Sonntag abreisen	user-73_2014-12-16_19-38-40_utt_173	i would like to leave on sunday	i would like to leave on sunday	1	1	ST2	A
+3725	Sag: Ich möchte am Samstagmorgen abreisen	user-73_2014-12-16_19-38-40_utt_199	i would like to leave on saturday morning	i would like to leave on saturday morning	1	1	ST2	A
+3734	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-16_19-38-40_utt_214	i would like to pay with mastercard	i would like to pay with master card	1	1	ST2	A
+3735	Sag: Ich möchte mit Dollars bezahlen	user-73_2014-12-16_19-38-40_utt_215	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+3739	Sag: Ich möchte mit Pfund bezahlen	user-73_2014-12-16_19-38-40_utt_221	i would like to pay with pounds	i would like to pay with euros	1	1	ST2	A
+3745	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-16_19-38-40_utt_229	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+3747	Sag: Ich möchte am Freitagabend gehen	user-73_2014-12-16_19-38-40_utt_233	i would like to go on friday evening	i would like to go on friday evening	1	1	ST2	A
+3769	Sag: Ich möchte am Montagmorgen abreisen	user-73_2014-12-17_11-57-36_utt_016	i would like to leave on monday morning	i would like to leave on monday morning	1	1	ST2	A
+3806	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-17_17-38-41_utt_015	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+3807	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-17_17-38-41_utt_016	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+3843	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-17_17-46-33_utt_034	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+3847	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-17_17-38-41_utt_040	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+3860	Sag: Ich möchte am Freitagmorgen abreisen	user-73_2014-12-17_17-46-33_utt_048	i would like to leave on friday morning	i would like to leave on friday morning	1	1	ST2	A
+3876	Sag: Ich möchte in der dritten Reihe sitzen	user-73_2014-12-17_17-46-33_utt_066	i would like to sit in the third row	i would like to sit in the third row	1	1	ST2	A
+3883	Sag: Ich möchte in der fünften Reihe sitzen	user-73_2014-12-17_17-46-33_utt_075	i would like to sit in the fifth row	i would like to sit in the fifth row	1	1	ST2	A
+3931	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-17_17-46-33_utt_139	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+3933	Sag: Ich möchte morgen Abend gehen	user-73_2014-12-17_17-46-33_utt_143	i would like to go tomorrow evening	i would like to go tomorrow evening	1	1	ST2	A
+3935	Sag: Ich möchte in der zehnten Reihe sitzen	user-73_2014-12-17_17-46-33_utt_145	i would like to sit in the tenth row	i would like to sit in the tenth row	1	1	ST2	A
+3941	Sag: Ich möchte in der fünften Reihe sitzen	user-73_2014-12-17_17-46-33_utt_154	i would like to sit in the fifth row	i would like to sit in the sixth row	1	1	ST2	A
+3989	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-18_11-08-22_utt_006	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+3996	Sag: Ich möchte am Freitagabend gehen	user-73_2014-12-18_11-08-22_utt_018	i would like to leave on friday evening	i would like to leave on friday evening	1	1	ST2	A
+3997	Sag: Ich möchte am Freitagabend gehen	user-73_2014-12-18_11-08-22_utt_019	i would like to leave on friday evening	i would like to leave on friday evening	1	1	ST2	A
+3999	Sag: Ich möchte in der siebten Reihe sitzen	user-73_2014-12-18_11-08-22_utt_022	i would like to sit in the seventh row	i would like to sit in the seven row	1	1	ST2	A
+4060	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-18_17-11-49_utt_007	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+4061	Sag: Ich möchte mit Euros bezahlen	user-73_2014-12-18_17-11-49_utt_008	i would like to pay with euros	i would like to pay with euros	1	1	ST2	A
+4078	Sag: Ich möchte in der sechsten Reihe sitzen	user-73_2014-12-18_17-11-49_utt_032	i would like to sit in the sixth row	i would like to sit in the sixth row	1	1	ST2	A
+4138	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-18_17-11-49_utt_110	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+4146	Sag: Ich möchte am Samstagabend abreisen	user-73_2014-12-18_17-11-49_utt_123	i would like to leave on saturday evening	i would like to leave on saturday evening	1	1	ST2	A
+4183	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-18_18-01-42_utt_047	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+4193	Sag: Ich möchte mit Postkarte bezahlen	user-73_2014-12-18_18-01-42_utt_062	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+4206	Sag: Ich möchte in der zehnten Reihe sitzen	user-73_2014-12-18_18-01-42_utt_081	i would like to sit in the tenth row	i would like to sit in the tenth row	1	1	ST2	A
+4213	Sag: Ich möchte in der Mitte sitzen	user-73_2014-12-18_18-01-42_utt_090	i would like to sit in the middle	i would like to sit in the middle	1	1	ST2	A
+4219	Sag: Ich möchte in der zehnten Reihe sitzen	user-73_2014-12-18_18-01-42_utt_099	i would like to sit in the tenth row	i would like to sit in the seven row	1	1	ST2	A
+4268	Sag: Ich möchte mit Visa bezahlen	user-73_2014-12-18_18-01-42_utt_159	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+4281	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-18_18-01-42_utt_177	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+4282	Sag: Ich möchte mit Schweizer Franken bezahlen	user-73_2014-12-18_18-01-42_utt_178	i would like to pay with swiss francs	i would like to pay with swiss francs	1	1	ST2	A
+4285	Sag: Ich möchte mit Mastercard bezahlen	user-73_2014-12-18_18-01-42_utt_183	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+4287	Sag: Ich möchte am Donnerstagabend gehen	user-73_2014-12-18_18-01-42_utt_187	i would like to go on thursday evening	i would like to go on thursday evening	1	1	ST2	A
+4293	Sag: Ich möchte am Samstagabend gehen	user-73_2014-12-18_18-01-42_utt_196	i would like to go on saturday evening	i would like to go on saturday evening	1	1	ST2	A
+4295	Sag: Ich möchte in der achten Reihe sitzen	user-73_2014-12-18_18-01-42_utt_198	i would like to sit in the eighth row	i would like to sit in the eighth row	1	1	ST2	A
+4301	Sag: Ich möchte in der sechsten Reihe sitzen	user-73_2014-12-18_18-01-42_utt_207	i would like to sit in the sixth row	i would like to sit in the sixth row	1	1	ST2	A
+4319	Sag: Ich möchte mit Mastercard bezahlen	user-243_2014-06-19_07-35-54_utt_010	i would like to pay by mastercard	i would like to pay by mastercard	1	1	ST2	A
+4331	Sag: Ich möchte mit Kreditkarte bezahlen	user-245_2014-06-16_20-10-57_utt_009	i want to pay with card	i would pay with four	1	1	ST2	A
+4383	Sag: Ich möchte mit Kreditkarte bezahlen	user-83_2014-10-27_14-15-22_utt_020	can i pay by credit card	can i pay by credit card	1	1	ST2	A
+4391	Sag: Ich möchte mit Mastercard bezahlen	user-83_2014-10-27_14-15-22_utt_034	can i pay by mastercard	can i pay by mastercard	1	1	ST2	A
+4392	Sag: Ich möchte mit Mastercard bezahlen	user-83_2014-10-27_14-15-22_utt_035	can i pay pay by mastercard	can i pay by mastercard	1	1	ST2	A
+4409	Sag: Ich möchte in der siebten Reihe sitzen	user-83_2014-10-27_14-15-22_utt_062	i would like to sit in the seventh row*z	i would like to sit in the seventh row	1	1	ST2	A
+4410	Sag: Ich möchte in der siebten Reihe sitzen	user-83_2014-10-27_14-15-22_utt_063	i would like to sit in the seventh row*z	i would like to sit in the seven row	1	1	ST2	A
+4411	Sag: Ich möchte in der siebten Reihe sitzen	user-83_2014-10-27_14-15-22_utt_064	i would like to sit in the seventh row	i'd like to sit in the seventh row roast	1	1	ST2	A
+4433	Sag: Ich möchte mit Postkarte bezahlen	user-83_2014-11-03_18-41-45_utt_009	i would like to pay by post card	i would like to pay by post card	1	1	ST2	A
+4445	Sag: Ich möchte in der vierten Reihe sitzen	user-83_2014-11-03_18-41-45_utt_023	i would like to sit in the fourth row	i would like to sit in the fourth row	1	1	ST2	A
+4450	Sag: Ich möchte um 21 Uhr morgen abreisen	user-83_2014-11-03_18-41-45_utt_031	i want to leave at nine o'clock tomorrow	i want to leave at nine o'clock tomorrow	1	1	ST2	A
+4456	Sag: Ich möchte mit Postkarte bezahlen	user-83_2014-11-04_17-31-15_utt_008	can i pay by post card	can i pay by post card	1	1	ST2	A
+4474	Sag: Ich möchte mit Mastercard bezahlen	user-83_2014-11-06_19-23-22_utt_006	can i pay by mastercard	can i pay by mastercard	1	1	ST2	A
+4521	Sag: Ich möchte mit Visa bezahlen	user-83_2014-11-07_18-13-18_utt_011	i would like to pay by visa	i would like to pay by visa	1	1	ST2	A
+4527	Sag: Ich möchte mit Postkarte bezahlen	user-83_2014-11-07_18-13-18_utt_022	i would like to pay by post card	i would like to pay by post postcard	1	1	ST2	A
+4697	Sag: Ich möchte in der neunten Reihe sitzen	user-88_2014-11-27_14-37-40_utt_007	i would like to sit in the ninth row	i would like to sit in the ninth row	1	1	ST2	A
+4714	Sag: Ich möchte um 22 Uhr morgen abreisen	user-88_2014-11-27_14-37-40_utt_029	i want to leave at ten o'clock tomorrow	i want to leave at ten o'clock tomorrow	1	1	ST2	A
+4715	Sag: Ich möchte um 22 Uhr morgen abreisen	user-88_2014-11-27_14-37-40_utt_030	i want to leave at ten o'clock tomorrow	i want to leave at elf o'clock tomorrow	1	1	ST2	A
+4742	Sag: Ich möchte mit Euros bezahlen	user-89_2014-11-07_12-29-49_utt_010	can i pay with euros*z	can i pay with euros	1	1	ST2	A
+4756	Sag: Ich möchte mit Postkarte bezahlen	user-89_2014-11-07_12-29-49_utt_032	i wou*a i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+4758	Sag: Ich möchte mit Dollars bezahlen	user-89_2014-11-07_12-29-49_utt_034	can i pay with dollars	can i pay with dollars	1	1	ST2	A
+4760	Sag: Ich möchte mit Mastercard bezahlen	user-89_2014-11-07_12-29-49_utt_038	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+4777	Sag: Ich möchte mit Visa bezahlen	user-89_2014-11-19_11-45-55_utt_007	i want to pay with visa	i want pay with visa	1	1	ST2	A
+4778	Sag: Ich möchte mit Visa bezahlen	user-89_2014-11-19_11-45-55_utt_008	can i pay with visa	can i pay with visa	1	1	ST2	A
+4786	Sag: Ich möchte mit Mastercard bezahlen	user-89_2014-11-20_11-33-16_utt_008	can i pay with master card	can i pay with mastercard	1	1	ST2	A
+4793	Sag: Ich möchte mit Mastercard bezahlen	user-89_2014-11-20_12-27-24_utt_003	can i pay with master card	can i pay with post card	1	1	ST2	A
+4804	Sag: Ich möchte mit Mastercard bezahlen	user-89_2014-11-20_13-31-01_utt_008	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+4826	Sag: Ich möchte am Samstagnachmittag abreisen	user-91_2014-11-26_09-08-59_utt_019	i would like to leave on saturday afternoon ggg	i would like to leave on saturday afternoon	1	1	ST2	A
+4827	Sag: Ich möchte am Samstagnachmittag abreisen	user-91_2014-11-26_09-08-59_utt_020	i wou*a would like to leave on saturday afternoon	i would i would like to leave on saturday afternoon	1	1	ST2	A
+4856	Sag: Ich möchte mit Mastercard bezahlen	user-91_2014-12-10_09-12-51_utt_008	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+4859	Sag: Ich möchte mit Schweizer Franken bezahlen	user-91_2014-12-10_09-12-51_utt_011	can i pay with swiss francs	can i pay with swiss francs	1	1	ST2	A
+4900	Sag: Ich möchte mit Visa bezahlen	user-95_2014-10-25_09-40-47_utt_044	i would like to pay with visa	i would like to buy with visa	1	1	ST2	A
+4924	Sag: Ich möchte mit Postkarte bezahlen	user-95_2014-11-01_16-27-26_utt_025	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+4925	Sag: Ich möchte mit Euros bezahlen	user-95_2014-11-01_16-27-26_utt_026	i would like to pay with euros	i would like to pay with euro	1	1	ST2	A
+4926	Sag: Ich möchte mit Euros bezahlen	user-95_2014-11-01_16-27-26_utt_027	can i pay with euros	can i buy with euros	1	1	ST2	A
+4935	Sag: Ich möchte mit Visa bezahlen	user-99_2014-11-12_13-46-59_utt_006	i want to pay with visa	i want to pay with visa	1	1	ST2	A
+4953	Sag: Ich möchte mit Visa bezahlen	user-99_2014-11-12_16-07-04_utt_006	i want to pay with visa	i want to pay with visa	1	1	ST2	A
+4954	Sag: Ich möchte mit Visa bezahlen	user-99_2014-11-12_16-07-04_utt_007	i want to pay with visa	i want to pay with visa	1	1	ST2	A
+4955	Sag: Ich möchte mit Schweizer Franken bezahlen	user-99_2014-11-12_16-07-04_utt_008	i want to pay with swiss francs	i want to pay with swiss francs	1	1	ST2	A
+4980	Sag: Ich möchte mit Kreditkarte bezahlen	user-99_2014-11-20_18-26-48_utt_008	i want to pay with a credit card	i want to pay with the credit card	1	1	ST2	A
+4981	Sag: Ich möchte mit Kreditkarte bezahlen	user-99_2014-11-20_18-26-48_utt_009	i want to pay with a credit card	i want to pay with the credit card	1	1	ST2	A
+4986	Sag: Ich möchte mit Kreditkarte bezahlen	user-99_2014-11-20_18-26-48_utt_018	i want to pay by credit card	i want to pay by credit card	1	1	ST2	A
+4987	Sag: Ich möchte mit Kreditkarte bezahlen	user-99_2014-11-20_18-26-48_utt_019	i want to pay with a credit card	i want to pay with credit card	1	1	ST2	A
+5007	Sag: Ich möchte mit Visa bezahlen	user-102_2014-11-12_06-45-05_utt_008	can i pay with visa	i'm a large	1	1	ST2	A
+5009	Sag: Ich möchte mit Schweizer Franken bezahlen	user-102_2014-11-12_06-45-05_utt_010	can i pay with swiss francs	can i pay with swiss francs	1	1	ST2	A
+5015	Sag: Ich möchte am Montagmorgen abreisen	user-102_2014-11-16_09-56-32_utt_004	i would like to leave on monday morning	i would like to leave on sunday morning	1	1	ST2	A
+5046	Sag: Ich möchte mit Visa bezahlen	user-115_2014-12-18_16-07-08_utt_020	can i pay with visa	can i pay with visa	1	1	ST2	A
+5085	Sag: Ich möchte am Samstagmorgen abreisen	user-117_2014-12-12_16-14-02_utt_021	i would like to leave on saturday morning	i would like to leave on saturday morning	1	1	ST2	A
+5102	Sag: Ich möchte mit Euros bezahlen	user-117_2014-12-13_12-36-24_utt_009	can i pay with euros	can i pay with euros	1	1	ST2	A
+5152	Sag: Ich möchte mit Mastercard bezahlen	user-118_2014-11-28_15-40-46_utt_035	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+5159	Sag: Ich möchte mit Schweizer Franken bezahlen	user-118_2014-11-28_15-40-46_utt_045	i would like to pay with swiss francs	i would like to pay with swiss francs	1	1	ST2	A
+5172	Sag: Ich möchte mit Postkarte bezahlen	user-118_2014-11-28_15-40-46_utt_065	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+5212	Sag: Ich möchte mit Postkarte bezahlen	user-118_2014-11-28_16-13-59_utt_008	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+5214	Sag: Ich möchte mit Mastercard bezahlen	user-118_2014-11-28_16-13-59_utt_012	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+5216	Sag: Ich möchte mit Visa bezahlen	user-118_2014-11-28_16-13-59_utt_016	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+5217	Sag: Ich möchte mit Dollars bezahlen	user-118_2014-11-28_16-13-59_utt_017	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+5220	Sag: Ich möchte am Freitagabend gehen	user-118_2014-11-28_16-13-59_utt_022	i would like to go on friday evening	i would like to go on friday evening	1	1	ST2	A
+5222	Sag: Ich möchte in der ersten Reihe sitzen	user-118_2014-11-28_16-13-59_utt_026	i would like to sit in the first row	i would like to sit in the first row	1	1	ST2	A
+5294	Sag: Ich möchte mit Postkarte bezahlen	user-126_2014-12-18_17-13-53_utt_006	i would like to pay by post card	i would like to pay by post card	1	1	ST2	A
+5296	Sag: Ich möchte mit Euros bezahlen	user-126_2014-12-18_17-13-53_utt_008	can i pay with euros	turkey	1	1	ST2	A
+5304	Sag: Ich möchte mit Mastercard bezahlen	user-126_2014-12-18_17-13-53_utt_019	can i pay by mastercard	can i pay by mastercard	1	1	ST2	A
+5305	Sag: Ich möchte mit Schweizer Franken bezahlen	user-126_2014-12-18_17-13-53_utt_020	can i pay with swiss francs	can i pay with swiss francs	1	1	ST2	A
+5331	Sag: Ich möchte mit Kreditkarte bezahlen	user-131_2014-09-19_17-22-35_utt_024	i want to pay with my credit card	i want to pay by credit card	1	1	ST2	A
+5340	Sag: Ich möchte mit Kreditkarte bezahlen	user-131_2014-09-19_17-22-35_utt_037	i want to pay with my credit card	i want to pay with my credit card	1	1	ST2	A
+5349	Sag: Ich möchte um 19 Uhr morgen abreisen	user-131_2014-09-19_17-22-35_utt_049	i want to leave tomorrow at seven pm	i want to leave tomorrow at seven p m	1	1	ST2	A
+5381	Sag: Ich möchte mit Postkarte bezahlen	user-131_2014-09-23_19-36-12_utt_018	can i pay with post card	can i pay with dollars carrots	1	1	ST2	A
+5382	Sag: Ich möchte mit Dollars bezahlen	user-131_2014-09-23_19-36-12_utt_019	can i pay with dollars	can i pay with dollars	1	1	ST2	A
+5410	Sag: Ich möchte mit Mastercard bezahlen	user-135_2014-09-17_13-20-12_utt_027	i would like to pay with a mastercard	i would like to pay with the mastercard	1	1	ST2	A
+5452	Sag: Ich möchte am Montagabend abreisen	user-135_2014-09-17_13-20-12_utt_084	i want to go on monday evening	where is the there a monday	1	1	ST2	A
+5516	Sag: Ich möchte mit Postkarte bezahlen	user-158_2014-09-16_16-39-44_utt_010	can i pay with post card	can i pay with post card	1	1	ST2	A
+5542	Sag: Ich möchte mit Mastercard bezahlen	user-158_2014-09-20_18-39-08_utt_009	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+5546	Sag: Ich möchte mit Mastercard bezahlen	user-159_2014-09-11_17-30-50_utt_005	i want to pay with mastercard	i want to pay with mastercard	1	1	ST2	A
+5552	Sag: Ich möchte mit Postkarte bezahlen	user-159_2014-09-11_17-30-50_utt_014	i want to pay with post card	i want to pay with post card	1	1	ST2	A
+5553	Sag: Ich möchte mit Euros bezahlen	user-159_2014-09-11_17-30-50_utt_015	i want to pay with euros	i want to pay with euros	1	1	ST2	A
+5563	Sag: Ich möchte mit Mastercard bezahlen	user-159_2014-09-11_17-30-50_utt_028	i want to pay with mastercard	i want to pay with mastercard	1	1	ST2	A
+5580	Sag: Ich möchte mit Mastercard bezahlen	user-159_2014-09-11_17-30-50_utt_051	i want to pay with mastercard	i want to pay with mastercard	1	1	ST2	A
+5582	Sag: Ich möchte mit Mastercard bezahlen	user-159_2014-09-11_17-30-50_utt_053	i want to pay with mastercard	i want to pay with mastercard	1	1	ST2	A
+5609	Sag: Ich möchte mit Visa bezahlen	user-159_2014-09-13_09-58-10_utt_010	i want to pay with visa	i want to pay with visa	1	1	ST2	A
+5611	Sag: Ich möchte mit Dollars bezahlen	user-159_2014-09-13_09-58-10_utt_012	i want to play i want to pay with dollars	i want to pay i want to pay with dollars	1	1	ST2	A
+5612	Sag: Ich möchte mit Dollars bezahlen	user-159_2014-09-13_09-58-10_utt_013	i want to pay with dollars	i want to pay with dollars	1	1	ST2	A
+5653	Sag: Ich möchte mit Mastercard bezahlen	user-159_2014-09-13_09-58-10_utt_066	i want to pay with mastercard please	i want to pay with mastercard please	1	1	ST2	A
+5654	Sag: Ich möchte mit Mastercard bezahlen	user-159_2014-09-13_09-58-10_utt_067	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+5655	Sag: Ich möchte mit Dollars bezahlen	user-159_2014-09-13_09-58-10_utt_068	can i pay with dollars	can i pay is paris	1	1	ST2	A
+5657	Sag: Ich möchte mit Dollars bezahlen	user-159_2014-09-13_09-58-10_utt_070	i want to pay with u s dollars	i want to pay with euro	1	1	ST2	A
+5677	Sag: Ich möchte mit Kreditkarte bezahlen	user-159_2014-09-13_09-58-10_utt_102	i want to pay with credit card	i want to pay with credit card	1	1	ST2	A
+5685	Sag: Ich möchte mit Kreditkarte bezahlen	user-159_2014-09-15_17-16-32_utt_008	i want to pay with credit card	i want to pay with credit card	1	1	ST2	A
+5695	Sag: Ich möchte mit Postkarte bezahlen	user-159_2014-09-15_17-16-32_utt_021	can i pay with post card	can i pay with post card	1	1	ST2	A
+5703	Sag: Ich möchte mit Mastercard bezahlen	user-159_2014-09-15_17-16-32_utt_031	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+5709	Sag: Ich möchte mit Kreditkarte bezahlen	user-159_2014-09-15_17-16-32_utt_042	i want to pay with credit card	i want to pay with credit card	1	1	ST2	A
+5713	Sag: Ich möchte mit Mastercard bezahlen	user-159_2014-09-15_17-16-32_utt_049	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+5718	Sag: Ich möchte mit Postkarte bezahlen	user-159_2014-09-15_17-16-32_utt_057	can i pay with post card	can i pay with post card	1	1	ST2	A
+5725	Sag: Ich möchte am Dienstag abreisen	user-159_2014-09-15_17-16-32_utt_068	i want to leave tuesday	i want to leave on tuesday	1	1	ST2	A
+5734	Sag: Ich möchte am Samstagabend abreisen	user-159_2014-09-15_17-16-32_utt_082	i want to leave saturday evening	i want to leave saturday evening	1	1	ST2	A
+5735	Sag: Ich möchte am Samstagabend abreisen	user-159_2014-09-15_17-16-32_utt_083	i would like to leave on saturday evening	i would like to leave on saturday evening	1	1	ST2	A
+5748	Sag: Ich möchte am Freitagabend gehen	user-159_2014-09-15_17-16-32_utt_104	i want to go friday evening	i want to go on friday evening	1	1	ST2	A
+5749	Sag: Ich möchte am Freitagabend gehen	user-159_2014-09-15_17-16-32_utt_105	i would like to go on friday evening	i would like to go on friday evening	1	1	ST2	A
+5751	Sag: Ich möchte in der dritten Reihe sitzen	user-159_2014-09-15_17-16-32_utt_107	i want to sit in the third row	i want to sit in the third row a	1	1	ST2	A
+5757	Sag: Ich möchte um 20 Uhr morgen abreisen	user-159_2014-09-16_16-11-58_utt_005	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST2	A
+5763	Sag: Ich möchte um 10 Uhr morgen abreisen	user-159_2014-09-16_16-11-58_utt_015	i would like to leave at ten o'clock tomorrow	i would like to leave at ten o'clock tomorrow	1	1	ST2	A
+5770	Sag: Ich möchte um 8 Uhr morgen abreisen	user-159_2014-09-16_16-11-58_utt_025	i would like to leave at eight o'clock tomorrow	i would like to leave at eight o'clock tomorrow	1	1	ST2	A
+5771	Sag: Ich möchte um 8 Uhr morgen abreisen	user-159_2014-09-16_16-11-58_utt_026	i would like to leave tomorrow at eight o'clock a m	i would like to leave tomorrow at eight o'clock a m	1	1	ST2	A
+5778	Sag: Ich möchte um 16 Uhr morgen abreisen	user-159_2014-09-16_16-11-58_utt_038	i want to leave tomorrow at four o'clock p m	i want to leave tomorrow at four o'clock p m	1	1	ST2	A
+5779	Sag: Ich möchte um 16 Uhr morgen abreisen	user-159_2014-09-16_16-11-58_utt_039	i would like to leave tomorrow at four pm	i would like to leave tomorrow at france room	1	1	ST2	A
+5780	Sag: Ich möchte um 16 Uhr morgen abreisen	user-159_2014-09-16_16-11-58_utt_040	i would like to leave at four o'clock tomorrow	i would like to leave at eight o'clock tomorrow	1	1	ST2	A
+5790	Sag: Ich möchte um 11 Uhr morgen abreisen	user-159_2014-09-17_13-11-25_utt_004	i would like to leave tomorrow at eleven a m	i would like to leave tomorrow at eleven a m	1	1	ST2	A
+5795	Sag: Ich möchte um 11 Uhr morgen abreisen	user-159_2014-09-18_20-15-24_utt_003	i would like to leave tomorrow at eleven o'clock	i would like to leave tomorrow at eleven o'clock	1	1	ST2	A
+5799	Sag: Ich möchte nächste Woche abreisen	user-159_2014-09-18_20-15-24_utt_009	i would like to leave next week	i would like to leave next week	1	1	ST2	A
+5948	Sag: Ich möchte mit Visa bezahlen	user-159_2014-09-22_19-02-57_utt_027	i want to pay with visa	i want to pay with visa	1	1	ST2	A
+5960	Sag: Ich möchte mit Kreditkarte bezahlen	user-159_2014-09-24_16-22-54_utt_013	i want to pay with credit card	i want to pay with credit card	1	1	ST2	A
+5969	Sag: Ich möchte mit Postkarte bezahlen	user-159_2014-09-24_16-22-54_utt_024	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+5993	Sag: Ich möchte mit Postkarte bezahlen	user-159_2014-09-24_16-22-54_utt_054	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+6007	Sag: Ich möchte mit Kreditkarte bezahlen	user-159_2014-10-15_17-49-05_utt_003	i want to pay with credit card	i want to pay with credit card	1	1	ST2	A
+6008	Sag: Ich möchte mit Dollars bezahlen	user-159_2014-10-15_17-49-05_utt_004	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+6012	Sag: Ich möchte mit Dollars bezahlen	user-159_2014-10-15_17-49-05_utt_010	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+6019	Sag: Ich möchte mit Kreditkarte bezahlen	user-159_2014-10-21_18-20-49_utt_003	i want to pay with credit card	i want to pay with credit card	1	1	ST2	A
+6021	Sag: Ich möchte mit Pfund bezahlen	user-159_2014-10-21_18-20-49_utt_005	i would like to pay with pounds	i would like to pay with pounds	1	1	ST2	A
+6027	Sag: Ich möchte mit Pfund bezahlen	user-159_2014-10-21_18-20-49_utt_015	i would like to pay with pounds	i would like to pay with pounds	1	1	ST2	A
+6087	Sag: Ich möchte vorne sitzen	user-159_2014-10-23_19-48-55_utt_007	i would like to sit in the front	i would like to sit in the from	1	1	ST2	A
+6094	Sag: Ich möchte heute Abend gehen	user-159_2014-10-23_19-48-55_utt_016	i want to go this evening	i want to go this evening	1	1	ST2	A
+6096	Sag: Ich möchte in der neunten Reihe sitzen	user-159_2014-10-23_19-48-55_utt_018	i would like to sit in the ninth row	i would like to sit in the ninth row	1	1	ST2	A
+6103	Sag: Ich möchte in der achten Reihe sitzen	user-159_2014-10-23_19-48-55_utt_028	i would like to sit in the eighth row	i would like to sit in the eighth row	1	1	ST2	A
+6112	Sag: Ich möchte in der achten Reihe sitzen	user-159_2014-10-23_19-48-55_utt_040	i would like to sit in the eighth row	i would like to sit in the eighth row	1	1	ST2	A
+6118	Sag: Ich möchte in der vierten Reihe sitzen	user-159_2014-10-23_19-48-55_utt_048	i would like to sit in the fourth row	i would like to sit in the fourth row	1	1	ST2	A
+6124	Sag: Ich möchte in der siebten Reihe sitzen	user-159_2014-10-23_19-48-55_utt_056	i would like to sit in the seventh row	i would like to sit in the seventh row	1	1	ST2	A
+6131	Sag: Ich möchte in der dritten Reihe sitzen	user-159_2014-10-23_19-48-55_utt_065	i would like to sit in the third row	i would like to sit in the third row	1	1	ST2	A
+6136	Sag: Ich möchte in der ersten Reihe sitzen	user-159_2014-10-23_19-48-55_utt_073	i would like to sit in the first row	i would like to sit in the first row	1	1	ST2	A
+6139	Sag: Ich möchte heute Abend gehen	user-159_2014-10-23_19-48-55_utt_079	i would like to go this evening	i would like to go this evening	1	1	ST2	A
+6141	Sag: Ich möchte in der ersten Reihe sitzen	user-159_2014-10-23_19-48-55_utt_081	i would like to sit in the first row	i would like to sit in the first row	1	1	ST2	A
+6158	Sag: Ich möchte am Freitagabend abreisen	user-162_2014-09-11_19-18-57_utt_028	i want to leave on friday evening	i want to leave on friday evening	1	1	ST2	A
+6163	Sag: Ich möchte um 22 Uhr morgen abreisen	user-162_2014-09-11_19-18-57_utt_036	i want to leave at ten o'clock tomorrow	i want to leave at ten o'clock tomorrow	1	1	ST2	A
+6187	Sag: Ich möchte mit Visa bezahlen	user-162_2014-09-11_19-18-57_utt_065	can i pay with visa*z	can i pay with visa	1	1	ST2	A
+6195	Sag: Ich möchte mit Visa bezahlen	user-166_2014-09-15_18-01-46_utt_012	can i pay with visa*z	can i pay by	1	1	ST2	A
+6196	Sag: Ich möchte mit Visa bezahlen	user-166_2014-09-15_18-01-46_utt_013	can i pay with visa*z	can i pay with visa	1	1	ST2	A
+6205	Sag: Ich möchte mit Visa bezahlen	user-166_2014-09-15_18-01-46_utt_029	can i pay with visa	can i pay with visa	1	1	ST2	A
+6206	Sag: Ich möchte mit Euros bezahlen	user-166_2014-09-15_18-01-46_utt_030	can i pay with euros	can i pay with euro	1	1	ST2	A
+6208	Sag: Ich möchte mit Euros bezahlen	user-166_2014-09-15_18-01-46_utt_032	can i pay with euros	can i pay with euros	1	1	ST2	A
+6228	Sag: Ich möchte mit Kreditkarte bezahlen	user-152_2014-10-28_07-44-29_utt_007	i want to pay with credit card	i want pay with credit card	1	1	ST2	A
+6239	Sag: Ich möchte in der zehnten Reihe sitzen	user-152_2014-10-28_07-44-29_utt_022	i would like to sit in the tenth row	i would like to sit in the tenth row	1	1	ST2	A
+6290	Sag: Ich möchte mit Mastercard bezahlen	user-167_2014-10-28_07-42-24_utt_019	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+6302	Sag: Ich möchte mit Visa bezahlen	user-167_2014-10-28_07-42-24_utt_037	can i pay with visa	can i pay with visa	1	1	ST2	A
+6312	Sag: Ich möchte mit Visa bezahlen	user-167_2014-10-28_07-42-24_utt_053	i want to pay with visa	i want to pay with visa	1	1	ST2	A
+6338	Sag: Ich möchte mit Visa bezahlen	user-167_2014-10-29_13-09-33_utt_032	can i pay with visa	can i pay with visa	1	1	ST2	A
+6344	Sag: Ich möchte mit Postkarte bezahlen	user-167_2014-10-29_13-09-33_utt_041	i would like to pay by post card	i would like to pay by post card	1	1	ST2	A
+6345	Sag: Ich möchte mit Postkarte bezahlen	user-167_2014-10-29_13-09-33_utt_042	i would like to pay by post card	i would like to pay by post card	1	1	ST2	A
+6346	Sag: Ich möchte mit Euros bezahlen	user-167_2014-10-29_13-09-33_utt_043	can i pay with euros	can i pay with euros	1	1	ST2	A
+6353	Sag: Ich möchte mit Kreditkarte bezahlen	user-167_2014-10-29_13-09-33_utt_054	i want to pay with credit card	i want to pay with credit card	1	1	ST2	A
+6371	Sag: Ich möchte mit Mastercard bezahlen	user-167_2014-10-30_19-28-12_utt_014	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+6376	Sag: Ich möchte mit Dollars bezahlen	user-167_2014-10-30_19-28-12_utt_021	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+6401	Sag: Ich möchte am Donnerstagabend gehen	user-167_2014-10-30_19-41-32_utt_025	i would like to go on thursday night	i would like to go on thursday nights	1	1	ST2	A
+6405	Sag: Ich möchte mit Visa bezahlen	user-167_2014-10-30_19-41-32_utt_030	can i pay with visa	can i pay with visa	1	1	ST2	A
+6406	Sag: Ich möchte mit Visa bezahlen	user-167_2014-10-30_19-41-32_utt_031	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+6407	Sag: Ich möchte mit Visa bezahlen	user-167_2014-10-30_19-41-32_utt_032	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+6411	Sag: Ich möchte mit Visa bezahlen	user-167_2014-10-30_19-41-32_utt_038	i would like to pay with visa	i would like to pay with visa	1	1	ST2	A
+6415	Sag: Ich möchte mit Mastercard bezahlen	user-167_2014-10-30_19-41-32_utt_046	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST2	A
+6416	Sag: Ich möchte mit Mastercard bezahlen	user-167_2014-10-30_19-41-32_utt_047	i would like to pay with mastercard	i would like pay leave mastercard	1	1	ST2	A
+6427	Sag: Ich möchte mit Postkarte bezahlen	user-167_2014-10-30_19-41-32_utt_068	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+6428	Sag: Ich möchte mit Postkarte bezahlen	user-167_2014-10-30_19-41-32_utt_069	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+6429	Sag: Ich möchte mit Dollars bezahlen	user-167_2014-10-30_19-41-32_utt_070	i would like to pay with dollars	i would like to pay with dollars	1	1	ST2	A
+6495	Sag: Ich möchte mit Postkarte bezahlen	user-170_2014-10-28_16-34-01_utt_019	i want to pay with post card	i want to pay with post card	1	1	ST2	A
+6517	Sag: Ich möchte um 14 Uhr morgen abreisen	user-170_2014-10-28_16-34-01_utt_050	i would like to leave tomorrow at two p m	i would like to leave tomorrow at one p m	1	1	ST2	A
+6518	Sag: Ich möchte um 14 Uhr morgen abreisen	user-170_2014-10-28_16-34-01_utt_051	i want to leave tomorrow at two pm	i want to leave tomorrow at two pm	1	1	ST2	A
+6519	Sag: Ich möchte um 14 Uhr morgen abreisen	user-170_2014-10-28_16-34-01_utt_052	i want to leave tomorrow at two pm	i want to leave tomorrow at two p m	1	1	ST2	A
+6526	Sag: Ich möchte um 11 Uhr morgen abreisen	user-170_2014-10-28_16-34-01_utt_062	i want to leave tomorrow at eleven a m	i want to leave tomorrow at eleven a m	1	1	ST2	A
+6527	Sag: Ich möchte um 11 Uhr morgen abreisen	user-170_2014-10-28_16-34-01_utt_063	i want to leave tomorrow at eleven a m	i want to leave tomorrow at eleven steak rare	1	1	ST2	A
+6528	Sag: Ich möchte um 11 Uhr morgen abreisen	user-170_2014-10-28_16-34-01_utt_064	i want to leave tomorrow at eleven a m	i want to leave tomorrow at eleven a m	1	1	ST2	A
+6533	Sag: Ich möchte um 17 Uhr morgen abreisen	user-170_2014-10-28_16-34-01_utt_072	i want to leave tomorrow at five p m	i want to leave tomorrow at five p m	1	1	ST2	A
+6558	Sag: Ich möchte mit Mastercard bezahlen	user-213_2014-06-03_15-31-28_utt_020	can i pay with mastercard	can i pay with mastercard	1	1	ST2	A
+6567	Sag: Ich möchte um 18 Uhr morgen abreisen	user-213_2014-06-03_15-31-28_utt_034	i want to leave at six p m tomorrow	i want to leave at six pm tomorrow	1	1	ST2	A
+6608	Sag: Ich möchte mit Postkarte bezahlen	user-213_2014-06-17_18-53-25_utt_031	i would like to pay with post card	i would like to pay with post card	1	1	ST2	A
+1019	Sag: Ich möchte vorne sitzen	user-45_2014-11-19_11-50-52_utt_277	i want to sit up front	i want to sit afternoon	1	1	ST2	B
+1021	Sag: Ich möchte vorne sitzen	user-45_2014-11-19_11-50-52_utt_279	i'd like to sit up the front	i'd like to sit on the small	1	1	ST2	B
+1038	Sag: Ich möchte in der dritten Reihe sitzen	user-45_2014-11-19_11-50-52_utt_302	i'd like to sit in the third row	i'd like to sit in the third row	1	1	ST2	B
+1510	Sag: Ich möchte mit Mastercard bezahlen	user-48_2014-11-09_11-22-37_utt_035	can i pay with by mastercard	can i buy with mastercard	1	1	ST2	B
+1731	Sag: Ich möchte mit Pfund bezahlen	user-51_2014-11-10_16-11-09_utt_138	can i pay*a with pounds	can i pay with pounds	1	1	ST2	B
+4400	Sag: Ich möchte um 13 Uhr morgen abreisen	user-83_2014-10-27_14-15-22_utt_050	i would like to leave at one o'clock	i would like with a one o'clock	1	1	ST2	B
+4974	Sag: Ich möchte mit Schweizer Franken bezahlen	user-99_2014-11-12_16-13-53_utt_006	i wanna pay with swiss francs	i would pay with swiss francs	1	1	ST2	B
+5373	Sag: Ich möchte mit Schweizer Franken bezahlen	user-131_2014-09-23_19-36-12_utt_007	can i play a pay with swiss francs	can i credit pay with swiss francs	1	1	ST2	B
+5380	Sag: Ich möchte mit Postkarte bezahlen	user-131_2014-09-23_19-36-12_utt_017	can i play pay with post card	can i pay pay with post card	1	1	ST2	B
+5656	Sag: Ich möchte mit Dollars bezahlen	user-159_2014-09-13_09-58-10_utt_069	can i pay with u s dollars	can i pay is lisbon	1	1	ST2	B
+346	Sag: Ich möchte mit Euros bezahlen	user-282_2014-12-16_08-27-04_utt_009	i wanna pay with euros	i want pay with euros	1	1	ST2	C
+370	Sag: Ich möchte mit Mastercard bezahlen	user-32_2014-10-29_14-32-01_utt_007	can i pay by*z mastercard	can i pay with mastercard	1	1	ST2	C
+383	Sag: Ich möchte mit Mastercard bezahlen	user-45_2014-10-29_13-11-30_utt_014	i would to pay with mastercard	i want to pay with mastercard	1	1	ST2	C
+794	Sag: Ich möchte mit Visa bezahlen	user-45_2014-11-19_11-17-56_utt_050	like to pay by visa	i like to pay by visa	1	1	ST2	C
+1643	Sag: Ich möchte mit Kreditkarte bezahlen	user-51_2014-11-10_16-11-09_utt_009	can i pay with visa	can i pay with visa	1	1	ST2	C
+1924	Sag: Ich möchte mit Postkarte bezahlen	user-56_2014-11-06_16-32-06_utt_007	i would like to pay by*z post card	i would like to pay with post card	1	1	ST2	C
+2259	Sag: Ich möchte mit Pfund bezahlen	user-57_2014-11-06_16-53-24_utt_016	can i pay with pounds*z	can i pay with pounds	1	1	ST2	C
+2818	Sag: Ich möchte mit Euros bezahlen	user-57_2014-11-18_18-29-18_utt_007	can i pay with euros*z	can i pay with euros	1	1	ST2	C
+2820	Sag: Ich möchte mit Euros bezahlen	user-57_2014-11-18_18-29-18_utt_009	can i pay with euros*z	can i pay with euros	1	1	ST2	C
+5733	Sag: Ich möchte am Samstagabend abreisen	user-159_2014-09-15_17-16-32_utt_081	i want to leave the saturday evening	i want to leave on saturday evening	1	1	ST2	C
+6194	Sag: Ich möchte mit Visa bezahlen	user-166_2014-09-15_18-01-46_utt_011	can i pay with v*a visa	can i pay with visa	1	1	ST2	C
+6563	Sag: Ich möchte mit Visa bezahlen	user-213_2014-06-03_15-31-28_utt_028	can i pay with visa*z	can i pay with visa	1	1	ST2	C
+ST1-5839	Sag: Ich möchte mit Postkarte bezahlen	5839	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-5845	Sag: Ich möchte um 11 Uhr morgen abreisen	5845	i would like to leave tomorrow at eleven uh a m	i would like to leave tomorrow at eleven uh a m	1	1	ST1	A
+ST1-5851	Sag: Ich möchte mit Kreditkarte bezahlen	5851	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-5856	Sag: Ich möchte mit Kreditkarte bezahlen	5856	i would like to pay by credit card	i would like to pay by credit card	1	1	ST1	A
+ST1-5869	Sag: Ich möchte mit Kreditkarte bezahlen	5869	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-5890	Sag: Ich möchte mit Mastercard bezahlen	5890	can i pay with*z master card	can i pay with mastercard	1	1	ST1	A
+ST1-5970	Sag: Ich möchte mit Mastercard bezahlen	5970	can i pay with*z master card	can i pay with mastercard	1	1	ST1	A
+ST1-5971	Sag: Ich möchte mit Dollars bezahlen	5971	can i pay with*z dollars	can i pay with dollars	1	1	ST1	A
+ST1-5973	Sag: Ich möchte mit Visa bezahlen	5973	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-5977	Sag: Ich möchte mit Kreditkarte bezahlen	5977	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-5979	Sag: Ich möchte mit Kreditkarte bezahlen	5979	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-5980	Sag: Ich möchte mit Schweizer Franken bezahlen	5980	can i pay with swiss francs	can i pay with swiss francs	1	1	ST1	A
+ST1-6019	Sag: Ich möchte um 13 Uhr morgen abreisen	6019	i want to leave tomorrow at one p m	i want to leave tomorrow at one p m	1	1	ST1	A
+ST1-6025	Sag: Ich möchte am Freitagabend abreisen	6025	i want to leave on friday evening	i want to leave on friday evening	1	1	ST1	A
+ST1-6037	Sag: Ich möchte am Samstagnachmittag abreisen	6037	i would like to leave on saturday afternoon	i would like to leave on saturday afternoon	1	1	ST1	A
+ST1-6049	Sag: Ich möchte mit Kreditkarte bezahlen	6049	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-6055	Sag: Ich möchte mit Kreditkarte bezahlen	6055	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-6065	Sag: Ich möchte mit Postkarte bezahlen	6065	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-6074	Sag: Ich möchte mit Kreditkarte bezahlen	6074	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-6082	Sag: Ich möchte mit Euros bezahlen	6082	can i pay with euros*z	can i pay with euros	1	1	ST1	A
+ST1-6083	Sag: Ich möchte mit Euros bezahlen	6083	can i pay with euros*z please	can i pay with euros please	1	1	ST1	A
+ST1-6084	Sag: Ich möchte mit Euros bezahlen	6084	can i pay with euros*z please	can i pay with euros please	1	1	ST1	A
+ST1-6101	Sag: Ich möchte morgen abreisen	6101	i would like to leave tomorrow	i would like to leave tomorrow	1	1	ST1	A
+ST1-6105	Sag: Ich möchte um 11 Uhr morgen abreisen	6105	i want to leave at eleven o'clock tomorrow	i want to leave at eleven o'clock tomorrow	1	1	ST1	A
+ST1-6191	Sag: Ich möchte am Mittwochabend abreisen	6191	i want to leave on wednesday*z evening	i want to leave on wednesday evening	1	1	ST1	A
+ST1-6202	Sag: Ich möchte um 17 Uhr morgen abreisen	6202	i want to leave tomorrow at five o'clock	i want to leave tomorrow at five o'clock	1	1	ST1	A
+ST1-6209	Sag: Ich möchte um 19 Uhr morgen abreisen	6209	i want to leave tomorrow at seven o'clock	i want to leave tomorrow at seven o'clock	1	1	ST1	A
+ST1-6218	Sag: Ich möchte um 19 Uhr morgen abreisen	6218	i want to leave tomorrow at seven o'clock	i want to leave tomorrow at seven o'clock	1	1	ST1	A
+ST1-6224	Sag: Ich möchte um 16 Uhr morgen abreisen	6224	i want to leave tomorrow at four o'clock	i want to leave tomorrow at four o'clock	1	1	ST1	A
+ST1-6228	Sag: Ich möchte am Mittwochabend abreisen	6228	i want to leave wednesday evening	i want to leave wednesday evening	1	1	ST1	A
+ST1-6347	Sag: Ich möchte mit Kreditkarte bezahlen	6347	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-6374	Sag: Ich möchte morgen abreisen	6374	i would like to leave tomorrow	i would like to leave tomorrow	1	1	ST1	A
+ST1-6437	Sag: Ich möchte mit Visa bezahlen	6437	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-6447	Sag: Ich möchte mit Visa bezahlen	6447	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-6449	Sag: Ich möchte mit Euros bezahlen	6449	can i pay with euros	can i pay with euros	1	1	ST1	A
+ST1-6458	Sag: Ich möchte um 10 Uhr morgen abreisen	6458	i want to leave at ten o'clock tomorrow	i want to leave at ten o'clock tomorrow	1	1	ST1	A
+ST1-6464	Sag: Ich möchte am Samstag abreisen	6464	i would like to leave on saturday	i would like to leave on saturday	1	1	ST1	A
+ST1-6472	Sag: Ich möchte mit Visa bezahlen	6472	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-6473	Sag: Ich möchte mit Schweizer Franken bezahlen	6473	can i pay with swi*a swiss*z francs	can i pay with swiss francs	1	1	ST1	A
+ST1-6482	Sag: Ich möchte um 8 Uhr morgen abreisen	6482	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST1	A
+ST1-6487	Sag: Ich möchte am Sonntagnachmittag abreisen	6487	i would like to leave on sunday afternoon	i would like to leave on sunday afternoon	1	1	ST1	A
+ST1-6491	Sag: Ich möchte mit Kreditkarte bezahlen	6491	can i p*a pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-6492	Sag: Ich möchte mit Euros bezahlen	6492	can i pay with euros	can i pay with euros	1	1	ST1	A
+ST1-6495	Sag: Ich möchte mit Mastercard bezahlen	6495	can i pay by mastercard	can i pay by mastercard	1	1	ST1	A
+ST1-6535	Sag: Ich möchte mit Kreditkarte bezahlen	6535	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-6544	Sag: Ich möchte mit Kreditkarte bezahlen	6544	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-6547	Sag: Ich möchte um 16 Uhr morgen abreisen	6547	i would like to leave tomorrow uh at four	i would like to leave tomorrow uh at four	1	1	ST1	A
+ST1-6558	Sag: Ich möchte mit Visa bezahlen	6558	can i pay with visa*z	can i pay with visa	1	1	ST1	A
+ST1-6559	Sag: Ich möchte mit Euros bezahlen	6559	can i pay with euros	can i pay with euros	1	1	ST1	A
+ST1-6572	Sag: Ich möchte mit Visa bezahlen	6572	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-6620	Sag: Ich möchte mit Mastercard bezahlen	6620	can i pay by mastercard	can i pay by mastercard	1	1	ST1	A
+ST1-6631	Sag: Ich möchte am Samstagnachmittag abreisen	6631	i would like to leave on saturday afternoon	i would like to leave on saturday afternoon	1	1	ST1	A
+ST1-6649	Sag: Ich möchte mit Kreditkarte bezahlen	6649	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-6666	Sag: Ich möchte um 13 Uhr morgen abreisen	6666	i would like to leave tomorrow at one p m	i would like to leave tomorrow at one p m	1	1	ST1	A
+ST1-6705	Sag: Ich möchte mit Visa bezahlen	6705	um i want to pay with visa	i want to pay with visa	1	1	ST1	A
+ST1-6706	Sag: Ich möchte mit Visa bezahlen	6706	i want to pay with visa	i want to pay with visa	1	1	ST1	A
+ST1-6707	Sag: Ich möchte mit Visa bezahlen	6707	i i i want to pay with visa	i want to pay with visa	1	1	ST1	A
+ST1-6716	Sag: Ich möchte um 18 Uhr morgen abreisen	6716	i want to leave at six o'clock tomorrow	i want to leave at six o'clock tomorrow	1	1	ST1	A
+ST1-6721	Sag: Ich möchte am Samstagabend abreisen	6721	i want to leave on saturday night	i want to leave on saturday night	1	1	ST1	A
+ST1-6722	Sag: Ich möchte am Samstagabend abreisen	6722	i want to leave on saturday night	i want to leave on saturday night	1	1	ST1	A
+ST1-6729	Sag: Ich möchte am Montag abreisen	6729	i want to leave on monday	i want to leave on monday	1	1	ST1	A
+ST1-6733	Sag: Ich möchte um 19 Uhr morgen abreisen	6733	i want to leave at seven o'clock tomorrow	i want to leave at seven o'clock tomorrow	1	1	ST1	A
+ST1-6734	Sag: Ich möchte um 19 Uhr morgen abreisen	6734	i want to leave tomorrow at seven o'clock	i want to leave tomorrow at seven o'clock	1	1	ST1	A
+ST1-6770	Sag: Ich möchte mit Visa bezahlen	6770	can i pay with visa*z	can i pay with visa	1	1	ST1	A
+ST1-6797	Sag: Ich möchte um 10 Uhr morgen abreisen	6797	i would like to leave tomorrow at ten a m	i would like to leave tomorrow at ten a m	1	1	ST1	A
+ST1-6813	Sag: Ich möchte mit Visa bezahlen	6813	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-6814	Sag: Ich möchte mit Dollars bezahlen	6814	i would like to pay with dollars	i would like to pay with dollars	1	1	ST1	A
+ST1-6822	Sag: Ich möchte mit Kreditkarte bezahlen	6822	i would like to pay with a credit*z card	i would like to pay with a credit card	1	1	ST1	A
+ST1-6823	Sag: Ich möchte mit Kreditkarte bezahlen	6823	i would like to pay with a credit*z card	i would like to pay with the credit card	1	1	ST1	A
+ST1-6847	Sag: Ich möchte mit Visa bezahlen	6847	i will i would like to pay with visa	i will i would like to pay with visa	1	1	ST1	A
+ST1-6878	Sag: Ich möchte am Freitagabend gehen	6878	i would like to go on friday evening	i would like to go on friday evening	1	1	ST1	A
+ST1-6882	Sag: Ich möchte in der neunten Reihe sitzen	6882	i would like to sit in the ninth row	i would like to sit in the ninth row	1	1	ST1	A
+ST1-6887	Sag: Ich möchte morgen Abend gehen	6887	i would like to go to the musical tomorrow evening	i would like to go to the musical tomorrow evening	1	1	ST1	A
+ST1-6888	Sag: Ich möchte morgen Abend gehen	6888	i would like to go tomorrow evening	i would like to go tomorrow evening	1	1	ST1	A
+ST1-6891	Sag: Ich möchte in der zweiten Reihe sitzen	6891	i would like to sit in the second row	i would like to sit in the second row	1	1	ST1	A
+ST1-6949	Sag: Ich möchte mit Mastercard bezahlen	6949	i want to pay with mastercard	i want to pay with mastercard	1	1	ST1	A
+ST1-6951	Sag: Ich möchte mit Mastercard bezahlen	6951	i want to pay with mastercard	i want to pay with mastercard	1	1	ST1	A
+ST1-6956	Sag: Ich möchte mit Postkarte bezahlen	6956	i want to pay with post card	i want to pay with post card	1	1	ST1	A
+ST1-7087	Sag: Ich möchte mit Visa bezahlen	7087	i would like to pay by visa*z	i would like to pay by visa	1	1	ST1	A
+ST1-7099	Sag: Ich möchte mit Postkarte bezahlen	7099	i would like to pay with post card	i would like to pay with post card	1	1	ST1	A
+ST1-7103	Sag: Ich möchte am Sonntagnachmittag abreisen	7103	i would like to leave on sunday afternoon	i would like to leave on sunday afternoon	1	1	ST1	A
+ST1-7116	Sag: Ich möchte mit Visa bezahlen	7116	i want to pay with visa*z	i want to pay with visa	1	1	ST1	A
+ST1-7120	Sag: Ich möchte in der vierten Reihe sitzen	7120	i would like to sit in the fourth row	i would like to sit in the fourth row	1	1	ST1	A
+ST1-7134	Sag: Ich möchte mit Visa bezahlen	7134	i would like to pay with visa*z	i would like to pay with visa	1	1	ST1	A
+ST1-7140	Sag: Ich möchte mit Postkarte bezahlen	7140	i would like to pay with post card	i would like to pay with post card	1	1	ST1	A
+ST1-7141	Sag: Ich möchte mit Postkarte bezahlen	7141	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-7142	Sag: Ich möchte mit Schweizer Franken bezahlen	7142	i would like to pay with swiss swiss francs*z	i would like to pay with swiss swiss francs	1	1	ST1	A
+ST1-7161	Sag: Ich möchte am Freitagnachmittag abreisen	7161	i would like to leave on friday afternoon	i would like to leave on friday afternoon	1	1	ST1	A
+ST1-7162	Sag: Ich möchte am Freitagnachmittag abreisen	7162	i would like to leave on friday afternoon	i would like to leave on friday afternoon	1	1	ST1	A
+ST1-7192	Sag: Ich möchte mit Schweizer Franken bezahlen	7192	can i pay with swiss francs	can i pay with swiss francs	1	1	ST1	A
+ST1-7246	Sag: Ich möchte mit Mastercard bezahlen	7246	i want to pay with mastercard	i want to pay with mastercard	1	1	ST1	A
+ST1-7255	Sag: Ich möchte mit Mastercard bezahlen	7255	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST1	A
+ST1-7270	Sag: Ich möchte mit Kreditkarte bezahlen	7270	i want to pay with credit card	i want to pay with credit card	1	1	ST1	A
+ST1-7271	Sag: Ich möchte mit Kreditkarte bezahlen	7271	can i pay with by credit card	can i pay with by credit card	1	1	ST1	A
+ST1-7272	Sag: Ich möchte mit Euros bezahlen	7272	i would like to pay pay with euros	i would like to pay with euros	1	1	ST1	A
+ST1-7284	Sag: Ich möchte mit Postkarte bezahlen	7284	i want to pay with post card	i want to pay with post card	1	1	ST1	A
+ST1-7286	Sag: Ich möchte mit Postkarte bezahlen	7286	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-7300	Sag: Ich möchte mit Visa bezahlen	7300	i'd like to pay with visa	i'd like to pay with visa	1	1	ST1	A
+ST1-7301	Sag: Ich möchte mit Schweizer Franken bezahlen	7301	i'd like to pay with swiss francs	i'd like to pay with swiss francs	1	1	ST1	A
+ST1-7302	Sag: Ich möchte mit Schweizer Franken bezahlen	7302	i'd like to pay with swiss francs	i'd like to pay with swiss francs	1	1	ST1	A
+ST1-7319	Sag: Ich möchte mit Postkarte bezahlen	7319	i would like to pay by post*z card	i would like to pay by post card	1	1	ST1	A
+ST1-7321	Sag: Ich möchte mit Euros bezahlen	7321	can i pay with euros	can i pay with euros	1	1	ST1	A
+ST1-7331	Sag: Ich möchte um 8 Uhr morgen abreisen	7331	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST1	A
+ST1-7341	Sag: Ich möchte mit Visa bezahlen	7341	i want to pay with visa*z	i want to pay with visa	1	1	ST1	A
+ST1-7342	Sag: Ich möchte mit Visa bezahlen	7342	can i pay pay with visa	can i pay pay with visa	1	1	ST1	A
+ST1-7343	Sag: Ich möchte mit Schweizer Franken bezahlen	7343	i want to pay with swiss francs	i want to pay with swiss francs	1	1	ST1	A
+ST1-7344	Sag: Ich möchte mit Schweizer Franken bezahlen	7344	can i pay with swiss francs	can i pay with swiss francs	1	1	ST1	A
+ST1-7349	Sag: Ich möchte mit Schweizer Franken bezahlen	7349	i would like to pay with swiss francs*z	i would like to pay with swiss francs	1	1	ST1	A
+ST1-7375	Sag: Ich möchte mit Visa bezahlen	7375	i want to pay with visa	i want to pay with visa	1	1	ST1	A
+ST1-7376	Sag: Ich möchte mit Visa bezahlen	7376	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-7404	Sag: Ich möchte in der Mitte sitzen	7404	i would like to sit in the middle	i would like to sit in the middle	1	1	ST1	A
+ST1-7420	Sag: Ich möchte mit Postkarte bezahlen	7420	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-7424	Sag: Ich möchte mit Visa bezahlen	7424	i would like to pay with visa*z	i would like to pay with visa	1	1	ST1	A
+ST1-7428	Sag: Ich möchte mit Mastercard bezahlen	7428	i want to pay with mastercard	i want to pay with mastercard	1	1	ST1	A
+ST1-7440	Sag: Ich möchte mit Postkarte bezahlen	7440	i want to pay with post card	i want to pay with post card	1	1	ST1	A
+ST1-7441	Sag: Ich möchte mit Schweizer Franken bezahlen	7441	i want to pay with swiss francs*z	i want to pay with swiss francs	1	1	ST1	A
+ST1-7442	Sag: Ich möchte mit Schweizer Franken bezahlen	7442	i would like to pay with swiss francs*z	i would like to pay with swiss francs	1	1	ST1	A
+ST1-7451	Sag: Ich möchte mit Postkarte bezahlen	7451	i want to pay with post card	i want to pay with post card	1	1	ST1	A
+ST1-7452	Sag: Ich möchte mit Euros bezahlen	7452	i want to pay with euros	i want to pay with euros	1	1	ST1	A
+ST1-7459	Sag: Ich möchte mit Mastercard bezahlen	7459	i want to pay with mastercard	i want to pay with mastercard	1	1	ST1	A
+ST1-7466	Sag: Ich möchte mit Postkarte bezahlen	7466	i want to pay with post*z card	i want to pay with post card	1	1	ST1	A
+ST1-7484	Sag: Ich möchte am Dienstagabend abreisen	7484	i want to leave on tuesday evening	i want to leave on tuesday evening	1	1	ST1	A
+ST1-7493	Sag: Ich möchte am Sonntag abreisen	7493	i would like to leave on sunday	i would like to leave on sunday	1	1	ST1	A
+ST1-7523	Sag: Ich möchte am Sonntagmorgen abreisen	7523	i want to leave on sunday morning	i want to leave on sunday morning	1	1	ST1	A
+ST1-7566	Sag: Ich möchte mit Mastercard bezahlen	7566	can i pay by mastercard	can i pay by mastercard	1	1	ST1	A
+ST1-7575	Sag: Ich möchte mit Visa bezahlen	7575	can i pay with visa*z	can i pay with visa	1	1	ST1	A
+ST1-7587	Sag: Ich möchte mit Postkarte bezahlen	7587	i would*z like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-7599	Sag: Ich möchte mit Postkarte bezahlen	7599	i would i would like to pay by post card	i would i would like to pay by post card	1	1	ST1	A
+ST1-7600	Sag: Ich möchte mit Postkarte bezahlen	7600	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-7620	Sag: Ich möchte in der achten Reihe sitzen	7620	i want to sit in the eight row	i want to sit in the eighth row	1	1	ST1	A
+ST1-7624	Sag: Ich möchte mit Visa bezahlen	7624	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-7625	Sag: Ich möchte mit Visa bezahlen	7625	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-7626	Sag: Ich möchte mit Pfund bezahlen	7626	can i pay with pounds	can i pay with pounds	1	1	ST1	A
+ST1-7672	Sag: Ich möchte mit Mastercard bezahlen	7672	can i pay with ma*a master card	can i pay with ma master card	1	1	ST1	A
+ST1-7685	Sag: Ich möchte mit Postkarte bezahlen	7685	i would*z like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-7697	Sag: Ich möchte mit Mastercard bezahlen	7697	i want to pay with mastercard	i want to pay with mastercard	1	1	ST1	A
+ST1-7702	Sag: Ich möchte mit Visa bezahlen	7702	i want to pay with visa	i want to pay with visa	1	1	ST1	A
+ST1-7703	Sag: Ich möchte mit Schweizer Franken bezahlen	7703	i want to pay with swiss francs	i want to pay with swiss francs	1	1	ST1	A
+ST1-7704	Sag: Ich möchte mit Schweizer Franken bezahlen	7704	i want to pay with swiss francs	i want to pay with swiss francs	1	1	ST1	A
+ST1-7705	Sag: Ich möchte mit Schweizer Franken bezahlen	7705	i want to pay with swiss francs	i want to pay with swiss francs	1	1	ST1	A
+ST1-7764	Sag: Ich möchte um 21 Uhr morgen abreisen	7764	i want to leave at nine o'clock tomorrow	i want to leave at nine o'clock tomorrow	1	1	ST1	A
+ST1-7772	Sag: Ich möchte mit Visa bezahlen	7772	can i pay with visa*z	can i pay with visa	1	1	ST1	A
+ST1-7774	Sag: Ich möchte mit Euros bezahlen	7774	can i pay with euros	can i pay with euros	1	1	ST1	A
+ST1-7784	Sag: Ich möchte mit Postkarte bezahlen	7784	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-7840	Sag: Ich möchte in der achten Reihe sitzen	7840	i want to sit in the eight row	i want to sit in the eighth row	1	1	ST1	A
+ST1-7847	Sag: Ich möchte in der neunten Reihe sitzen	7847	i would like to sit in the ninth row	i would like to sit in the ninth row	1	1	ST1	A
+ST1-7852	Sag: Ich möchte am Montagabend gehen	7852	i would like go on monday evening	i would like to go on monday evening	1	1	ST1	A
+ST1-7857	Sag: Ich möchte in der zweiten Reihe sitzen	7857	i would like to sit in the second row	i would like to sit in the second row	1	1	ST1	A
+ST1-7862	Sag: Ich möchte am Dienstag abreisen	7862	i would like to leave on tuesday	i would like to leave on tuesday	1	1	ST1	A
+ST1-7951	Sag: Ich möchte mit Kreditkarte bezahlen	7951	i would like pay with credit card	i would like pay with credit card	1	1	ST1	A
+ST1-8063	Sag: Ich möchte in der fünften Reihe sitzen	8063	i would like to sit in the fifth row*z	i would like to sit in the fifth row	1	1	ST1	A
+ST1-8089	Sag: Ich möchte mit Postkarte bezahlen	8089	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-8096	Sag: Ich möchte mit Mastercard bezahlen	8096	can i pay by mastercard	can i pay by mastercard	1	1	ST1	A
+ST1-8146	Sag: Ich möchte mit Visa bezahlen	8146	can i pay by visa	can i pay by visa	1	1	ST1	A
+ST1-8148	Sag: Ich möchte mit Euros bezahlen	8148	can i pay with euros	can i pay with euros	1	1	ST1	A
+ST1-8171	Sag: Ich möchte um 20 Uhr morgen abreisen	8171	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST1	A
+ST1-8172	Sag: Ich möchte um 20 Uhr morgen abreisen	8172	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST1	A
+ST1-8173	Sag: Ich möchte um 20 Uhr morgen abreisen	8173	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST1	A
+ST1-8206	Sag: Ich möchte mit Mastercard bezahlen	8206	i would like to ha pay with the mastercard	i would like to ha pay with mastercard	1	1	ST1	A
+ST1-8213	Sag: Ich möchte morgen abreisen	8213	i would like to leave tomorrow	i would like to leave tomorrow	1	1	ST1	A
+ST1-8222	Sag: Ich möchte mit Schweizer Franken bezahlen	8222	i would like to pay with swiss francs	i would like to pay with swiss francs	1	1	ST1	A
+ST1-8223	Sag: Ich möchte mit Schweizer Franken bezahlen	8223	can i pay with swiss francs	can i pay with swiss francs	1	1	ST1	A
+ST1-8231	Sag: Ich möchte mit Euros bezahlen	8231	i would like to pay with euros	i would like to pay with euros	1	1	ST1	A
+ST1-8234	Sag: Ich möchte am Montagnachmittag abreisen	8234	i would like to leave on monday afternoon	i would like to leave on monday afternoon	1	1	ST1	A
+ST1-8256	Sag: Ich möchte in der Mitte sitzen	8256	i would like to sit in the middle	i would like to sit in the middle	1	1	ST1	A
+ST1-8281	Sag: Ich möchte mit Visa bezahlen	8281	can i pay with visa*z visa	can i pay with visa	1	1	ST1	A
+ST1-8285	Sag: Ich möchte nächste Woche abreisen	8285	i want*z to leave*z to leave next week	i want to leave to leave next week	1	1	ST1	A
+ST1-8286	Sag: Ich möchte nächste Woche abreisen	8286	i would*z like to leave next week	i would like to leave next week	1	1	ST1	A
+ST1-8299	Sag: Ich möchte mit Postkarte bezahlen	8299	i would*z like to pl*a pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-8303	Sag: Ich möchte am Donnerstagabend gehen	8303	i would like to go on thursday evening*z	i would like to go on thursday evening	1	1	ST1	A
+ST1-8305	Sag: Ich möchte in der vierten Reihe sitzen	8305	i would like to sit in the fourth row*z	i would like to sit in the fourth row	1	1	ST1	A
+ST1-8353	Sag: Ich möchte mit Postkarte bezahlen	8353	i would*z like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-8362	Sag: Ich möchte in der ersten Reihe sitzen	8362	i want*z to sit*z in the first row*z	i want to sit in the first row	1	1	ST1	A
+ST1-8381	Sag: Ich möchte mit Dollars bezahlen	8381	i would like to pay with dollars	i would like to pay with dollars	1	1	ST1	A
+ST1-8395	Sag: Ich möchte mit Visa bezahlen	8395	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-8396	Sag: Ich möchte mit Visa bezahlen	8396	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-8397	Sag: Ich möchte mit Visa bezahlen	8397	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-8413	Sag: Ich möchte mit Visa bezahlen	8413	can i pay with visa*z	can i pay with visa	1	1	ST1	A
+ST1-8414	Sag: Ich möchte mit Visa bezahlen	8414	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-8415	Sag: Ich möchte mit Visa bezahlen	8415	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-8430	Sag: Ich möchte mit Dollars bezahlen	8430	ok i want to pay with dollars	ok i want to pay with dollars	1	1	ST1	A
+ST1-8431	Sag: Ich möchte mit Dollars bezahlen	8431	can i pay with dollars	can i pay with dollars	1	1	ST1	A
+ST1-8472	Sag: Ich möchte mit Mastercard bezahlen	8472	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST1	A
+ST1-8477	Sag: Ich möchte in der fünften Reihe sitzen	8477	i want to sit in the fifth row	i want to sit in the fifth row	1	1	ST1	A
+ST1-8493	Sag: Ich möchte mit Kreditkarte bezahlen	8493	i would like to pay with my credit card	i would like to pay with my credit card	1	1	ST1	A
+ST1-8494	Sag: Ich möchte mit Kreditkarte bezahlen	8494	i would like to pay with a credit card	i would like to pay with the credit card	1	1	ST1	A
+ST1-8503	Sag: Ich möchte mit Dollars bezahlen	8503	can i pay with dollars	can i pay with dollars	1	1	ST1	A
+ST1-8507	Sag: Ich möchte um 16 Uhr morgen abreisen	8507	i would like to leave tomorrow at four o'clock p m	i would like to leave tomorrow at four o'clock p m	1	1	ST1	A
+ST1-8538	Sag: Ich möchte mit Visa bezahlen	8538	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-8556	Sag: Ich möchte am Dienstagmorgen abreisen	8556	i want to leave on tuesday morning	i want to leave on tuesday morning	1	1	ST1	A
+ST1-8561	Sag: Ich möchte um 13 Uhr morgen abreisen	8561	i would like to leave at one p m tomorrow	i would like to leave at one p m tomorrow	1	1	ST1	A
+ST1-8562	Sag: Ich möchte um 13 Uhr morgen abreisen	8562	i would like to leave tomorrow one p m	i would like to leave tomorrow one p m	1	1	ST1	A
+ST1-8565	Sag: Ich möchte um 20 Uhr morgen abreisen	8565	i want to leave at eight o'clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST1	A
+ST1-8571	Sag: Ich möchte um 15 Uhr morgen abreisen	8571	i would like to leave at three p m tomorrow	i would like to leave at three pm tomorrow	1	1	ST1	A
+ST1-8577	Sag: Ich möchte mit Postkarte bezahlen	8577	i would like to pay by post c*a i would like to pay by post card	i would like to pay by post card i would like to pay by post card	1	1	ST1	A
+ST1-8578	Sag: Ich möchte mit Postkarte bezahlen	8578	i would like to pay by po*a post card	i would like to pay by post card	1	1	ST1	A
+ST1-8587	Sag: Ich möchte um 21 Uhr morgen abreisen	8587	i want to leave at nine o'clock tomorrow	i want to leave at nine o'clock tomorrow	1	1	ST1	A
+ST1-8599	Sag: Ich möchte mit Mastercard bezahlen	8599	i would like to pay by master card	i would like to pay by mastercard	1	1	ST1	A
+ST1-8602	Sag: Ich möchte in der zweiten Reihe sitzen	8602	i would like to sit in the second row	i would like to sit in the second row	1	1	ST1	A
+ST1-8615	Sag: Ich möchte mit Kreditkarte bezahlen	8615	i would like to pay by credit card	i would like to pay by credit card	1	1	ST1	A
+ST1-8631	Sag: Ich möchte mit Postkarte bezahlen	8631	can i pay by post card	can i pay by post card	1	1	ST1	A
+ST1-8634	Sag: Ich möchte mit Kreditkarte bezahlen	8634	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-8646	Sag: Ich möchte um 14 Uhr morgen abreisen	8646	i want to leave tomorrow at two p m	i want to leave tomorrow at two p m	1	1	ST1	A
+ST1-8678	Sag: Ich möchte in der siebten Reihe sitzen	8678	i wouuld like to sit in the seventh row	i would like to sit in the seventh row	1	1	ST1	A
+ST1-8694	Sag: Ich möchte um 11 Uhr morgen abreisen	8694	i would li*a i would like to leave tomorrow at eleven a m	i would like to leave tomorrow at eleven a m	1	1	ST1	A
+ST1-8733	Sag: Ich möchte in der Mitte sitzen	8733	i want to sit in the middle	i want to sit in the middle	1	1	ST1	A
+ST1-8741	Sag: Ich möchte mit Kreditkarte bezahlen	8741	i want to pay with credit card	i want to pay with credit card	1	1	ST1	A
+ST1-8752	Sag: Ich möchte mit Visa bezahlen	8752	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-8761	Sag: Ich möchte in der fünften Reihe sitzen	8761	i want to sit in the fifth row	i want to sit in the fifth row	1	1	ST1	A
+ST1-8775	Sag: Ich möchte mit Postkarte bezahlen	8775	i want to pay with post cards	i want to pay with post card	1	1	ST1	A
+ST1-8776	Sag: Ich möchte mit Postkarte bezahlen	8776	i want to pay with post card	i want to pay with post card	1	1	ST1	A
+ST1-8797	Sag: Ich möchte mit Kreditkarte bezahlen	8797	i want to pay with credit card	i want to pay with credit card	1	1	ST1	A
+ST1-8807	Sag: Ich möchte in der fünften Reihe sitzen	8807	i want to sit in the fifth row	i want to sit in the fifth row	1	1	ST1	A
+ST1-8811	Sag: Ich möchte mit Mastercard bezahlen	8811	i would like to pay by master card	i would like to pay by mastercard	1	1	ST1	A
+ST1-8878	Sag: Ich möchte mit Kreditkarte bezahlen	8878	i want to pay with my card	i want to pay with mastercard	1	1	ST1	A
+ST1-8897	Sag: Ich möchte am Samstagmorgen abreisen	8897	i want to leave on saturday*z morning	i want to leave on saturday morning	1	1	ST1	A
+ST1-8912	Sag: Ich möchte am Sonntagmorgen abreisen	8912	i want to leave on sunday morning	i want to leave on sunday morning	1	1	ST1	A
+ST1-8953	Sag: Ich möchte mit Postkarte bezahlen	8953	i want to pay with post card*z	i want to pay with post card	1	1	ST1	A
+ST1-8954	Sag: Ich möchte mit Postkarte bezahlen	8954	i want to pay with post card*z	i want to pay with post card	1	1	ST1	A
+ST1-8955	Sag: Ich möchte mit Postkarte bezahlen	8955	i want to pay with post cards	i want to pay with post card	1	1	ST1	A
+ST1-8962	Sag: Ich möchte um 11 Uhr morgen abreisen	8962	i want to leave at eleven o'clock in the morning	i want to leave at eleven o'clock in the morning	1	1	ST1	A
+ST1-8969	Sag: Ich möchte mit Mastercard bezahlen	8969	i want to pay with master card	i want to pay with mastercard	1	1	ST1	A
+ST1-8971	Sag: Ich möchte mit Postkarte bezahlen	8971	i want to pay with post card	i want to pay with post card	1	1	ST1	A
+ST1-8972	Sag: Ich möchte mit Dollars bezahlen	8972	i want to pay with dollars	i want to pay with dollars	1	1	ST1	A
+ST1-9003	Sag: Ich möchte mit Dollars bezahlen	9003	can i pay with dollars	can i pay with dollars	1	1	ST1	A
+ST1-9014	Sag: Ich möchte um 9 Uhr morgen abreisen	9014	i want to leave at nine a m tomorrow	i want to leave at nine a m tomorrow	1	1	ST1	A
+ST1-9031	Sag: Ich möchte mit Kreditkarte bezahlen	9031	i want to pay with credit card	i want to pay with credit card	1	1	ST1	A
+ST1-9035	Sag: Ich möchte am Montagabend gehen	9035	woul* i would like to go on monday evening	i would like to go on monday evening	1	1	ST1	A
+ST1-9038	Sag: Ich möchte in der ersten Reihe sitzen	9038	i want to sit in the first row	i want to sit in the first row	1	1	ST1	A
+ST1-9039	Sag: Ich möchte in der ersten Reihe sitzen	9039	i want to sit in the first row	i want to sit in the first row	1	1	ST1	A
+ST1-9102	Sag: Ich möchte um 18 Uhr morgen abreisen	9102	i would like to leave tomorrow at six pm	i would like to leave tomorrow at six pm	1	1	ST1	A
+ST1-9108	Sag: Ich möchte am Freitagnachmittag abreisen	9108	i would like to leave on friday afternoon	i would like to leave on friday afternoon	1	1	ST1	A
+ST1-9121	Sag: Ich möchte mit Mastercard bezahlen	9121	can i pay with master card	can i pay with mastercard	1	1	ST1	A
+ST1-9128	Sag: Ich möchte mit Pfund bezahlen	9128	can i pay with pounds	can i pay with pounds	1	1	ST1	A
+ST1-9132	Sag: Ich möchte in der vierten Reihe sitzen	9132	i would like to sit in the fourth row	i would like to sit in the fourth row	1	1	ST1	A
+ST1-9133	Sag: Ich möchte in der vierten Reihe sitzen	9133	i would like to sit in the fourth row	i would like to sit in the fourth row	1	1	ST1	A
+ST1-9134	Sag: Ich möchte in der vierten Reihe sitzen	9134	i would like to sit in the fourth row	i would like to sit in the fourth row	1	1	ST1	A
+ST1-9154	Sag: Ich möchte mit Mastercard bezahlen	9154	can i pay with master card	can i pay with mastercard	1	1	ST1	A
+ST1-9160	Sag: Ich möchte mit Postkarte bezahlen	9160	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-9166	Sag: Ich möchte mit Mastercard bezahlen	9166	i would like to pay by master card	i would like to pay by mastercard	1	1	ST1	A
+ST1-9167	Sag: Ich möchte mit Dollars bezahlen	9167	can i pay with dollars	can i pay with dollars	1	1	ST1	A
+ST1-9168	Sag: Ich möchte mit Dollars bezahlen	9168	can i pay with dollars	can i pay with dollars	1	1	ST1	A
+ST1-9169	Sag: Ich möchte mit Dollars bezahlen	9169	can i pay with dollars	can i pay with dollars	1	1	ST1	A
+ST1-9174	Sag: Ich möchte mit Kreditkarte bezahlen	9174	i want to pay with credit card	i want to pay with credit card	1	1	ST1	A
+ST1-9183	Sag: Ich möchte mit Euros bezahlen	9183	i want to pay with euro	i want to pay with euros	1	1	ST1	A
+ST1-9189	Sag: Ich möchte mit Mastercard bezahlen	9189	can i pay with master card	can i pay with mastercard	1	1	ST1	A
+ST1-9190	Sag: Ich möchte mit Mastercard bezahlen	9190	can i pay with master card	can i pay with mastercard	1	1	ST1	A
+ST1-9191	Sag: Ich möchte mit Mastercard bezahlen	9191	can i pay with master master card	can i pay with master master card	1	1	ST1	A
+ST1-9194	Sag: Ich möchte mit Mastercard bezahlen	9194	can i pay with master card	can i pay with master card	1	1	ST1	A
+ST1-9198	Sag: Ich möchte mit Postkarte bezahlen	9198	i would like to pay with post card	i would like to pay with post card	1	1	ST1	A
+ST1-9207	Sag: Ich möchte mit Mastercard bezahlen	9207	can i pay by mastercard	can i pay by mastercard	1	1	ST1	A
+ST1-9208	Sag: Ich möchte mit Dollars bezahlen	9208	can i pay in dollars	can i pay with dollars	1	1	ST1	A
+ST1-9212	Sag: Ich möchte mit Mastercard bezahlen	9212	ggg i will pay with mastercard please	i will pay with mastercard please	1	1	ST1	A
+ST1-9214	Sag: Ich möchte mit Mastercard bezahlen	9214	i want to pay with mastercard please	i want pay with mastercard please	1	1	ST1	A
+ST1-9224	Sag: Ich möchte mit Schweizer Franken bezahlen	9224	can i pay with swiss francs please	can i pay with swiss francs	1	1	ST1	A
+ST1-9240	Sag: Ich möchte mit Postkarte bezahlen	9240	can i pay with post*z card please	can i pay with post card please	1	1	ST1	A
+ST1-9252	Sag: Ich möchte mit Kreditkarte bezahlen	9252	can i pay with master card please	can i pay with mastercard please	1	1	ST1	A
+ST1-9289	Sag: Ich möchte in der fünften Reihe sitzen	9289	i would like to sit in the fifth row	i would like to sit in the fifth row	1	1	ST1	A
+ST1-9303	Sag: Ich möchte mit Mastercard bezahlen	9303	can i pay by mastercard	can i pay by mastercard	1	1	ST1	A
+ST1-9323	Sag: Ich möchte mit Dollars bezahlen	9323	then i pay with dollars	can i pay with dollars	1	1	ST1	A
+ST1-9335	Sag: Ich möchte in der Mitte sitzen	9335	i want to sit in the middle	i want to sit in the middle	1	1	ST1	A
+ST1-9416	Sag: Ich möchte mit Schweizer Franken bezahlen	9416	can i pay with swiss francs	can i pay with swiss francs	1	1	ST1	A
+ST1-9425	Sag: Ich möchte mit Visa bezahlen	9425	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-9448	Sag: Ich möchte mit Postkarte bezahlen	9448	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-9449	Sag: Ich möchte mit Dollars bezahlen	9449	can i pay with dollars	can i pay with dollars	1	1	ST1	A
+ST1-9468	Sag: Ich möchte mit Kreditkarte bezahlen	9468	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-9473	Sag: Ich möchte am Montag abreisen	9473	i would like to leave at monday	i would like to leave monday	1	1	ST1	A
+ST1-9493	Sag: Ich möchte am Sonntagabend abreisen	9493	i would like to leave on sunday evening	i would like to leave on sunday evening	1	1	ST1	A
+ST1-9497	Sag: Ich möchte um 12 Uhr morgen abreisen	9497	i would like leave at twelve o'clock tomorrow	i would like leave at twelve o'clock tomorrow	1	1	ST1	A
+ST1-9502	Sag: Ich möchte mit Mastercard bezahlen	9502	can i pay by mastercard	can i pay by mastercard	1	1	ST1	A
+ST1-9509	Sag: Ich möchte mit Visa bezahlen	9509	can i pay by visa	can i pay by visa	1	1	ST1	A
+ST1-9519	Sag: Ich möchte mit Visa bezahlen	9519	can i pay by visa*z	can i pay by visa	1	1	ST1	A
+ST1-9527	Sag: Ich möchte heute Abend gehen	9527	i want to go this evening	i want to go this evening	1	1	ST1	A
+ST1-9529	Sag: Ich möchte in der Mitte sitzen	9529	i would like to sit in the middle	i would like to sit in the middle	1	1	ST1	A
+ST1-9539	Sag: Ich möchte mit Visa bezahlen	9539	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-9546	Sag: Ich möchte mit Visa bezahlen	9546	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-9547	Sag: Ich möchte mit Visa bezahlen	9547	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-9552	Sag: Ich möchte am Sonntagabend abreisen	9552	i would like to leave on sunday evening	i would like to leave on sunday evening	1	1	ST1	A
+ST1-9557	Sag: Ich möchte am Freitagabend abreisen	9557	i would like to leave on friday evening	i would like to leave on friday evening	1	1	ST1	A
+ST1-9562	Sag: Ich möchte am Dienstagmorgen abreisen	9562	i would like to leave on tuesday morning	i would like to leave on tuesday morning	1	1	ST1	A
+ST1-9563	Sag: Ich möchte am Dienstagmorgen abreisen	9563	l would like to leave on tuesday morning	i would like to leave on tuesday morning	1	1	ST1	A
+ST1-9567	Sag: Ich möchte um 15 Uhr morgen abreisen	9567	i want to leave at three pm tomorrow	i want to leave at three pm tomorrow	1	1	ST1	A
+ST1-9573	Sag: Ich möchte mit Postkarte bezahlen	9573	i would like to pay with postcard	i would like to pay with post card	1	1	ST1	A
+ST1-9574	Sag: Ich möchte mit Postkarte bezahlen	9574	i would like to pay by postcard	i would like to pay by post card	1	1	ST1	A
+ST1-9575	Sag: Ich möchte mit Postkarte bezahlen	9575	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-9577	Sag: Ich möchte mit Mastercard bezahlen	9577	i would like to pay by ba*a mastercard	i would like to pay by mastercard	1	1	ST1	A
+ST1-9579	Sag: Ich möchte mit Visa bezahlen	9579	i would like to pay by visa	i would like to pay by visa	1	1	ST1	A
+ST1-9580	Sag: Ich möchte mit Visa bezahlen	9580	i would like to pay by visa	i would like to pay by visa	1	1	ST1	A
+ST1-9581	Sag: Ich möchte mit Schweizer Franken bezahlen	9581	i would like to pay with swiss francs	i would like to pay with swiss francs	1	1	ST1	A
+ST1-9584	Sag: Ich möchte mit Postkarte bezahlen	9584	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-9586	Sag: Ich möchte mit Visa bezahlen	9586	i would like to pay by visa*z	i would like to pay by visa	1	1	ST1	A
+ST1-9588	Sag: Ich möchte mit Kreditkarte bezahlen	9588	i would like to pay by card	i would like to pay by card	1	1	ST1	A
+ST1-9589	Sag: Ich möchte mit Dollars bezahlen	9589	i would like to pay with dollars	i would like to pay with dollars	1	1	ST1	A
+ST1-9625	Sag: Ich möchte in der zehnten Reihe sitzen	9625	i would like to sit in the tenth row	i would like to sit in the tenth row	1	1	ST1	A
+ST1-9632	Sag: Ich möchte in der ersten Reihe sitzen	9632	i would like to sit in the fourth  first row	i would like to sit in the fourth first row	1	1	ST1	A
+ST1-9633	Sag: Ich möchte in der ersten Reihe sitzen	9633	i would like to sit in the first row	i would like to sit in the first row	1	1	ST1	A
+ST1-9640	Sag: Ich möchte in der fünften Reihe sitzen	9640	i would like to sit in the fifth row	i would like to sit in the fifth row	1	1	ST1	A
+ST1-9647	Sag: Ich möchte in der siebten Reihe sitzen	9647	i want to sit in the seventh row	i want to sit in the seventh row	1	1	ST1	A
+ST1-9655	Sag: Ich möchte in der achten Reihe sitzen	9655	i would like to sit in the eighth row	i would like to sit in the eighth row	1	1	ST1	A
+ST1-9656	Sag: Ich möchte in der achten Reihe sitzen	9656	i want to sit in the eighth row	i want to sit in the eighth row	1	1	ST1	A
+ST1-9664	Sag: Ich möchte in der zweiten Reihe sitzen	9664	i would like to sit in the second row o	i would like to sit in the second row	1	1	ST1	A
+ST1-9665	Sag: Ich möchte in der zweiten Reihe sitzen	9665	i would like to sit in the second row	i would like to sit in the second row	1	1	ST1	A
+ST1-9670	Sag: Ich möchte morgen gehen	9670	i want to go tomorrow	i want to go tomorrow	1	1	ST1	A
+ST1-9672	Sag: Ich möchte in der zweiten Reihe sitzen	9672	i would like to sit in the second row	i would like to sit in the second row	1	1	ST1	A
+ST1-9679	Sag: Ich möchte in der vierten Reihe sitzen	9679	i would like to sit in the fourth row	i would like to sit in the fourth row	1	1	ST1	A
+ST1-9685	Sag: Ich möchte in der achten Reihe sitzen	9685	i would like to sit in the eighth row	i would like to sit in the eighth row	1	1	ST1	A
+ST1-9692	Sag: Ich möchte in der Mitte sitzen	9692	i would like to sit in the middle	i would like to sit in the middle	1	1	ST1	A
+ST1-9705	Sag: Ich möchte am Samstagmorgen abreisen	9705	i would like to leave on saturday morning	i would like to leave on saturday morning	1	1	ST1	A
+ST1-9706	Sag: Ich möchte am Samstagmorgen abreisen	9706	i would like to leave on saturday morning	i would like to leave on saturday morning	1	1	ST1	A
+ST1-9722	Sag: Ich möchte mit Postkarte bezahlen	9722	i would like to pay with post card	i would like to pay with post card	1	1	ST1	A
+ST1-9723	Sag: Ich möchte mit Schweizer Franken bezahlen	9723	can i play with swiss francs	can i pay with swiss francs	1	1	ST1	A
+ST1-9732	Sag: Ich möchte mit Visa bezahlen	9732	can i pay with visa	can i pay with visa	1	1	ST1	A
+ST1-9733	Sag: Ich möchte mit Euros bezahlen	9733	can i pay with euros	can i pay with euros	1	1	ST1	A
+ST1-9746	Sag: Ich möchte mit Visa bezahlen	9746	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-9762	Sag: Ich möchte mit Kreditkarte bezahlen	9762	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-9764	Sag: Ich möchte mit Kreditkarte bezahlen	9764	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-9766	Sag: Ich möchte mit Postkarte bezahlen	9766	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-9767	Sag: Ich möchte mit Schweizer Franken bezahlen	9767	can i pay with swiss francs	can i pay with swiss francs	1	1	ST1	A
+ST1-9768	Sag: Ich möchte mit Schweizer Franken bezahlen	9768	can i pay with swiss francs	can i pay with swiss francs	1	1	ST1	A
+ST1-9772	Sag: Ich möchte mit Mastercard bezahlen	9772	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST1	A
+ST1-9774	Sag: Ich möchte mit Kreditkarte bezahlen	9774	i would like to pay by credit card	i would like to pay by credit card	1	1	ST1	A
+ST1-9776	Sag: Ich möchte mit Kreditkarte bezahlen	9776	i would like to pay by credit card	i would like to pay by credit card	1	1	ST1	A
+ST1-9777	Sag: Ich möchte mit Dollars bezahlen	9777	i would like to pay with dollars	i would like to pay with dollars	1	1	ST1	A
+ST1-9783	Sag: Ich möchte mit Mastercard bezahlen	9783	can i pay with mastercard	can i pay with mastercard	1	1	ST1	A
+ST1-9784	Sag: Ich möchte mit Mastercard bezahlen	9784	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST1	A
+ST1-9785	Sag: Ich möchte mit Dollars bezahlen	9785	can i pay with dollars	can i pay with dollars	1	1	ST1	A
+ST1-9786	Sag: Ich möchte mit Dollars bezahlen	9786	i would like to pay with dollars	i would like to pay with dollars	1	1	ST1	A
+ST1-9790	Sag: Ich möchte mit Kreditkarte bezahlen	9790	i would like to pay by credit card	i would like to pay by credit card	1	1	ST1	A
+ST1-9792	Sag: Ich möchte mit Visa bezahlen	9792	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-9793	Sag: Ich möchte mit Visa bezahlen	9793	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-9804	Sag: Ich möchte mit Postkarte bezahlen	9804	i would like to pay with post card	i would like to pay with post card	1	1	ST1	A
+ST1-9805	Sag: Ich möchte mit Postkarte bezahlen	9805	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-9806	Sag: Ich möchte mit Postkarte bezahlen	9806	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-9813	Sag: Ich möchte heute Abend gehen	9813	i want to go this evening	i want to go this evening	1	1	ST1	A
+ST1-9815	Sag: Ich möchte in der zehnten Reihe sitzen	9815	i would like to sit in the tenth row	i would like to sit in the tenth row	1	1	ST1	A
+ST1-9824	Sag: Ich möchte mit Mastercard bezahlen	9824	i would like to pay with master card	i would like to pay with mastercard	1	1	ST1	A
+ST1-9829	Sag: Ich möchte mit Visa bezahlen	9829	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-9830	Sag: Ich möchte mit Dollars bezahlen	9830	i would like to pay with dollars	i would like to pay with dollars	1	1	ST1	A
+ST1-9838	Sag: Ich möchte mit Visa bezahlen	9838	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-9844	Sag: Ich möchte mit Visa bezahlen	9844	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-9854	Sag: Ich möchte mit Mastercard bezahlen	9854	i would like to pay by mastercard	i would like to pay by mastercard	1	1	ST1	A
+ST1-9867	Sag: Ich möchte um 18 Uhr morgen abreisen	9867	i would like to leave at six o'clock tomorrow	i would like to leave at six o'clock tomorrow	1	1	ST1	A
+ST1-9873	Sag: Ich möchte mit Postkarte bezahlen	9873	i would like to pay with post card	i would like to pay with post card	1	1	ST1	A
+ST1-9874	Sag: Ich möchte mit Dollars bezahlen	9874	i would like to pay with dollars	i would like to pay with dollars	1	1	ST1	A
+ST1-9877	Sag: Ich möchte mit Mastercard bezahlen	9877	i would like to pay by master card	i would like to pay by mastercard	1	1	ST1	A
+ST1-9898	Sag: Ich möchte mit Mastercard bezahlen	9898	i would like to pay with master card	i would like to pay with mastercard	1	1	ST1	A
+ST1-9902	Sag: Ich möchte mit Mastercard bezahlen	9902	i would like to pay with master card	i would like to pay with mastercard	1	1	ST1	A
+ST1-9903	Sag: Ich möchte mit Euros bezahlen	9903	i would like to pay with euros	i would like to pay with euros	1	1	ST1	A
+ST1-9911	Sag: Ich möchte mit Kreditkarte bezahlen	9911	i would like to pay by credit card	i would like to pay by credit card	1	1	ST1	A
+ST1-9968	Sag: Ich möchte mit Visa bezahlen	9968	i want to pay with visa	i want to pay with visa	1	1	ST1	A
+ST1-9996	Sag: Ich möchte am Sonntagabend abreisen	9996	i want to leave on sunday evening	i want to leave on sunday evening	1	1	ST1	A
+ST1-10024	Sag: Ich möchte am Mittwoch abreisen	10024	i want to leave on wednesday	i want to leave on wednesday	1	1	ST1	A
+ST1-10055	Sag: Ich möchte in der zweiten Reihe sitzen	10055	i want to sit in the second row	i want to sit in the second row	1	1	ST1	A
+ST1-10065	Sag: Ich möchte in der zweiten Reihe sitzen	10065	i want to sit in the second row*z	i want to sit in the second row	1	1	ST1	A
+ST1-10091	Sag: Ich möchte in der vierten Reihe sitzen	10091	i want to sit in the fourth*z row	i want to sit in the fourth row	1	1	ST1	A
+ST1-10129	Sag: Ich möchte mit Visa bezahlen	10129	i'd like to pay with visa	i'd like to pay with visa	1	1	ST1	A
+ST1-10141	Sag: Ich möchte mit Schweizer Franken bezahlen	10141	i'd like to pay with swiss francs	i'd like to pay with swiss francs	1	1	ST1	A
+ST1-10153	Sag: Ich möchte am Donnerstagmorgen abreisen	10153	i'd like to leave on thursday morning	i'd like to leave on thursday morning	1	1	ST1	A
+ST1-10164	Sag: Ich möchte mit Euros bezahlen	10164	i'd like to pay with euros	i'd like to pay with euros	1	1	ST1	A
+ST1-10172	Sag: Ich möchte mit Visa bezahlen	10172	i'd like to pay with with visa	i'd like to pay with with visa	1	1	ST1	A
+ST1-10174	Sag: Ich möchte mit Euros bezahlen	10174	i would like to pay with euros	i would like to pay with euros	1	1	ST1	A
+ST1-10175	Sag: Ich möchte mit Euros bezahlen	10175	i would like to pay with euros	i would like to pay with euros	1	1	ST1	A
+ST1-10185	Sag: Ich möchte in der vierten Reihe sitzen	10185	i'd like to sit in the fourth row	i'd like to sit in the fourth row	1	1	ST1	A
+ST1-10187	Sag: Ich möchte in der vierten Reihe sitzen	10187	i'd like to sit in the fourth row	i'd like to sit in the fourth row	1	1	ST1	A
+ST1-10194	Sag: Ich möchte am Donnerstagabend gehen	10194	i'd like to go on thursday evening	i'd like to go on thursday evening	1	1	ST1	A
+ST1-10201	Sag: Ich möchte am Montagabend gehen	10201	i'd like to go monday evening	i'd like to go monday evening	1	1	ST1	A
+ST1-10205	Sag: Ich möchte in der sechsten Reihe sitzen	10205	i'd like to sit in the sixth row	i'd like to sit in the sixth row	1	1	ST1	A
+ST1-10210	Sag: Ich möchte mit Visa bezahlen	10210	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-10213	Sag: Ich möchte mit Dollars bezahlen	10213	i would like to play with dollars	i would like to pay with dollars	1	1	ST1	A
+ST1-10217	Sag: Ich möchte am Donnerstagmorgen abreisen	10217	i would like to leave on thursday morning	i would like to leave on thursday morning	1	1	ST1	A
+ST1-10221	Sag: Ich möchte am Samstag abreisen	10221	i would like to leave on saturday	i would like to leave on saturday	1	1	ST1	A
+ST1-10227	Sag: Ich möchte am Samstagnachmittag abreisen	10227	i would like to leave on saturday in the afternoon	i would like to leave on saturday in the afternoon	1	1	ST1	A
+ST1-10262	Sag: Ich möchte mit Mastercard bezahlen	10262	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST1	A
+ST1-10270	Sag: Ich möchte am Samstagabend abreisen	10270	i would like to leave on saturday evening	i would like to leave on saturday evening	1	1	ST1	A
+ST1-10274	Sag: Ich möchte um 9 Uhr morgen abreisen	10274	i would like to leave at nine o'clock in the morning	i would like to leave at nine o'clock in the morning	1	1	ST1	A
+ST1-10275	Sag: Ich möchte um 9 Uhr morgen abreisen	10275	i would like to leave tomorrow at nine o'clock	i would like to leave tomorrow at nine o'clock	1	1	ST1	A
+ST1-10276	Sag: Ich möchte um 9 Uhr morgen abreisen	10276	i would like to leave at nine o'clock tomorrow	i would like to leave at nine o'clock tomorrow	1	1	ST1	A
+ST1-10280	Sag: Ich möchte am Dienstagnachmittag abreisen	10280	i would like to leave on tuesday in the afternoon	i would like to leave on tuesday in the afternoon	1	1	ST1	A
+ST1-10285	Sag: Ich möchte mit Visa bezahlen	10285	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-10286	Sag: Ich möchte mit Schweizer Franken bezahlen	10286	ok i would like to pay with swiss francs	ok i would like to pay with swiss francs	1	1	ST1	A
+ST1-10299	Sag: Ich möchte mit Mastercard bezahlen	10299	i would like to pay with mastercard	i would like to pay with mastercard	1	1	ST1	A
+ST1-10306	Sag: Ich möchte mit Visa bezahlen	10306	i would like to pay with visa	i would like to pay with visa	1	1	ST1	A
+ST1-10307	Sag: Ich möchte mit Schweizer Franken bezahlen	10307	i would like to pay with swiss francs	i would like to pay with swiss francs	1	1	ST1	A
+ST1-10316	Sag: Ich möchte mit Mastercard bezahlen	10316	i want to p*a i want to pay by mastercard	i want to p i want to pay by mastercard	1	1	ST1	A
+ST1-10317	Sag: Ich möchte mit Mastercard bezahlen	10317	i want to pay by mastercard	i want to pay by mastercard	1	1	ST1	A
+ST1-10332	Sag: Ich möchte mit Postkarte bezahlen	10332	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-10344	Sag: Ich möchte mit Kreditkarte bezahlen	10344	i want to pay by credit card	i want to pay by credit card	1	1	ST1	A
+ST1-10345	Sag: Ich möchte mit Kreditkarte bezahlen	10345	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-10357	Sag: Ich möchte mit Kreditkarte bezahlen	10357	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-10373	Sag: Ich möchte mit Visa bezahlen	10373	i want to pay by visa*z card	i want to pay by visa card	1	1	ST1	A
+ST1-10385	Sag: Ich möchte mit Visa bezahlen	10385	i want to pay by visa*z card	i want to pay by visa card	1	1	ST1	A
+ST1-10386	Sag: Ich möchte mit Visa bezahlen	10386	can i pay by with visa*z	can i pay by with visa	1	1	ST1	A
+ST1-10407	Sag: Ich möchte hinten sitzen	10407	i want to sit in the back	i want to sit in the back	1	1	ST1	A
+ST1-10435	Sag: Ich möchte mit Mastercard bezahlen	10435	i want*z to pay by mastercard	i want to pay by mastercard	1	1	ST1	A
+ST1-10450	Sag: Ich möchte mit Kreditkarte bezahlen	10450	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-10454	Sag: Ich möchte am Freitagabend gehen	10454	i would like to go on friday evening	i would like to go on friday evening	1	1	ST1	A
+ST1-10473	Sag: Ich möchte mit Postkarte bezahlen	10473	i want to pay with post card	i want to pay with post card	1	1	ST1	A
+ST1-10474	Sag: Ich möchte mit Postkarte bezahlen	10474	i want to pay with post card	i want to pay with post card	1	1	ST1	A
+ST1-10475	Sag: Ich möchte mit Postkarte bezahlen	10475	i would like to pay by post card	i would like to pay by post card	1	1	ST1	A
+ST1-10500	Sag: Ich möchte mit Kreditkarte bezahlen	10500	i want to pay with credit card	i want to pay with credit card	1	1	ST1	A
+ST1-10502	Sag: Ich möchte mit Kreditkarte bezahlen	10502	i want to pay with credit card	i want to pay with credit card	1	1	ST1	A
+ST1-10517	Sag: Ich möchte mit Kreditkarte bezahlen	10517	i want to pay with credit card	i want to pay with credit card	1	1	ST1	A
+ST1-10575	Sag: Ich möchte am Sonntagabend gehen	10575	i want to go to the musical on sunday evening	i want to go to the musical on sunday evening	1	1	ST1	A
+ST1-10582	Sag: Ich möchte in der fünften Reihe sitzen	10582	i want to sit in the fifth reihe*v	i want to sit in the fifth row	1	1	ST1	A
+ST1-10589	Sag: Ich möchte mit Visa bezahlen	10589	i want to pay with visa*z	i want to pay with visa	1	1	ST1	A
+ST1-10645	Sag: Ich möchte mit Kreditkarte bezahlen	10645	i want to pay with credit card	i want to pay with credit card	1	1	ST1	A
+ST1-10646	Sag: Ich möchte mit Kreditkarte bezahlen	10646	i want to pay with the credit card	i want to pay with credit card	1	1	ST1	A
+ST1-10647	Sag: Ich möchte mit Kreditkarte bezahlen	10647	can i pay by credit card	can i pay by credit card	1	1	ST1	A
+ST1-10666	Sag: Ich möchte mit dem Manager sprechen	10666	i'd like to speak with the manager	i'd like to speak with the manager	1	1	ST1	A
+ST1-10674	Sag: Ich möchte mit Mastercard bezahlen	10674	i want to pay by master card	i want to pay by mastercard	1	1	ST1	A
+ST1-10681	Sag: Ich möchte mit Postkarte bezahlen	10681	i want to pay by post card	i want to pay by post card	1	1	ST1	A
+ST1-10682	Sag: Ich möchte mit Postkarte bezahlen	10682	i'd like to pay with by post card	i'd like to pay with by post card	1	1	ST1	A
+ST1-10699	Sag: Ich möchte am Sonntagabend abreisen	10699	i want to leave sunday night	i want to leave sunday night	1	1	ST1	A
+ST1-10717	Sag: Ich möchte mit Kreditkarte bezahlen	10717	i'd like to pay by credit card	i'd like to pay by credit card	1	1	ST1	A
+ST1-10718	Sag: Ich möchte mit Schweizer Franken bezahlen	10718	i'd like to pay with swiss francs	i'd like to pay with swiss francs	1	1	ST1	A
+ST1-10719	Sag: Ich möchte mit Schweizer Franken bezahlen	10719	i want to pay with swiss francs	i want to pay with swiss francs	1	1	ST1	A
+ST1-10720	Sag: Ich möchte mit Schweizer Franken bezahlen	10720	i'd like to pay with swiss francs	i'd like to pay with swiss francs	1	1	ST1	A
+ST1-10755	Sag: Ich möchte mit Kreditkarte bezahlen	10755	i'd like to pay by credit card	i'd like to pay by credit card	1	1	ST1	A
+ST1-10769	Sag: Ich möchte mit Mastercard bezahlen	10769	i want*z to pay by master card	i want to pay by mastercard	1	1	ST1	A
+ST1-10770	Sag: Ich möchte mit Dollars bezahlen	10770	i want to pay with dollars	i want to pay with dollars	1	1	ST1	A
+ST1-10771	Sag: Ich möchte mit Dollars bezahlen	10771	i wish to pay with dollars	i wish to pay with dollars	1	1	ST1	A
+ST1-10777	Sag: Ich möchte mit Mastercard bezahlen	10777	i wish to pay with by mastercard	i wish to pay with by mastercard	1	1	ST1	A
+ST1-10778	Sag: Ich möchte mit Schweizer Franken bezahlen	10778	i wish to pay with swiss francs	i wish to pay with swiss francs	1	1	ST1	A
+ST1-10805	Sag: Ich möchte mit Mastercard bezahlen	10805	i wish to pay by mastercard	i wish to pay by mastercard	1	1	ST1	A
+ST1-10810	Sag: Ich möchte vorne sitzen	10810	i want*z to sit in the front	i want to sit in the front	1	1	ST1	A
+ST1-10835	Sag: Ich möchte in der sechsten Reihe sitzen	10835	i would like to sit in the sixth row	i would like to sit in the sixth row	1	1	ST1	A
+ST1-10836	Sag: Ich möchte in der sechsten Reihe sitzen	10836	i want to sit in the sixth row	i want to sit in the sixth row	1	1	ST1	A
+ST1-10874	Sag: Ich möchte mit Postkarte bezahlen	10874	i wish to pay by post card	i wish to pay by post card	1	1	ST1	A
+ST1-10884	Sag: Ich möchte mit Mastercard bezahlen	10884	i wish to pay by mastercard	i wish to pay by mastercard	1	1	ST1	A
+ST1-10894	Sag: Ich möchte mit Kreditkarte bezahlen	10894	i wish to pay by credit card	i wish to pay by credit card	1	1	ST1	A
+ST1-10900	Sag: Ich möchte mit dem Manager sprechen	10900	i'd like to talk to the manager	i'd like to talk to the manager	1	1	ST1	A
+ST1-10901	Sag: Ich möchte mit dem Manager sprechen	10901	i want to talk to the manager	i want to talk to the manager	1	1	ST1	A
+ST1-10910	Sag: Ich möchte mit Postkarte bezahlen	10910	i wish to pay by post card	i wish to pay by post card	1	1	ST1	A
+ST1-10911	Sag: Ich möchte mit Postkarte bezahlen	10911	i wish to pay by post card	i wish to pay by post card	1	1	ST1	A
+ST1-10912	Sag: Ich möchte mit Postkarte bezahlen	10912	i want to pay by post card	i want to pay by post card	1	1	ST1	A
+ST1-10920	Sag: Ich möchte am Montag abreisen	10920	i want to leave on monday	i want to leave on monday	1	1	ST1	A
+ST1-10931	Sag: Ich möchte am Freitagabend abreisen	10931	i want to leave friday night	i want to leave friday night	1	1	ST1	A
+ST1-10956	Sag: Ich möchte mit Mastercard bezahlen	10956	i wish to pay by master card	i wish to pay by mastercard	1	1	ST1	A
+ST1-10971	Sag: Ich möchte am Dienstagmorgen abreisen	10971	i want to leave on tuesday morning	i want to leave on tuesday morning	1	1	ST1	A
+ST1-10978	Sag: Ich möchte am Samstagnachmittag abreisen	10978	i want to leave saturday afternoon	i want to leave saturday afternoon	1	1	ST1	A
+ST1-10983	Sag: Ich möchte nächste Woche abreisen	10983	i want*z to leave next week	i want to leave next week	1	1	ST1	A
+ST1-10991	Sag: Ich möchte am Freitagmorgen abreisen	10991	i want to leave friday morning	i want to leave friday morning	1	1	ST1	A
+ST1-11025	Sag: Ich möchte mit Kreditkarte bezahlen	11025	i wish to pay by credit card	i wish to pay by credit card	1	1	ST1	A
+ST1-11031	Sag: Ich möchte mit Visa bezahlen	11031	i want to pay by visa	i want to pay by visa	1	1	ST1	A
+ST1-11032	Sag: Ich möchte mit Visa bezahlen	11032	i wish to pay by visa card	i wish to pay by visa card	1	1	ST1	A
+ST1-11037	Sag: Ich möchte um 15 Uhr morgen abreisen	11037	i'd like to leave at three o'clock p m tomorrow	i would like to leave at three o'clock p m tomorrow	1	1	ST1	A
+ST1-11044	Sag: Ich möchte mit Kreditkarte bezahlen	11044	i wish to pay by credit card	i wish to pay by credit card	1	1	ST1	A
+ST1-11076	Sag: Ich möchte um 15 Uhr morgen abreisen	11076	i want to leave at three pm tomorrow	i want to leave at three pm tomorrow	1	1	ST1	A
+ST1-11120	Sag: Ich möchte am Dienstagmorgen abreisen	11120	i would like to leave on tuesday morning	i would like to leave on tuesday morning	1	1	ST1	A
+ST1-11165	Sag: Ich möchte am Mittwoch abreisen	11165	i would like to leave on wednesday	i would like to leave on wednesday	1	1	ST1	A
+ST1-11185	Sag: Ich möchte in der ersten Reihe sitzen	11185	i want to sit in the first row	i want to sit in the first row	1	1	ST1	A
+ST1-11290	Sag: Ich möchte am Donnerstagnachmittag abreisen	11290	i want to leave on thursday afternoon	i want to leave on thursday afternoon	1	1	ST1	A
+ST1-11315	Sag: Ich möchte in der achten Reihe sitzen	11315	i would like to sit in the eighth row	i would like to sit in the eighth row	1	1	ST1	A
+ST1-11356	Sag: Ich möchte um 16 Uhr morgen abreisen	11356	i want to leave tomorrow at four o'clock	i want to leave tomorrow at four o'clock	1	1	ST1	A
+ST1-11385	Sag: Ich möchte in der neunten Reihe sitzen	11385	i would like to sit in the ninth row	i would like to sit in the ninth row	1	1	ST1	A
+ST1-11423	Sag: Ich möchte am Samstagabend abreisen	11423	i want to leave on saturday night	i want to leave on saturday night	1	1	ST1	A
+ST1-11424	Sag: Ich möchte am Samstagabend abreisen	11424	i want to leave on saturday night	i want to leave on saturday night	1	1	ST1	A
+ST1-11443	Sag: Ich möchte in der zweiten Reihe sitzen	11443	i want to sit in the second row	i want to sit in the second row	1	1	ST1	A
+ST1-11451	Sag: Ich möchte mit dem Manager sprechen	11451	i would like to speak with the manager	i would like to speak with the manager	1	1	ST1	A
+ST1-11546	Sag: Ich möchte in der sechsten Reihe sitzen	11546	i want to sit in the sixth row	i want to sit in the sixth row	1	1	ST1	A
+ST1-11581	Sag: Ich möchte um 8 Uhr morgen abreisen	11581	i want to leave at eight clock tomorrow	i want to leave at eight o'clock tomorrow	1	1	ST1	A
+ST1-11625	Sag: Ich möchte in der fünften Reihe sitzen	11625	i would like to sit in the fifth row	i would like to sit in the fifth row	1	1	ST1	A
+ST1-11633	Sag: Ich möchte in der zehnten Reihe sitzen	11633	i would like to sit in the tenth row	i would like to sit in the tenth row	1	1	ST1	A
+ST1-11652	Sag: Ich möchte mit dem Manager sprechen	11652	i would like to speak with the manager*v	i would like to speak with manager	1	1	ST1	A
