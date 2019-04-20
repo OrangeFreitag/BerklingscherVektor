@@ -8,6 +8,8 @@ build:
     - pip install polyaxon-client
     - pip install pandas
     - pip install scikit-learn
+    - pip install keras
+    - pip install tensorflow
     
 run:
-  cmd: python model.py --num_epochs=600
+  cmd: python model.py --num_epochs=200
