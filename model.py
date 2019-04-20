@@ -12,62 +12,26 @@ from polyaxon_client.tracking import Experiment, get_log_level, get_data_paths, 
 from polyaxon_client.tracking.contrib.keras import PolyaxonKeras
 import argparse
 
-def clearY(y):
-    clean_input = np.array([]).reshape(0, 1)
-    for data in y:
-        pos1 = data[0]
-        pos2 = data[1]
-        pos3 = data[2]
-        if  pos1 == 1 and pos2 == 0 and pos3 ==0:
-                clean_input = np.vstack((clean_input, [1]))
-        else:
-                clean_input = np.vstack((clean_input, [0]))
-    return clean_input
-
 def evaluate(true_y, pred_y):
-    true_classes = []
-    for array in true_y:
-        if np.array_equal(array,[1, 0, 0]):
-            true_classes.append(0)
-        elif np.array_equal(array,[0, 1, 0]):
-            true_classes.append(1)
-        else:
-            true_classes.append(2)
+    true_classes = true_y
         
     CR, CA, PFA, GFA, FR, k = 0, 0, 0, 0, 0, 3.0
     for idx, prediction in enumerate(pred_y):
         # the students answer is correct in meaning and language
         # the system says the same -> accept
-        if true_classes[idx] == 0 and prediction == 1:
+        if true_classes[idx] == 1 and prediction == 1:
             CA += 1
         # the system says correct meaning wrong language -> reject
-        elif true_classes[idx] == 0 and prediction == 0:
-            FR += 1
-        # the system says incorrect meaning and incorrect language -> reject
-        elif true_classes[idx] == 0 and prediction == 0:
+        elif true_classes[idx] == 1 and prediction == 0:
             FR += 1
 
         # students answer is correct in meaning and wrong in language
         #The system says the same -> reject
-        elif true_classes[idx] == 1 and prediction == 0:
+        elif true_classes[idx] == 0 and prediction == 0:
             CR += 1
         # the system says correct meaning and correct language -> accept
-        elif true_classes[idx] == 1 and prediction == 1:
+        elif true_classes[idx] == 0 and prediction == 1:
             PFA += 1
-        # the system says incorrect meaning and incorrect language -> reject
-        elif true_classes[idx] == 1 and prediction == 0:
-            CR += 1
-
-        # students answer is incorrect in meaning and incorrect in language
-        # the system says the same -> reject
-        elif true_classes[idx] == 2 and prediction == 0:
-            CR += 1
-        # the system says correct meaning correct language -> accept
-        elif true_classes[idx] == 2 and prediction == 1: 
-            GFA += 1
-        # the system says correct meaning incorrect language -> reject
-        elif true_classes[idx] == 2 and prediction == 0:
-            CR += 1
 
     FA = PFA + k * GFA
     Correct = CA + FR
@@ -80,11 +44,11 @@ def evaluate(true_y, pred_y):
     Cr = CR / Z
     Fa = FA / Z
     Fr = FR / Z
-
-    experiment.log_metrics(Ca=Ca)
-    experiment.log_metrics(Cr=Cr)
-    experiment.log_metrics(Fa=Fa)
-    experiment.log_metrics(Fr=Fr)
+    
+    experiment.log_metrics(CA=CA)
+    experiment.log_metrics(CR=CR)
+    experiment.log_metrics(FA=FA)
+    experiment.log_metrics(FR=FR)
 
     P = Ca / (Ca + Fa)
     R = Ca / (Ca + Fr)
@@ -96,7 +60,7 @@ def evaluate(true_y, pred_y):
     
     D = IncorrectRejectionRate / CorrectRejectionRate
     experiment.log_metrics(D=D)
-
+    print(D)
     Da = RCa / RFa
     Df = math.sqrt((Da*D))
     return Df
@@ -124,7 +88,7 @@ if __name__ == '__main__':
 
     parser.add_argument(
         '--num_epochs',
-        default=1,
+        default=10,
         type=int)
 
 args = parser.parse_args()
@@ -154,7 +118,7 @@ scaled_dev_test_x = sc.transform(dev_test_x)
 
 # 3. Build the NN
 classifier = Sequential()
-classifier.add(Dense(64, activation='relu', input_dim=81))
+classifier.add(Dense(64, activation='relu', input_dim=10))
 classifier.add(Dropout(0.2))
 classifier.add(Dense(64, activation='relu'))
 classifier.add(Dropout(0.2))
