@@ -104,6 +104,7 @@ train_y = np.loadtxt("./output/berkling_train_y_DFKI.csv", delimiter='\t', useco
 dev_test_x = np.loadtxt("./output/berkling_test_x_DFKI.csv", delimiter='\t', usecols=range(83)[1:-1], skiprows=1)
 dev_test_y = np.loadtxt("./output/berkling_test_y_DFKI.csv", delimiter='\t', usecols=range(2)[1:], skiprows=1)
 
+print('hello')
 print(train_y)
 
 experiment.log_data_ref(data=train_x, data_name='train_x')
