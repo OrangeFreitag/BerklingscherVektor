@@ -127,7 +127,7 @@ classifier = Sequential()
 classifier.add(Dense(81, activation='relu', input_dim=81))
 #classifier.add(Dropout(0.2))
 classifier.add(Dense(81, activation='relu'))
-#classifier.add(Dropout(0.2))
+classifier.add(Dropout(0.2))
 classifier.add(Dense(1, activation='sigmoid'))
 sgd = SGD(lr=learning_rate, decay=1e-6, momentum=0.9, nesterov=True)
 classifier.compile(loss='binary_crossentropy',
