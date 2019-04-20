@@ -83,7 +83,7 @@ if __name__ == '__main__':
     
     parser.add_argument(
         '--dropout',
-        default=0.25,
+        default=0.2,
         type=float)
 
     parser.add_argument(
@@ -124,10 +124,10 @@ scaled_dev_test_x = sc.transform(dev_test_x)
 
 # 3. Build the NN
 classifier = Sequential()
-classifier.add(Dense(64, activation='relu', input_dim=81))
-classifier.add(Dropout(0.2))
-classifier.add(Dense(64, activation='relu'))
-classifier.add(Dropout(0.2))
+classifier.add(Dense(81, activation='relu', input_dim=81))
+#classifier.add(Dropout(0.2))
+classifier.add(Dense(81, activation='relu'))
+#classifier.add(Dropout(0.2))
 classifier.add(Dense(1, activation='sigmoid'))
 sgd = SGD(lr=learning_rate, decay=1e-6, momentum=0.9, nesterov=True)
 classifier.compile(loss='binary_crossentropy',
