@@ -44,7 +44,7 @@ def evaluate(true_y, pred_y):
     Cr = CR / Z
     Fa = FA / Z
     Fr = FR / Z
-    
+
     experiment.log_metrics(CA=CA)
     experiment.log_metrics(CR=CR)
     experiment.log_metrics(FA=FA)
@@ -118,7 +118,7 @@ scaled_dev_test_x = sc.transform(dev_test_x)
 
 # 3. Build the NN
 classifier = Sequential()
-classifier.add(Dense(64, activation='relu', input_dim=10))
+classifier.add(Dense(64, activation='relu', input_dim=81))
 classifier.add(Dropout(0.2))
 classifier.add(Dense(64, activation='relu'))
 classifier.add(Dropout(0.2))
