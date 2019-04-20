@@ -99,13 +99,16 @@ dropout = arguments.pop('dropout')
 num_epochs = arguments.pop('num_epochs')
 
 # 1. Load Data
-train_x = np.loadtxt("./output/berkling_train_x_DFKI.csv" ,delimiter='\t', usecols=range(83)[1:-1], skiprows=1)
-train_y = np.loadtxt("./output/berkling_train_y_DFKI.csv", delimiter='\t', usecols=range(2)[1:], skiprows=1)
-dev_test_x = np.loadtxt("./output/berkling_test_x_DFKI.csv", delimiter='\t', usecols=range(83)[1:-1], skiprows=1)
-dev_test_y = np.loadtxt("./output/berkling_test_y_DFKI.csv", delimiter='\t', usecols=range(2)[1:], skiprows=1)
+train_x = np.loadtxt("/data/shared-task/berkling_train_x_DFKI.csv" ,delimiter='\t', usecols=range(83)[1:-1], skiprows=1)
+train_y = np.loadtxt("/data/shared-task/berkling_train_y_DFKI.csv", delimiter='\t', usecols=range(2)[1:], skiprows=1)
+dev_test_x = np.loadtxt("/data/shared-task/berkling_test_x_DFKI.csv", delimiter='\t', usecols=range(83)[1:-1], skiprows=1)
+dev_test_y = np.loadtxt("/data/shared-task/berkling_test_y_DFKI.csv", delimiter='\t', usecols=range(2)[1:], skiprows=1)
 
 print('hello')
 print(train_y)
+print('hello')
+
+
 
 experiment.log_data_ref(data=train_x, data_name='train_x')
 experiment.log_data_ref(data=train_y, data_name='train_y')
