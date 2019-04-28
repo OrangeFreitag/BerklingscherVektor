@@ -5,15 +5,15 @@ kind: group
 hptuning:
   concurrency: 10
   random_search:
-    n_experiments: 100
+    n_experiments: 1
     
   matrix:
     lr:
-      logspace: 0.04:0.12:20
+      range: 0.04:0.12:0.02
     dropout:
-      logspace: 0.1:0.4:20
+      range: 0.1:0.4:0.05
     epochs:
-      range: 400:1000:50
+      range: 500:900:50
 
 build:
   image: gw000/keras
@@ -25,4 +25,4 @@ build:
     - pip install tensorflow
     
 run:
-  cmd: python model.py --learning_rate={{ lr }} --batch_size={{ 200 }} --dropout={{ dropout }} --num_epochs={{ epochs }}
+  cmd: python model.py --learning_rate={{ 0.08 }} --batch_size={{ 200 }} --dropout={{ 0.4 }} --num_epochs={{ 800 }}

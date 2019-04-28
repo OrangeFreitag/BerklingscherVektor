@@ -12,4 +12,4 @@ build:
     - pip install tensorflow
     
 run:
-  cmd: python model.py --num_epochs=200
+  cmd: python model_multi.py --num_epochs=200
