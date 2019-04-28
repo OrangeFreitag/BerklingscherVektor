@@ -10,6 +10,20 @@ build:
     - pip install scikit-learn
     - pip install keras
     - pip install tensorflow
-    
+
+#./clusters/Wo 1087 724
+#./clusters/Wieviel 163 108
+#./clusters/Welcher 79 52
+#./clusters/IchWarte 2 16
+#./clusters/Ichmochte 9854 6569
+#./clusters/IchBinHabe 1274 849
+#./clusters/Heisse 787 524
+#./clusters/GibtEs 478 318
+#./clusters/FragEinDenWort 26606 17737
+#./clusters/AzuB 427 284
+#./clusters/AprepB 22006 14670
+#./clusters/AistB 1716 1144
+#./clusters/AinB 1685 1123
+#./clusters/AesB 330 220
 run:
-  cmd: python model_multi.py --num_epochs=200
+  cmd: python model_multi.py --num_epochs=200 --cluster=Wo

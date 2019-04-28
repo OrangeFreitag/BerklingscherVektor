@@ -13,17 +13,6 @@ from polyaxon_client.tracking.contrib.keras import PolyaxonKeras
 import argparse
 import os
 
-def readClusterFoldersFromBaseFolder(path):
-    print("Reading path: ", path)
-    folders = []
-
-    # r=root, d=directories, f = files
-    for r, d, f in os.walk(path):
-        for folder in d:
-            folders.append(os.path.join(r, folder))
-    print("Got ", len(folders), " clusters: ", folders)
-    return folders
-
 def readFiles(folder):
     train_x = np.genfromtxt(folder + "/train_x.csv", delimiter='\t', skip_header=True)[:, 1:]
     train_y = np.loadtxt(folder + "/train_y.csv", delimiter='\t', usecols=range(2)[1:], skiprows=1)
@@ -32,6 +21,12 @@ def readFiles(folder):
     test_y = np.loadtxt(folder + "/test_y.csv", delimiter='\t', usecols=range(2)[1:], skiprows=1)
     
     test_ids = pd.read_csv(folder + "/test_y.csv", delimiter="\t", index_col=0, low_memory=False).index
+
+    experiment.log_data_ref(data=train_x, data_name='train_x')
+    experiment.log_data_ref(data=train_y, data_name='train_y')
+    experiment.log_data_ref(data=test_x, data_name='test_x')
+    experiment.log_data_ref(data=test_y, data_name='test_y')
+
     return train_x, train_y, test_x, test_y, test_ids
 
 def scaleVectors(train_x, test_x):
@@ -43,12 +38,6 @@ def scaleVectors(train_x, test_x):
     return scaled_train_x, scaled_test_x
 
 def trainClassifier(scaled_train_x, train_y):
-    
-    # Hyperparam
-    batch_size = 200
-    learning_rate = 0.05
-    dropout = 0.2
-    num_epochs = 200
     
     # InputSize
     input_dim = len(train_x[0])
@@ -65,7 +54,7 @@ def trainClassifier(scaled_train_x, train_y):
                   optimizer=sgd,
                   metrics=['accuracy'])
     
-    metrics = classifier.fit(scaled_train_x, train_y, batch_size = batch_size, epochs = num_epochs, validation_split=0.1)
+    metrics = classifier.fit(scaled_train_x, train_y, batch_size = batch_size, epochs = num_epochs, validation_split=0.1, callbacks=[PolyaxonKeras(experiment=experiment)])
     return classifier
 
 def evaluate(true_y, pred_y):
@@ -100,10 +89,11 @@ def evaluate(true_y, pred_y):
     Cr = CR / Z
     Fa = FA / Z
     Fr = FR / Z
-    print("CA:",CA)
-    print("CR:",CR)
-    print("FA:",FA)
-    print("FR:",FR)
+
+    experiment.log_metrics(CA=CA)
+    experiment.log_metrics(CR=CR)
+    experiment.log_metrics(FA=FA)
+    experiment.log_metrics(FR=FR)
 
     P = Ca / (Ca + Fa)
     R = Ca / (Ca + Fr)
@@ -117,6 +107,10 @@ def evaluate(true_y, pred_y):
     print(D)
     Da = RCa / RFa
     Df = math.sqrt((Da*D))
+
+    experiment.log_metrics(D=D)
+    experiment.log_metrics(Df=Df)
+
     return Df
 
 def testClassifier(classifier, scaled_test_x, test_y, test_ids):
@@ -126,18 +120,55 @@ def testClassifier(classifier, scaled_test_x, test_y, test_ids):
     return prediction, reality
 
 # Run dat naow
+experiment = Experiment()
 
-clusterFolders = readClusterFoldersFromBaseFolder('/data/shared-task/berkvec/')
+# 0. Read Args
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    
+    parser.add_argument(
+        '--cluster',
+        default='no cluster given',
+        type=str)
+
+    parser.add_argument(
+        '--batch_size',
+        default=128,
+        type=int)
+
+    parser.add_argument(
+        '--learning_rate',
+        default=0.02,
+        type=float)
+    
+    parser.add_argument(
+        '--dropout',
+        default=0.2,
+        type=float)
+
+    parser.add_argument(
+        '--num_epochs',
+        default=10,
+        type=int)
+
+
+# Use args for hyperparameter
+args = parser.parse_args()
+arguments = args.__dict__
+cluster = arguments.pop('cluster')
+batch_size = arguments.pop('batch_size')
+learning_rate = arguments.pop('learning_rate')
+dropout = arguments.pop('dropout')
+num_epochs = arguments.pop('num_epochs')
 
 fullReality = dict()
 fullPrediction = dict()
 
-for folder in clusterFolders:
-    train_x, train_y, test_x, test_y, test_ids = readFiles(folder)
-    scaled_train_x, scaled_test_x = scaleVectors(train_x, test_x)
-    classifier = trainClassifier(scaled_train_x, train_y)
-    prediction, reality = testClassifier(classifier, scaled_test_x, test_y, test_ids.values)
-    fullReality.update(reality)
-    fullPrediction.update(prediction)
+train_x, train_y, test_x, test_y, test_ids = readFiles('/data/shared-task/berkvec/' + cluster)
+scaled_train_x, scaled_test_x = scaleVectors(train_x, test_x)
+classifier = trainClassifier(scaled_train_x, train_y)
+prediction, reality = testClassifier(classifier, scaled_test_x, test_y, test_ids.values)
+fullReality.update(reality)
+fullPrediction.update(prediction)
 
 evaluate(list(fullReality.values()), list(fullPrediction.values()))
