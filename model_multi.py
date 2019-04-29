@@ -97,7 +97,7 @@ def evaluate(true_y, pred_y):
     else:
         CorrectRejectionRate = 'undefined'
 
-    if ( CorrectRejectionRate != 'undefined' and IncorrectRejectionRate != 'undefined' ) :
+    if ( CorrectRejectionRate != 'undefined' or IncorrectRejectionRate != 'undefined' ) :
         D = IncorrectRejectionRate / CorrectRejectionRate 
     else:
         D = 'undefined'
