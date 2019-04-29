@@ -79,6 +79,7 @@ def evaluate(true_y, pred_y):
         IncorrectRejectionRate = 'undefined'
 
     if ( FR + CA ) > 0 :
+        print("FR:",FR, " CA:", CA)
         CorrectRejectionRate = FR / ( FR + CA )
     else:
         CorrectRejectionRate = 'undefined'
