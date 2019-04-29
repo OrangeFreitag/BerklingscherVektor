@@ -87,17 +87,17 @@ def evaluate(true_y, pred_y):
 
     Correct = CA + FR
     Incorrect = CR + GFA + PFA
-    if ( CR + FA ) > 0 :
+    if (( CR + FA ) > 0 and CR > 0):
         IncorrectRejectionRate = CR / ( CR + FA )
     else:
         IncorrectRejectionRate = 'undefined'
 
-    if ( FR + CA ) > 0 :
+    if (( FR + CA ) > 0 and FR > 0):
         CorrectRejectionRate = FR / ( FR + CA )
     else:
         CorrectRejectionRate = 'undefined'
 
-    if ( CorrectRejectionRate != 'undefined' or IncorrectRejectionRate != 'undefined' ) :
+    if ( CorrectRejectionRate != 'undefined' and IncorrectRejectionRate != 'undefined' ) :
         D = IncorrectRejectionRate / CorrectRejectionRate 
     else:
         D = 'undefined'

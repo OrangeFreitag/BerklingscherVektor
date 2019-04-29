@@ -25,8 +25,8 @@ build:
 
 #./clusters/Wo 1087 724
 #./clusters/Wieviel 163 108
-#./clusters/Welcher 79 52  -- 20 -- 32
-#./clusters/IchWarte 2 16 -- 21 -- 33
+#./clusters/Welcher 79 52  -- 20 -- 35
+#./clusters/IchWarte 2 16 -- 21 -- 34
 #./clusters/Ichmochte 9854 6569
 #./clusters/IchBinHabe 1274 849 -- 23
 #./clusters/Heisse 787 524
@@ -39,4 +39,4 @@ build:
 #./clusters/AesB 330 220 -- Group 31
 
 run:
-  cmd: python model_multi.py --learning_rate={{ lr }} --batch_size=2 --dropout={{ do }} --num_epochs={{ epochs }} --cluster=IchWarte
+  cmd: python model_multi.py --learning_rate={{ lr }} --batch_size=10 --dropout={{ do }} --num_epochs={{ epochs }} --cluster=Welcher
