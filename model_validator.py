@@ -127,7 +127,7 @@ fullReality = dict()
 fullPrediction = dict()
 
 for model in readModelPaths('/data/shared-task/berkvec-models'):
-    cluster = folder.rsplit('/', 1)[-1].lsplit('.', 1)[-1]
+    cluster = model.rsplit('/', 1)[-1].lsplit('.', 1)[-1]
 
     test_x, test_y, test_ids = readFiles('/data/shared-task/berkvec/' + cluster)
     scaled_test_x = scaleVectors(test_x)
