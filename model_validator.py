@@ -39,7 +39,7 @@ def scaleVectors(test_x):
     seed = 7
     np.random.seed(seed)
     sc = StandardScaler()
-    scaled_test_x = sc.transform(test_x)
+    scaled_test_x = sc.fit_transform(test_x)
     return scaled_test_x
 
 def evaluate(true_y, pred_y):
