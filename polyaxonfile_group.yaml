@@ -39,4 +39,4 @@ build:
 #./clusters/AesB 330 220 -- Group 31
 
 run:
-  cmd: python model_multi.py --learning_rate={{ lr }} --batch_size=10 --dropout={{ do }} --num_epochs={{ epochs }} --cluster=Welcher
+  cmd: python model_multi.py --learning_rate={{ lr }} --batch_size=2 --dropout={{ do }} --num_epochs={{ epochs }} --cluster=IchWarte
