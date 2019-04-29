@@ -197,7 +197,7 @@ if cluster == 'IchWarte':
     dropout = 0.2
     learning_rate = 0.12
     num_epochs = 300
-if cluster == 'IchMochte':
+if cluster == 'Ichmochte':
     batch_size = 128
     dropout = 0.2
     learning_rate = 0.04
