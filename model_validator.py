@@ -31,7 +31,7 @@ def readModelPaths(path):
     # r=root, d=directories, f = files
     for r, d, f in os.walk(path):
         for model in f:
-            models.append(os.path.join(r, f))
+            models.append(os.path.join(r, model))
     print("Got ", len(models), " clusters: ", models)
     return models
 
