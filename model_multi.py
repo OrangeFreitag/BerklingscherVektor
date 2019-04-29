@@ -87,6 +87,7 @@ def evaluate(true_y, pred_y):
 
     Correct = CA + FR
     Incorrect = CR + GFA + PFA
+    Df = 0
     if (( CR + FA ) > 0 and CR > 0):
         IncorrectRejectionRate = CR / ( CR + FA )
     else:
