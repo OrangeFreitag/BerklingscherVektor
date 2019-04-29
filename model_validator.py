@@ -115,7 +115,7 @@ def evaluate(true_y, pred_y):
 
     experiment.log_metrics(Df=Df)
 
-return Df
+    return Df
 
 def testClassifier(classifier, scaled_test_x, test_y, test_ids):
     test_y_pred = classifier.predict_classes(scaled_test_x)
