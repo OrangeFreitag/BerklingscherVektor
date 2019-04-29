@@ -73,47 +73,49 @@ def evaluate(true_y, pred_y):
 
     Correct = CA + FR
     Incorrect = CR + GFA + PFA
-    Df = 0
-    if (( CR + FA ) > 0 and CR > 0):
+    if ( CR + FA ) > 0 :
         IncorrectRejectionRate = CR / ( CR + FA )
     else:
         IncorrectRejectionRate = 'undefined'
 
-    if (( FR + CA ) > 0 and FR > 0):
+    if ( FR + CA ) > 0 :
         CorrectRejectionRate = FR / ( FR + CA )
     else:
         CorrectRejectionRate = 'undefined'
 
-    if ( CorrectRejectionRate != 'undefined' and IncorrectRejectionRate != 'undefined' and  CorrectRejectionRate != 0) :
+    if ( CorrectRejectionRate != 'undefined' and IncorrectRejectionRate != 'undefined' ) :
         D = IncorrectRejectionRate / CorrectRejectionRate 
-        experiment.log_metrics(D=D)
-        # Further metrics
-        Z = CA + CR + FA + FR
-        Ca = CA / Z
-        Cr = CR / Z
-        Fa = FA / Z
-        Fr = FR / Z
-
-        P = Ca / (Ca + Fa)
-        R = Ca / (Ca + Fr)
-        SA = Ca + Cr
-        F = (2 * P * R)/( P + R)
-        
-        RCa = Ca / (Fr + Ca)
-        RFa = Fa / (Cr + Fa)
-        
-        print(D)    
-        Da = RCa / RFa
-
-        if ( D != 'undefined' ) :
-            Df = math.sqrt((Da*D))
-            experiment.log_metrics(Df=Df)
-        else:
-            Df = 'undefined'
     else:
         D = 'undefined'
 
-    return Df
+    # Further metrics
+    Z = CA + CR + FA + FR
+    Ca = CA / Z
+    Cr = CR / Z
+    Fa = FA / Z
+    Fr = FR / Z
+
+    P = Ca / (Ca + Fa)
+    R = Ca / (Ca + Fr)
+    SA = Ca + Cr
+    F = (2 * P * R)/( P + R)
+    
+    RCa = Ca / (Fr + Ca)
+    RFa = Fa / (Cr + Fa)
+    
+    print(D)
+    experiment.log_metrics(D=D)
+    
+    Da = RCa / RFa
+
+    if ( D != 'undefined' ) :
+        Df = math.sqrt((Da*D))
+    else:
+        Df = 'undefined'
+
+    experiment.log_metrics(Df=Df)
+
+return Df
 
 def testClassifier(classifier, scaled_test_x, test_y, test_ids):
     test_y_pred = classifier.predict_classes(scaled_test_x)
@@ -140,3 +142,5 @@ for model in readModelPaths('/data/shared-task/berkvec-models'):
     fullPrediction.update(prediction)
 
 evaluate(list(fullReality.values()), list(fullPrediction.values()))
+print(fullPrediction)
+experiment.log_metrics(FullPrediction=fullPrediction)
