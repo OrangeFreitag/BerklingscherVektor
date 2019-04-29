@@ -172,22 +172,6 @@ args = parser.parse_args()
 arguments = args.__dict__
 cluster = arguments.pop('cluster')
 
-
-#./clusters/Wo 1087 724
-#./clusters/Wieviel 163 108
-#./clusters/Welcher 79 52  -- 20 -- 40
-#./clusters/IchWarte 2 16 -- 21 -- 39
-#./clusters/Ichmochte 9854 6569
-#./clusters/IchBinHabe 1274 849 -- 23
-#./clusters/Heisse 787 524 -- 24 -- 41, 42
-#./clusters/GibtEs 478 318
-#./clusters/FragEinDenWort 26606 17737 --- Group 26 -- gestartet aber nicht benamst und starred
-#./clusters/AzuB 427 284  -- Group 27
-#./clusters/AprepB 22006 14670 -- Group 28
-#./clusters/AistB 1716 1144 -- Group 29
-#./clusters/AinB 1685 1123 -- Group 30
-#./clusters/AesB 330 220 -- Group 31
-
 batch_size = 128
 dropout = 0.25
 learning_rate = 0.1
@@ -198,13 +182,86 @@ if cluster == 'Wo':
     dropout = 0.25
     learning_rate = 0.1
     num_epochs = 600
+if cluster == 'Wieviel':
+    batch_size = 64
+    dropout = 0.2
+    learning_rate = 0.16
+    num_epochs = 550
+if cluster == 'Welcher':
+    batch_size = 32
+    dropout = 0.2
+    learning_rate = 0.12
+    num_epochs = 250
+if cluster == 'IchWarte':
+    batch_size = 8
+    dropout = 0.2
+    learning_rate = 0.12
+    num_epochs = 300
+if cluster == 'IchMochte':
+    batch_size = 128
+    dropout = 0.2
+    learning_rate = 0.04
+    num_epochs = 650
+if cluster == 'IchBinHabe':
+    batch_size = 128
+    dropout = 0.2
+    learning_rate = 0.1
+    num_epochs = 500
+if cluster == 'Heisse':
+    batch_size = 128
+    dropout = 0.2
+    learning_rate = 0.06
+    num_epochs = 450
+if cluster == 'GibtEs':
+    batch_size = 128
+    dropout = 0.25
+    learning_rate = 0.04
+    num_epochs = 300
+if cluster == 'FragEinDenWort':
+    batch_size = 128
+    dropout = 0.2
+    learning_rate = 0.05
+    num_epochs = 650
+if cluster == 'AzuB':
+    batch_size = 128
+    dropout = 0.2
+    learning_rate = 0.04
+    num_epochs = 500
+if cluster == 'AprepB':
+    batch_size = 128
+    dropout = 0.25
+    learning_rate = 0.02
+    num_epochs = 600
+if cluster == 'AistB':
+    batch_size = 128
+    dropout = 0.2
+    learning_rate = 0.04
+    num_epochs = 450
+if cluster == 'AinB':
+    batch_size = 128
+    dropout = 0.25
+    learning_rate = 0.04
+    num_epochs = 600
+if cluster == 'AesB':
+    batch_size = 128
+    dropout = 0.2
+    learning_rate = 0.03
+    num_epochs = 200
+
 
 fullReality = dict()
 fullPrediction = dict()
 
+
+# Train
 train_x, train_y, test_x, test_y, test_ids = readFiles('/data/shared-task/berkvec/' + cluster)
 scaled_train_x, scaled_test_x = scaleVectors(train_x, test_x)
 classifier = trainClassifier(scaled_train_x, train_y)
+
+# Save
+classifier.save('/data/shared-task/berkvec-models/' + cluster + '.model')
+
+# Test
 prediction, reality = testClassifier(classifier, scaled_test_x, test_y, test_ids.values)
 fullReality.update(reality)
 fullPrediction.update(prediction)
