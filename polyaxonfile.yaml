@@ -26,4 +26,4 @@ build:
 #./clusters/AinB 1685 1123
 #./clusters/AesB 330 220
 run:
-  cmd: python model_multi.py --num_epochs=200 --cluster=Wo
+  cmd: python model_multi_fixed.py --cluster=Wo
