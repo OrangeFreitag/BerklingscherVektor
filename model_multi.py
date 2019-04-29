@@ -98,7 +98,7 @@ def evaluate(true_y, pred_y):
     else:
         CorrectRejectionRate = 'undefined'
 
-    if ( CorrectRejectionRate != 'undefined' and IncorrectRejectionRate != 'undefined' ) :
+    if ( CorrectRejectionRate != 'undefined' and IncorrectRejectionRate != 'undefined' and  CorrectRejectionRate != 0) :
         D = IncorrectRejectionRate / CorrectRejectionRate 
         experiment.log_metrics(D=D)
         # Further metrics

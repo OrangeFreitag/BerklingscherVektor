@@ -10,9 +10,9 @@ hptuning:
     lr:
       range: 0.05:0.2:0.01
     epochs:
-      range: 100:400:50
+      range: 100:600:50
     do:
-      range: 0.2:0.3:0.05
+      range: 0.2:0.4:0.05
 
 build:
   image: gw000/keras
@@ -25,11 +25,11 @@ build:
 
 #./clusters/Wo 1087 724
 #./clusters/Wieviel 163 108
-#./clusters/Welcher 79 52  -- 20 -- 35
-#./clusters/IchWarte 2 16 -- 21 -- 34
+#./clusters/Welcher 79 52  -- 20 -- 40
+#./clusters/IchWarte 2 16 -- 21 -- 39
 #./clusters/Ichmochte 9854 6569
 #./clusters/IchBinHabe 1274 849 -- 23
-#./clusters/Heisse 787 524
+#./clusters/Heisse 787 524 -- 24 -- 41
 #./clusters/GibtEs 478 318
 #./clusters/FragEinDenWort 26606 17737 --- Group 26 -- gestartet aber nicht benamst und starred
 #./clusters/AzuB 427 284  -- Group 27
@@ -39,4 +39,4 @@ build:
 #./clusters/AesB 330 220 -- Group 31
 
 run:
-  cmd: python model_multi.py --learning_rate={{ lr }} --batch_size=2 --dropout={{ do }} --num_epochs={{ epochs }} --cluster=IchWarte
+  cmd: python model_multi.py --learning_rate={{ lr }} --batch_size=10 --dropout={{ do }} --num_epochs={{ epochs }} --cluster=Heisse
