@@ -79,21 +79,35 @@ def evaluate(true_y, pred_y):
             PFA += 1
 
     FA = PFA + k * GFA
+
+    experiment.log_metrics(CA=CA)
+    experiment.log_metrics(CR=CR)
+    experiment.log_metrics(FA=FA)
+    experiment.log_metrics(FR=FR)
+
     Correct = CA + FR
     Incorrect = CR + GFA + PFA
-    IncorrectRejectionRate = CR / ( CR + FA + 0.0 )
-    CorrectRejectionRate = FR / ( FR + CA + 0.0 )
+    if ( CR + FA ) > 0 :
+        IncorrectRejectionRate = CR / ( CR + FA )
+    else:
+        IncorrectRejectionRate = 'undefined'
+
+    if ( FR + CA ) > 0 :
+        CorrectRejectionRate = FR / ( FR + CA )
+    else:
+        CorrectRejectionRate = 'undefined'
+
+    if ( CorrectRejectionRate != 'undefined' and IncorrectRejectionRate != 'undefined' ) :
+        D = IncorrectRejectionRate / CorrectRejectionRate 
+    else:
+        D = 'undefined'
+
     # Further metrics
     Z = CA + CR + FA + FR
     Ca = CA / Z
     Cr = CR / Z
     Fa = FA / Z
     Fr = FR / Z
-
-    experiment.log_metrics(CA=CA)
-    experiment.log_metrics(CR=CR)
-    experiment.log_metrics(FA=FA)
-    experiment.log_metrics(FR=FR)
 
     P = Ca / (Ca + Fa)
     R = Ca / (Ca + Fr)
@@ -103,12 +117,16 @@ def evaluate(true_y, pred_y):
     RCa = Ca / (Fr + Ca)
     RFa = Fa / (Cr + Fa)
     
-    D = IncorrectRejectionRate / CorrectRejectionRate
     print(D)
-    Da = RCa / RFa
-    Df = math.sqrt((Da*D))
-
     experiment.log_metrics(D=D)
+    
+    Da = RCa / RFa
+
+    if ( D != 'undefined' ) :
+        Df = math.sqrt((Da*D))
+    else:
+        Df = 'undefined'
+
     experiment.log_metrics(Df=Df)
 
     return Df

@@ -4,16 +4,15 @@ kind: group
 
 hptuning:
   concurrency: 10
-  random_search:
-    n_experiments: 1
-    
+  grid_search:
+    n_experiments: 50
   matrix:
     lr:
-      range: 0.04:0.12:0.02
-    dropout:
-      range: 0.1:0.4:0.05
+      range: 0.05:0.2:0.01
     epochs:
-      range: 500:900:50
+      range: 100:400:50
+    do:
+      range: 0.2:0.3:0.05
 
 build:
   image: gw000/keras
@@ -23,6 +22,21 @@ build:
     - pip install scikit-learn
     - pip install keras
     - pip install tensorflow
-    
+
+#./clusters/Wo 1087 724
+#./clusters/Wieviel 163 108
+#./clusters/Welcher 79 52  -- 20
+#./clusters/IchWarte 2 16
+#./clusters/Ichmochte 9854 6569
+#./clusters/IchBinHabe 1274 849 -- 23
+#./clusters/Heisse 787 524
+#./clusters/GibtEs 478 318
+#./clusters/FragEinDenWort 26606 17737 --- Group 26 -- gestartet aber nicht benamst und starred
+#./clusters/AzuB 427 284  -- Group 27
+#./clusters/AprepB 22006 14670 -- Group 28
+#./clusters/AistB 1716 1144 -- Group 29
+#./clusters/AinB 1685 1123 -- Group 30
+#./clusters/AesB 330 220 -- Group 31
+
 run:
-  cmd: python model.py --learning_rate={{ 0.08 }} --batch_size={{ 200 }} --dropout={{ 0.4 }} --num_epochs={{ 800 }}
+  cmd: python model_multi.py --learning_rate={{ lr }} --batch_size=10 --dropout={{ do }} --num_epochs={{ epochs }} --cluster=Welcher
