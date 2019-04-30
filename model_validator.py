@@ -74,13 +74,13 @@ def evaluate(true_y, pred_y):
     Correct = CA + FR
     Incorrect = CR + GFA + PFA
     if ( CR + FA ) > 0 :
-        IncorrectRejectionRate = CR / ( CR + FA )
+        IncorrectRejectionRate = CR / ( CR + FA + 0.0)
     else:
         IncorrectRejectionRate = 'undefined'
 
     if ( FR + CA ) > 0 :
         print("FR:",FR, " CA:", CA)
-        CorrectRejectionRate = FR / ( FR + CA )
+        CorrectRejectionRate = FR / ( FR + CA  + 0.0)
     else:
         CorrectRejectionRate = 'undefined'
 
@@ -97,10 +97,10 @@ def evaluate(true_y, pred_y):
     Fa = FA / Z
     Fr = FR / Z
 
-    P = Ca / (Ca + Fa)
+    P = Ca / (Ca + Fa + 0.0)
     R = Ca / (Ca + Fr)
     SA = Ca + Cr
-    F = (2 * P * R)/( P + R)
+    F = (2 * P * R)/( P + R + 0.0)
     
     RCa = Ca / (Fr + Ca)
     RFa = Fa / (Cr + Fa)
