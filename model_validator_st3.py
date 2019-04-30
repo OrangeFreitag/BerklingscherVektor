@@ -15,11 +15,12 @@ import argparse
 import os
 
 def readFiles(folder, cluster):
-    test_x = np.genfromtxt(folder + cluster + "/" + cluster + ".ST3_SYNTAXNET.feature.csv", delimiter='\t', skip_header=True)[:, 1:]
-    
+    test = np.genfromtxt(folder + cluster +  "/test_y.csv", delimiter='\t', skip_header=True)[:, :]
+    test_x = test[:,1:]
+    test_ids = test[:,0:1].flatten()
     experiment.log_data_ref(data=test_x, data_name='test_x')
 
-    return test_x
+    return test_x, test_ids
 
 def readModelPaths(path):
     print("Reading model path: ", path)
@@ -113,7 +114,7 @@ def evaluate(true_y, pred_y):
 
     return Df
 
-def testClassifier(classifier, scaled_test_x):
+def testClassifier(classifier, scaled_test_x, test_ids):
     test_y_pred = classifier.predict_classes(scaled_test_x)
     prediction = dict(zip(test_ids, test_y_pred.flatten()))
     return prediction
@@ -126,12 +127,12 @@ fullPrediction = dict()
 for model in readModelPaths('/data/shared-task/berkvec-models'):
     cluster = model.rsplit('/', 1)[-1].rsplit('.', 1)[0]
 
-    test_x = readFiles('/data/shared-task/clusters_st3/', cluster)
+    test_x, test_ids = readFiles('/data/shared-task/berkvec_st3/', cluster)
     scaled_test_x = scaleVectors(test_x)
     classifier = load_model(model)
 
     # Test
-    prediction = testClassifier(classifier, scaled_test_x)
+    prediction = testClassifier(classifier, scaled_test_x, test_ids)
     fullPrediction.update(prediction)
 
 print(fullPrediction)
