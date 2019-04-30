@@ -126,13 +126,13 @@ fullPrediction = dict()
 
 for model in readModelPaths('/data/shared-task/berkvec-models'):
     cluster = model.rsplit('/', 1)[-1].rsplit('.', 1)[0]
+    if os.path.exists('/data/shared-task/berkvec_st3/' + cluster):
+        test_x, test_ids = readFiles('/data/shared-task/berkvec_st3/', cluster)
+        scaled_test_x = scaleVectors(test_x)
+        classifier = load_model(model)
 
-    test_x, test_ids = readFiles('/data/shared-task/berkvec_st3/', cluster)
-    scaled_test_x = scaleVectors(test_x)
-    classifier = load_model(model)
-
-    # Test
-    prediction = testClassifier(classifier, scaled_test_x, test_ids)
-    fullPrediction.update(prediction)
+        # Test
+        prediction = testClassifier(classifier, scaled_test_x, test_ids)
+        fullPrediction.update(prediction)
 
 print(fullPrediction)
