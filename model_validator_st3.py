@@ -1,0 +1,137 @@
+import numpy as np
+import pandas as pd
+from sklearn.preprocessing import StandardScaler
+import keras
+from keras.models import load_model
+from keras.models import Sequential
+from keras.layers import Dense, Dropout
+from keras.optimizers import SGD
+import math
+from keras.utils.vis_utils import plot_model
+import uuid
+from polyaxon_client.tracking import Experiment, get_log_level, get_data_paths, get_outputs_path
+from polyaxon_client.tracking.contrib.keras import PolyaxonKeras
+import argparse
+import os
+
+def readFiles(folder, cluster):
+    test_x = np.genfromtxt(folder + cluster + "/" + cluster + ".ST3_SYNTAXNET.feature.csv", delimiter='\t', skip_header=True)[:, 1:]
+    
+    experiment.log_data_ref(data=test_x, data_name='test_x')
+
+    return test_x
+
+def readModelPaths(path):
+    print("Reading model path: ", path)
+    models = []
+
+    # r=root, d=directories, f = files
+    for r, d, f in os.walk(path):
+        for model in f:
+            models.append(os.path.join(r, model))
+    print("Got ", len(models), " clusters: ", models)
+    return models
+
+def scaleVectors(test_x):
+    seed = 7
+    np.random.seed(seed)
+    sc = StandardScaler()
+    scaled_test_x = sc.fit_transform(test_x)
+    return scaled_test_x
+
+def evaluate(true_y, pred_y):
+    true_classes = true_y
+        
+    CR, CA, PFA, GFA, FR, k = 0, 0, 0, 0, 0, 3.0
+    for idx, prediction in enumerate(pred_y):
+        # the students answer is correct in meaning and language
+        # the system says the same -> accept
+        if true_classes[idx] == 1 and prediction == 1:
+            CA += 1
+        # the system says correct meaning wrong language -> reject
+        elif true_classes[idx] == 1 and prediction == 0:
+            FR += 1
+
+        # students answer is correct in meaning and wrong in language
+        #The system says the same -> reject
+        elif true_classes[idx] == 0 and prediction == 0:
+            CR += 1
+        # the system says correct meaning and correct language -> accept
+        elif true_classes[idx] == 0 and prediction == 1:
+            PFA += 1
+
+    FA = PFA + k * GFA
+
+    experiment.log_metrics(CA=CA)
+    experiment.log_metrics(CR=CR)
+    experiment.log_metrics(FA=FA)
+    experiment.log_metrics(FR=FR)
+
+    Correct = CA + FR
+    Incorrect = CR + GFA + PFA
+    if ( CR + FA ) > 0 :
+        IncorrectRejectionRate = CR / ( CR + FA + 0.0)
+    else:
+        IncorrectRejectionRate = 'undefined'
+
+    if ( FR + CA ) > 0 :
+        CorrectRejectionRate = FR / ( FR + CA  + 0.0)
+    else:
+        CorrectRejectionRate = 'undefined'
+
+    if ( CorrectRejectionRate != 'undefined' and IncorrectRejectionRate != 'undefined' ) :
+        D = IncorrectRejectionRate / CorrectRejectionRate 
+    else:
+        D = 'undefined'
+
+    # Further metrics
+    Z = CA + CR + FA + FR
+    Ca = CA / Z
+    Cr = CR / Z
+    Fa = FA / Z
+    Fr = FR / Z
+
+    P = Ca / (Ca + Fa + 0.0)
+    R = Ca / (Ca + Fr)
+    SA = Ca + Cr
+    F = (2 * P * R)/( P + R + 0.0)
+    
+    RCa = Ca / (Fr + Ca)
+    RFa = Fa / (Cr + Fa)
+    
+    print(D)
+    experiment.log_metrics(D=D)
+    
+    Da = RCa / RFa
+
+    if ( D != 'undefined' ) :
+        Df = math.sqrt((Da*D))
+    else:
+        Df = 'undefined'
+
+    experiment.log_metrics(Df=Df)
+
+    return Df
+
+def testClassifier(classifier, scaled_test_x):
+    test_y_pred = classifier.predict_classes(scaled_test_x)
+    prediction = dict(zip(test_ids, test_y_pred.flatten()))
+    return prediction
+
+# Run dat naow
+experiment = Experiment()
+
+fullPrediction = dict()
+
+for model in readModelPaths('/data/shared-task/berkvec-models'):
+    cluster = model.rsplit('/', 1)[-1].rsplit('.', 1)[0]
+
+    test_x = readFiles('/data/shared-task/clusters_st3/', cluster)
+    scaled_test_x = scaleVectors(test_x)
+    classifier = load_model(model)
+
+    # Test
+    prediction = testClassifier(classifier, scaled_test_x)
+    fullPrediction.update(prediction)
+
+print(fullPrediction)
