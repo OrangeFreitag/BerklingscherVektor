@@ -79,13 +79,11 @@ def evaluate(true_y, pred_y):
         IncorrectRejectionRate = 'undefined'
 
     if ( FR + CA ) > 0 :
-        print("FR:",FR, " CA:", CA)
         CorrectRejectionRate = FR / ( FR + CA  + 0.0)
     else:
         CorrectRejectionRate = 'undefined'
 
     if ( CorrectRejectionRate != 'undefined' and IncorrectRejectionRate != 'undefined' ) :
-        print("IRR:", IncorrectRejectionRate, " CRR:", CorrectRejectionRate)
         D = IncorrectRejectionRate / CorrectRejectionRate 
     else:
         D = 'undefined'
@@ -145,4 +143,3 @@ for model in readModelPaths('/data/shared-task/berkvec-models'):
 
 evaluate(list(fullReality.values()), list(fullPrediction.values()))
 print(fullPrediction)
-experiment.log_metrics(FullPrediction=fullPrediction)
