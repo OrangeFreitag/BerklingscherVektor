@@ -275,7 +275,7 @@ fullPrediction.update(prediction)
 eval_y_pred = classifier.predict_classes(scaled_eval)
 eval_pred = dict(zip(eval_ids.flatten(), eval_y_pred.flatten()))
 print("")
-print(eval_pred)
+print("\nallValPreds.update(", eval_pred, ")")
 print("")
 
 evaluate(list(fullReality.values()), list(fullPrediction.values()))
