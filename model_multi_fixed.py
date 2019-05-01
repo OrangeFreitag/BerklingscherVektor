@@ -172,10 +172,10 @@ args = parser.parse_args()
 arguments = args.__dict__
 cluster = arguments.pop('cluster')
 
-batch_size = 128
-dropout = 0.25
-learning_rate = 0.1
-num_epochs = 600
+batch_size = None
+dropout = None
+learning_rate = None
+num_epochs = None
 
 if cluster == 'Wo':
     batch_size = 128
