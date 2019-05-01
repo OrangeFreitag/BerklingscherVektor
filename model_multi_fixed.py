@@ -272,8 +272,8 @@ fullReality.update(reality)
 fullPrediction.update(prediction)
 
 # Eval
-eval_y_pred = classifier.predict_classes(scaled_test_x)
-eval_pred = dict(zip(eval_ids, test_y_pred.flatten()))
+eval_y_pred = classifier.predict_classes(scaled_eval)
+eval_pred = dict(zip(eval_ids, eval_y_pred.flatten()))
 print("")
 print(eval_pred)
 print("")
