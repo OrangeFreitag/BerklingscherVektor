@@ -22,20 +22,25 @@ def readFiles(folder):
     
     test_ids = pd.read_csv(folder + "/test_y.csv", delimiter="\t", index_col=0, low_memory=False).index
 
+    eval = np.genfromtxt('/data/shared-task/berkvec_st3/' + cluster +  "/test_y.csv", delimiter='\t', skip_header=True)[:, 1:]
+    eval_ids = np.genfromtxt('/data/shared-task/berkvec_st3/' + cluster +  "/test_y.csv", delimiter='\t', skip_header=True)[:, 0:1]
+
     experiment.log_data_ref(data=train_x, data_name='train_x')
     experiment.log_data_ref(data=train_y, data_name='train_y')
     experiment.log_data_ref(data=test_x, data_name='test_x')
     experiment.log_data_ref(data=test_y, data_name='test_y')
+    experiment.log_data_ref(data=eval, data_name='eval')
 
-    return train_x, train_y, test_x, test_y, test_ids
+    return train_x, train_y, test_x, test_y, test_ids, eval, eval_ids
 
-def scaleVectors(train_x, test_x):
+def scaleVectors(train_x, test_x, eval):
     seed = 7
     np.random.seed(seed)
     sc = StandardScaler()
     scaled_train_x = sc.fit_transform(train_x)
     scaled_test_x = sc.transform(test_x)
-    return scaled_train_x, scaled_test_x
+    scaled_eval = sc.transform(eval)
+    return scaled_train_x, scaled_test_x, scaled_eval
 
 def trainClassifier(scaled_train_x, train_y):
     
@@ -254,8 +259,8 @@ fullPrediction = dict()
 
 
 # Train
-train_x, train_y, test_x, test_y, test_ids = readFiles('/data/shared-task/berkvec/' + cluster)
-scaled_train_x, scaled_test_x = scaleVectors(train_x, test_x)
+train_x, train_y, test_x, test_y, test_ids, eval, eval_ids = readFiles('/data/shared-task/berkvec/' + cluster)
+scaled_train_x, scaled_test_x, scaled_eval = scaleVectors(train_x, test_x, eval)
 classifier = trainClassifier(scaled_train_x, train_y)
 
 # Save
@@ -265,5 +270,12 @@ classifier.save('/data/shared-task/berkvec-models/' + cluster + '.model')
 prediction, reality = testClassifier(classifier, scaled_test_x, test_y, test_ids.values)
 fullReality.update(reality)
 fullPrediction.update(prediction)
+
+# Eval
+eval_y_pred = classifier.predict_classes(scaled_test_x)
+eval_pred = dict(zip(eval_ids, test_y_pred.flatten()))
+print("")
+print(eval_pred)
+print("")
 
 evaluate(list(fullReality.values()), list(fullPrediction.values()))
