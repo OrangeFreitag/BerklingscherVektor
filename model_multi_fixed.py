@@ -259,12 +259,12 @@ fullPrediction = dict()
 
 
 # Train
-train_x, train_y, test_x, test_y, test_ids, eval, eval_ids = readFiles('/data/shared-task/berkvec/' + cluster)
+train_x, train_y, test_x, test_y, test_ids, eval, eval_ids = readFiles('/data/shared-task/berkvecDH/' + cluster)
 scaled_train_x, scaled_test_x, scaled_eval = scaleVectors(train_x, test_x, eval)
 classifier = trainClassifier(scaled_train_x, train_y)
 
 # Save
-classifier.save('/data/shared-task/berkvec-models/' + cluster + '.model')
+#classifier.save('/data/shared-task/berkvec-models/' + cluster + '.model')
 
 # Test
 prediction, reality = testClassifier(classifier, scaled_test_x, test_y, test_ids.values)
