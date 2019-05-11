@@ -90,12 +90,12 @@ def evaluate(true_y, pred_y):
     Incorrect = CR + GFA + PFA
     Df = 0
     if (( CR + FA ) > 0 and CR > 0):
-        IncorrectRejectionRate = CR / ( CR + FA )
+        IncorrectRejectionRate = CR / ( CR + FA + 0.0)
     else:
         IncorrectRejectionRate = 'undefined'
 
     if (( FR + CA ) > 0 and FR > 0):
-        CorrectRejectionRate = FR / ( FR + CA )
+        CorrectRejectionRate = FR / ( FR + CA  + 0.0)
     else:
         CorrectRejectionRate = 'undefined'
 
@@ -109,16 +109,16 @@ def evaluate(true_y, pred_y):
         Fa = FA / Z
         Fr = FR / Z
 
-        P = Ca / (Ca + Fa)
-        R = Ca / (Ca + Fr)
+        P = Ca / (Ca + Fa + 0.0)
+        R = Ca / (Ca + Fr + 0.0)
         SA = Ca + Cr
-        F = (2 * P * R)/( P + R)
+        F = (2 * P * R)/( P + R + 0.0)
         
-        RCa = Ca / (Fr + Ca)
-        RFa = Fa / (Cr + Fa)
+        RCa = Ca / (Fr + Ca + 0.0)
+        RFa = Fa / (Cr + Fa + 0.0)
         
         print(D)    
-        Da = RCa / RFa
+        Da = RCa / (RFa + 0.0)
 
         if ( D != 'undefined' ) :
             Df = math.sqrt((Da*D))
@@ -129,6 +129,12 @@ def evaluate(true_y, pred_y):
         D = 'undefined'
 
     return Df
+
+def testClassifier(classifier, scaled_test_x, test_y, test_ids):
+    test_y_pred = classifier.predict_classes(scaled_test_x)
+    prediction = dict(zip(test_ids, test_y_pred.flatten()))
+    reality = dict(zip(test_ids, test_y))
+    return prediction, reality
 
 def testClassifier(classifier, scaled_test_x, test_y, test_ids):
     test_y_pred = classifier.predict_classes(scaled_test_x)
@@ -181,7 +187,7 @@ num_epochs = arguments.pop('num_epochs')
 fullReality = dict()
 fullPrediction = dict()
 
-train_x, train_y, test_x, test_y, test_ids = readFiles('/data/shared-task/berkvec/' + cluster)
+train_x, train_y, test_x, test_y, test_ids = readFiles('/data/shared-task/berkvecDH/' + cluster)
 scaled_train_x, scaled_test_x = scaleVectors(train_x, test_x)
 classifier = trainClassifier(scaled_train_x, train_y)
 prediction, reality = testClassifier(classifier, scaled_test_x, test_y, test_ids.values)
