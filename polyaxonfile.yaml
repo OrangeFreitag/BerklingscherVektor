@@ -25,5 +25,21 @@ build:
 #./clusters/AistB 1716 1144
 #./clusters/AinB 1685 1123
 #./clusters/AesB 330 220
+
+#./DELIVER_DH/Wo 1207 804
+#./DELIVER_DH/Wieviel 181 120
+#./DELIVER_DH/Welcher 98 65
+#./DELIVER_DH/IchWarte 2 16
+#./DELIVER_DH/Ichmochte 10069 6712
+#./DELIVER_DH/IchBinHabe 1428 952
+#./DELIVER_DH/Heisse 864 576
+#./DELIVER_DH/GibtEs 556 370
+#./DELIVER_DH/AzuB 442 294
+#./DELIVER_DH/FragEinDenWort 27005 18003
+#./DELIVER_DH/AprepB 22255 14836
+#./DELIVER_DH/AistB 1820 1213
+#./DELIVER_DH/AinB 1694 1129
+#./DELIVER_DH/AesB 362 241
+
 run:
-  cmd: python model_multi_fixed.py --cluster=AesB
+  cmd: python model_multi_fixed.py --cluster=Wo

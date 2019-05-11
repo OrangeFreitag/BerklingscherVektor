@@ -51,6 +51,7 @@ def trainClassifier(scaled_train_x, train_y):
     # Structure
     classifier = Sequential()
     classifier.add(Dense(layer_dim, activation='relu', input_dim=input_dim))
+    classifier.add(Dropout(dropout))
     classifier.add(Dense(layer_dim, activation='relu'))
     classifier.add(Dropout(dropout))
     classifier.add(Dense(1, activation='sigmoid'))
@@ -94,12 +95,12 @@ def evaluate(true_y, pred_y):
     Incorrect = CR + GFA + PFA
     Df = 0
     if (( CR + FA ) > 0 and CR > 0):
-        IncorrectRejectionRate = CR / ( CR + FA )
+        IncorrectRejectionRate = CR / ( CR + FA + 0.0)
     else:
         IncorrectRejectionRate = 'undefined'
 
     if (( FR + CA ) > 0 and FR > 0):
-        CorrectRejectionRate = FR / ( FR + CA )
+        CorrectRejectionRate = FR / ( FR + CA  + 0.0)
     else:
         CorrectRejectionRate = 'undefined'
 
@@ -113,16 +114,16 @@ def evaluate(true_y, pred_y):
         Fa = FA / Z
         Fr = FR / Z
 
-        P = Ca / (Ca + Fa)
-        R = Ca / (Ca + Fr)
+        P = Ca / (Ca + Fa + 0.0)
+        R = Ca / (Ca + Fr + 0.0)
         SA = Ca + Cr
-        F = (2 * P * R)/( P + R)
+        F = (2 * P * R)/( P + R + 0.0)
         
-        RCa = Ca / (Fr + Ca)
-        RFa = Fa / (Cr + Fa)
+        RCa = Ca / (Fr + Ca + 0.0)
+        RFa = Fa / (Cr + Fa + 0.0)
         
         print(D)    
-        Da = RCa / RFa
+        Da = RCa / (RFa + 0.0)
 
         if ( D != 'undefined' ) :
             Df = math.sqrt((Da*D))

@@ -46,6 +46,7 @@ def trainClassifier(scaled_train_x, train_y):
     # Structure
     classifier = Sequential()
     classifier.add(Dense(layer_dim, activation='relu', input_dim=input_dim))
+    classifier.add(Dropout(dropout))
     classifier.add(Dense(layer_dim, activation='relu'))
     classifier.add(Dropout(dropout))
     classifier.add(Dense(1, activation='sigmoid'))
