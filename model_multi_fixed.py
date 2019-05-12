@@ -222,7 +222,7 @@ if cluster == 'GibtEs':#92
     dropout = 0.1
     learning_rate = 0.04
     num_epochs = 600
-if cluster == 'FragEinDenWort':#89
+if cluster == 'FragEinDenWort':#87
     batch_size = 128
     dropout = 0.1
     learning_rate = 0.07
@@ -275,7 +275,7 @@ fullPrediction.update(prediction)
 eval_y_pred = classifier.predict_classes(scaled_eval)
 eval_pred = dict(zip(eval_ids.flatten(), eval_y_pred.flatten()))
 print("")
-print(cluster, "= {", eval_pred, "}")
+print("{} = {}".format(cluster, eval_pred))
 print("")
 
 evaluate(list(fullReality.values()), list(fullPrediction.values()))
