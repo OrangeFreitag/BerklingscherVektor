@@ -183,75 +183,74 @@ dropout = None
 learning_rate = None
 num_epochs = None
 
-if cluster == 'Wo':
+if cluster == 'Wo':#90
     batch_size = 128
-    dropout = 0.25
-    learning_rate = 0.1
-    num_epochs = 600
-if cluster == 'Wieviel':
-    batch_size = 64
-    dropout = 0.2
-    learning_rate = 0.16
-    num_epochs = 550
-if cluster == 'Welcher':
-    batch_size = 32
-    dropout = 0.2
-    learning_rate = 0.12
-    num_epochs = 250
-if cluster == 'IchWarte':
-    batch_size = 8
-    dropout = 0.2
-    learning_rate = 0.12
-    num_epochs = 300
-if cluster == 'Ichmochte':
-    batch_size = 128
-    dropout = 0.2
-    learning_rate = 0.04
-    num_epochs = 650
-if cluster == 'IchBinHabe':
-    batch_size = 128
-    dropout = 0.2
-    learning_rate = 0.1
-    num_epochs = 500
-if cluster == 'Heisse':
-    batch_size = 128
-    dropout = 0.2
-    learning_rate = 0.06
-    num_epochs = 450
-if cluster == 'GibtEs':
-    batch_size = 128
-    dropout = 0.25
-    learning_rate = 0.04
-    num_epochs = 300
-if cluster == 'FragEinDenWort':
-    batch_size = 128
-    dropout = 0.2
+    dropout = 0.15
     learning_rate = 0.05
-    num_epochs = 650
-if cluster == 'AzuB':
+    num_epochs = 450
+if cluster == 'Wieviel':#81
+    batch_size = 64
+    dropout = 0.15
+    learning_rate = 0.5
+    num_epochs = 300
+if cluster == 'Welcher':#81
+    batch_size = 32
+    dropout = 0.12
+    learning_rate = 0.07
+    num_epochs = 400
+if cluster == 'IchWarte':#1
+    batch_size = 8
+    dropout = 0.1
+    learning_rate = 0.12
+    num_epochs = 300
+if cluster == 'Ichmochte':#87
     batch_size = 128
-    dropout = 0.2
+    dropout = 0.1
     learning_rate = 0.04
-    num_epochs = 500
-if cluster == 'AprepB':
+    num_epochs = 650
+if cluster == 'IchBinHabe':#91
     batch_size = 128
-    dropout = 0.25
+    dropout = 0.1
+    learning_rate = 0.02
+    num_epochs = 550
+if cluster == 'Heisse':#90
+    dropout = 0.1
+    learning_rate = 0.07
+    num_epochs = 200
+if cluster == 'GibtEs':#92
+    batch_size = 128
+    dropout = 0.1
+    learning_rate = 0.04
+    num_epochs = 600
+if cluster == 'FragEinDenWort':#89
+    batch_size = 128
+    dropout = 0.1
+    learning_rate = 0.07
+    num_epochs = 400
+if cluster == 'AzuB':#92
+    batch_size = 128
+    dropout = 0.15
+    learning_rate = 0.06
+    num_epochs = 550
+if cluster == 'AprepB':#88
+    batch_size = 128
+    dropout = 0.1
+    learning_rate = 0.03
+    num_epochs = 650
+if cluster == 'AistB':#87
+    batch_size = 128
+    dropout = 0.1
+    learning_rate = 0.03
+    num_epochs = 600
+if cluster == 'AinB':#80
+    batch_size = 128
+    dropout = 0.15
     learning_rate = 0.02
     num_epochs = 600
-if cluster == 'AistB':
+if cluster == 'AesB':#89
     batch_size = 128
-    dropout = 0.2
-    learning_rate = 0.04
-    num_epochs = 450
-if cluster == 'AinB':
-    batch_size = 128
-    dropout = 0.25
-    learning_rate = 0.04
-    num_epochs = 600
-if cluster == 'AesB':
-    batch_size = 128
-    dropout = 0.2
-    learning_rate = 0.03
+    dropout = 0.1
+    learning_rate = 0.05
     num_epochs = 200
 
 
@@ -276,7 +275,7 @@ fullPrediction.update(prediction)
 eval_y_pred = classifier.predict_classes(scaled_eval)
 eval_pred = dict(zip(eval_ids.flatten(), eval_y_pred.flatten()))
 print("")
-print("allValPreds.update(", eval_pred, ")")
+print(cluster, "= {", eval_pred, "}")
 print("")
 
 evaluate(list(fullReality.values()), list(fullPrediction.values()))

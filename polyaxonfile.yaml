@@ -42,4 +42,4 @@ build:
 #./DELIVER_DH/AesB 362 241
 
 run:
-  cmd: python model_multi_fixed.py --cluster=Wo
+  cmd: python model_multi_fixed.py --cluster=FragEinDenWort

@@ -5,7 +5,7 @@ kind: group
 hptuning:
   concurrency: 10
   grid_search:
-    n_experiments: 50
+    n_experiments: 200
   matrix:
     lr:
       range: 0.02:0.15:0.01
@@ -22,7 +22,7 @@ build:
     - pip install scikit-learn
     - pip install keras
     - pip install tensorflow
-10
+
 #./clusters/Wo 1087 724
 #./clusters/Wieviel 163 108
 #./clusters/Welcher 79 52  -- 20 -- 40
@@ -39,4 +39,4 @@ build:
 #./clusters/AesB 330 220 -- Group 31
 
 run:
-  cmd: python model_multi.py --learning_rate={{ lr }} --batch_size=128 --dropout={{ do }} --num_epochs={{ epochs }} --cluster=Wo
+  cmd: python model_multi.py --learning_rate={{ lr }} --batch_size=128 --dropout={{ do }} --num_epochs={{ epochs }} --cluster=FragEinDenWort
